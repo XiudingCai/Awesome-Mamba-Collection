@@ -46,8 +46,8 @@ Feel free to modify and customize this introduction according to your preference
 
 ### Other Awesome Mamba List
 
-* [caojiaolong/Awesome-Mamba: Collect papers about Mamba (a selective state space model). (github.com)](https://github.com/caojiaolong/Awesome-Mamba?tab=readme-ov-file)
-* [GitHub - AvivBick/awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)
+* awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
+* Awesome-Mamba: Collect papers about Mamba [[URL](https://github.com/caojiaolong/Awesome-Mamba)]
 
 ## Contributions
 
