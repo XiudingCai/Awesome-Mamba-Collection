@@ -2,6 +2,10 @@
 
 ![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/XiudingCai/Awesome-Mamba-Collection)
 
+Welcome to Awesome Mamba Resources! This repository is a curated collection of papers, tutorials, videos, and other valuable resources related to Mamba. Whether you're a beginner or an experienced user, this collection aims to provide a comprehensive reference for all things Mamba. Explore the latest research papers, dive into helpful tutorials, and discover insightful videos to enhance your understanding and proficiency in Mamba. Join us in this open collaboration to foster knowledge sharing and empower the Mamba community. Let's embark on an exciting journey with Mamba!
+
+Feel free to modify and customize this introduction according to your preferences. Good luck with your repository! If you have any other questions, feel free to ask. -by ChatGPT
+
 ## Papers
 
 ### Architecture
@@ -40,15 +44,28 @@
 * S4: Efficiently Modeling Long Sequences with Structured State Spaces | Albert Gu [[URL](https://www.youtube.com/watch?v=luCBXCErkCs)]
 * Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math [[URL](https://www.youtube.com/watch?v=8Q_tqwpTpVU)]
 
-Welcome to Awesome Mamba Resources! This repository is a curated collection of papers, tutorials, videos, and other valuable resources related to Mamba. Whether you're a beginner or an experienced user, this collection aims to provide a comprehensive reference for all things Mamba. Explore the latest research papers, dive into helpful tutorials, and discover insightful videos to enhance your understanding and proficiency in Mamba. Join us in this open collaboration to foster knowledge sharing and empower the Mamba community. Let's embark on an exciting journey with Mamba!
-
-Feel free to modify and customize this introduction according to your preferences. Good luck with your repository! If you have any other questions, feel free to ask.
-
 ### Other Awesome Mamba List
 
 * [caojiaolong/Awesome-Mamba: Collect papers about Mamba (a selective state space model). (github.com)](https://github.com/caojiaolong/Awesome-Mamba?tab=readme-ov-file)
 * [GitHub - AvivBick/awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)
 
+## Contributions
+
+🎉 Thank you for considering contributing to our Awesome State Space Models for Machine Learning repository! 🚀
+
+### Contribute in 3 Steps:
+
+1. **Fork the Repo:** Fork this repo to your GitHub account.
+2. **Edit Content:** Contribute by adding new resources or improving existing content in the `README.md` file.
+3. **Create a Pull Request:** Open a pull request (PR) from your branch to the main repository.
+
+### Guidelines
+
+- Follow the existing structure and formatting.
+- Ensure added resources are relevant to State Space Models in Machine Learning.
+- Verify that links work correctly.
+
 ## Acknowledgement
 
-Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
+
