@@ -44,6 +44,11 @@ Feel free to modify and customize this introduction according to your preference
 * S4: Efficiently Modeling Long Sequences with Structured State Spaces | Albert Gu [[URL](https://www.youtube.com/watch?v=luCBXCErkCs)]
 * Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math [[URL](https://www.youtube.com/watch?v=8Q_tqwpTpVU)]
 
+### Books
+
+* Linear State‐Space Control Systems [[URL](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)]
+* Modeling sequences with structured state spaces [[URL](https://searchworks.stanford.edu/view/14784021)]
+
 ### Other Awesome Mamba List
 
 * awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
