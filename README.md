@@ -49,6 +49,13 @@ Feel free to modify and customize this introduction according to your preference
 * Linear State‐Space Control Systems [[URL](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)]
 * Modeling sequences with structured state spaces [[URL](https://searchworks.stanford.edu/view/14784021)]
 
+### Codes
+
+* The official Mamba Repository is currently only available for Linux. [[URL](https://github.com/state-spaces/mamba)]
+* If you are searching for a runnable implementation not focused on speed,
+  * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
+  * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
+
 ### Other Awesome Mamba List
 
 * awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
