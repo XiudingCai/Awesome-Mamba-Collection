@@ -33,6 +33,10 @@ Feel free to modify and customize this introduction according to your preference
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
 
+### Graph
+
+* Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] (2024.02.01)
+
 ## Tutorials
 
 ### Blogs
@@ -63,7 +67,7 @@ Feel free to modify and customize this introduction according to your preference
 
 ## Contributions
 
-🎉 Thank you for considering contributing to our Awesome State Space Models for Machine Learning repository! 🚀
+🎉 Thank you for considering contributing to our Awesome Mamba Collection repository! 🚀
 
 ### Contribute in 3 Steps:
 
