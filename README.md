@@ -35,7 +35,7 @@ Feel free to modify and customize this introduction according to your preference
 
 ### Graph
 
-* Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] (2024.02.01)
+* Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)] (2024.02.01)
 
 ## Tutorials
 
