@@ -42,6 +42,7 @@ Feel free to modify and customize this introduction according to your preference
 - FD-Vision Mamba for Endoscopic Exposure Correction [[paper](https://arxiv.org/abs/2402.06378)] (2024.02.09)
 - Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation [[paper](https://arxiv.org/abs/2402.07245)] [[code](https://github.com/ziyangwang007/mamba-unet)] (2024.02.11)
 - P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [[paper](https://arxiv.org/abs/2402.08506)] (2024.02.13)
+- Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation [[paper](https://arxiv.org/abs/2402.10887)] [[code](https://github.com/ziyangwang007/mamba-unet)] (2024.02.11)
 
 ### Tabular Data
 
@@ -51,6 +52,10 @@ Feel free to modify and customize this introduction according to your preference
 
 * Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)] (2024.02.01)
 * Graph Mamba: Towards Learning on Graphs with State Space Models [[paper](https://arxiv.org/abs/2402.08678)] [[code](https://github.com/graphmamba/gmn)] (2024.02.13)
+
+### Point Cloud
+
+* PointMamba: A Simple State Space Model for Point Cloud Analysis [[paper](https://arxiv.org/abs/2402.10739)] (2024.02.16)
 
 ## Tutorials
 
