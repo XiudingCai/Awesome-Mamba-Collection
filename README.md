@@ -22,6 +22,7 @@ Feel free to modify and customize this introduction according to your preference
 - U-shaped Vision Mamba for Single Image Dehazing [[paper](https://arxiv.org/abs/2402.04139)] (2024.02.06)
 - Scalable Diffusion Models with State Space Backbone [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/dis)] (2024.02.08)
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[paper](https://arxiv.org/abs/2402.05892)] (2024.02.08)
+- Pan-Mamba: Effective pan-sharpening with State Space Model [[paper](https://arxiv.org/abs/2402.12192)] (2024.02.19)
 
 ### Language
 
