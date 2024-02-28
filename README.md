@@ -22,6 +22,8 @@ Feel free to modify and customize this introduction according to your preference
 - U-shaped Vision Mamba for Single Image Dehazing [[paper](https://arxiv.org/abs/2402.04139)] (2024.02.06)
 - Scalable Diffusion Models with State Space Backbone [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/dis)] (2024.02.08)
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[paper](https://arxiv.org/abs/2402.05892)] (2024.02.08)
+- MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[paper](https://arxiv.org/abs/2402.15648)] [[code](https://github.com/csguoh/mambair)] (2024.02.23)
+- Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [[paper](https://arxiv.org/abs/2402.15761v1)] [[code](https://github.com/chishengchen/resvmamba)] (2024.02.24)
 
 ### Language
 
