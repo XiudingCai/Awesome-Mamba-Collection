@@ -53,6 +53,8 @@ Feel free to modify and customize this introduction according to your preference
 
   [[Paper](https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1)] [[Huggingface](https://huggingface.co/ChatterjeeLab/PTM-Mamba)] [[code](https://github.com/programmablebio/ptm-mamba)] (2024.02.28)
 
+- MedMamba: Vision Mamba for Medical Image Classification [[paper](https://arxiv.org/abs/2403.03849)] [[code](https://github.com/YubiaoYue/MedMamba)] (2024.03.06)
+
 ### Tabular Data
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -70,6 +72,10 @@ Feel free to modify and customize this introduction according to your preference
 ### Time Series
 
 * MambaStock: Selective state space model for stock prediction [[paper](https://arxiv.org/abs/2402.18959)] [[code](https://github.com/zshicode/MambaStock)] (2024.02.29)
+
+### Recommendation 
+
+* Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.03900)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06)
 
 ## Tutorials
 
