@@ -14,6 +14,7 @@ Feel free to modify and customize this introduction according to your preference
 * MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [[paper](https://arxiv.org/abs/2401.04081)] [[code](https://github.com/llm-random/llm-random)] (2024.01.08)
 * BlackMamba: Mixture of Experts for State-Space Models [[paper](https://arxiv.org/abs/2402.01771)] [[code](https://github.com/zyphra/blackmamba)] (2024.02.01)
 * Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling [[paper](https://arxiv.org/abs/2402.10211)] [[homepage](https://hiss-csp.github.io/)] (2024.02.15)
+* DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [[paper](https://arxiv.org/abs/2403.00818)] [[code](https://github.com/WailordHe/DenseSSM)] (2024.02.26)
 * Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/abs/2402.19427)] [[code](https://github.com/kyegomez/Griffin)] (2024.02.29)
 
 ### Vision
