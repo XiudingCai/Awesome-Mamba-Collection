@@ -30,9 +30,11 @@ Feel free to modify and customize this introduction according to your preference
 - MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [[paper](https://arxiv.org/abs/2403.02148)] [[code](https://github.com/txchen-USTC/MiM-ISTD)] (2024.03.04)
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba)] (2024.03.12)
 - Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding [[paper](https://arxiv.org/abs/2403.09626)] [[code](https://github.com/opengvlab/video-mamba-suite)] (2024.03.12)
+- LocalMamba: Visual State Space Model with Windowed Selective Scan [[paper](https://arxiv.org/abs/2403.09338)] [[code](https://github.com/hunto/LocalMamba)] (2024.03.14)
 - EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba [[paper](https://arxiv.org/abs/2403.09977)] (2024.03.15)
 - VmambaIR: Visual State Space Model for Image Restoration [[paper](https://arxiv.org/abs/2403.11423)] [[code](https://github.com/alphacatplus/vmambair)] (2024.03.18)
-- LocalMamba: Visual State Space Model with Windowed Selective Scan [[paper](https://arxiv.org/abs/2403.09338)] [[code](https://github.com/hunto/LocalMamba)] (2024.03.14)
+- ZigMa: Zigzag Mamba Diffusion Model [[paper](https://arxiv.org/abs/2403.13802)] [[code](https://taohu.me/zigma/)] (2024.03.20)
+- VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20)
 
 ### Language
 
@@ -88,6 +90,10 @@ Feel free to modify and customize this introduction according to your preference
 
 - VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation [[paper](https://arxiv.org/abs/2403.09157)] [[code](https://github.com/nobodyplayer1/vm-unetv2)] (2024.03.14)
 
+- H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [[paper](https://arxiv.org/abs/2403.13642)] [[code](https://github.com/wurenkai/H-vmunet)] (2024.03.20)
+
+- ProMamba: Prompt-Mamba for polyp segmentation [[paper](https://arxiv.org/abs/2403.13660)] (2024.03.20)
+
 ### Tabular Data
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -96,6 +102,7 @@ Feel free to modify and customize this introduction according to your preference
 
 * Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)] (2024.02.01)
 * Graph Mamba: Towards Learning on Graphs with State Space Models [[paper](https://arxiv.org/abs/2402.08678)] [[code](https://github.com/graphmamba/gmn)] (2024.02.13)
+* STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2403.12418)] (2024.03.19)
 
 ### Point Cloud
 
