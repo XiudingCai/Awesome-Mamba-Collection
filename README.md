@@ -46,6 +46,9 @@ Feel free to modify and customize this introduction according to your preference
 - SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
 - Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [[paper](https://arxiv.org/abs/2404.01705)] [[code](https://github.com/zhuqinfeng1999/Samba)] (2024.04.02)
 - RS-Mamba for Large Remote Sensing Image Dense Prediction [[paper](https://arxiv.org/abs/2404.02668)] [[code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)] (2024.04.03)
+- RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[paper](https://arxiv.org/abs/2404.02457)] (2024.04.03)
+- InsectMamba: Insect Pest Classification with State Space Model [[paper](https://arxiv.org/abs/2404.03611)] (2024.04.04)
+- ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
 
 ### Language
 
