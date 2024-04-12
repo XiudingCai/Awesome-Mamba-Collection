@@ -49,6 +49,10 @@ Feel free to modify and customize this introduction according to your preference
 - RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[paper](https://arxiv.org/abs/2404.02457)] (2024.04.03)
 - InsectMamba: Insect Pest Classification with State Space Model [[paper](https://arxiv.org/abs/2404.03611)] (2024.04.04)
 - ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
+- RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[paper](https://arxiv.org/abs/2404.06483)] [[code](https://github.com/zizheng-guo/RhythmMamba)] (2024.04.09)
+- Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)] (2024.04.11)
+- FusionMamba: Efficient Image Fusion with State Space Model [[paper](https://arxiv.org/abs/2404.07932)] (2024.04.11)
+- DGMamba: Domain Generalization via Generalized State Space Model [[paper](https://arxiv.org/abs/2404.07794)] [[code](https://github.com/longshaocong/DGMamba)] (2024.04.11)
 
 ### Language
 
@@ -132,6 +136,7 @@ Feel free to modify and customize this introduction according to your preference
 * PointMamba: A Simple State Space Model for Point Cloud Analysis [[paper](https://arxiv.org/abs/2402.10739)] (2024.02.16)
 * Point Could Mamba: Point Cloud Learning via State Space Model [[paper](https://arxiv.org/abs/2403.00762)] [[code](https://github.com/zhang-tao-whu/pcm)] (2024.03.01)
 * 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [[paper](https://arxiv.org/abs/2404.05522)] (2024.04.08)
+* 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[paper](https://arxiv.org/abs/2404.07106)] (2024.04.10)
 
 ### Time Series
 
@@ -162,6 +167,10 @@ Feel free to modify and customize this introduction according to your preference
 ### Reinforcement Learning
 
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
+
+### Anomaly Detection
+
+* Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2404.06564)] [[project](https://lewandofskee.github.io/projects/MambaAD/)] [[code](https://github.com/lewandofskee/MambaAD)] (2024.04.09)
 
 ## Tutorials
 
