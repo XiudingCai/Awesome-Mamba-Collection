@@ -50,11 +50,17 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 - RS-Mamba for Large Remote Sensing Image Dense Prediction [[paper](https://arxiv.org/abs/2404.02668)] [[code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)] (2024.04.03) ![Stars](https://img.shields.io/github/stars/walking-shadow/Official_Remote_Sensing_Mamba) 
 - RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[paper](https://arxiv.org/abs/2404.02457)] (2024.04.03)
 - InsectMamba: Insect Pest Classification with State Space Model [[paper](https://arxiv.org/abs/2404.03611)] (2024.04.04)
-- ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04) ![Stars](https://img.shields.io/github/stars/ChenHongruixuan/MambaCD) 
+- Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04) ![Stars](https://img.shields.io/github/stars/ChenHongruixuan/MambaCD) 
+- ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.04256)] [[code](https://github.com/zifuwan/Sigma)] (2024.04.05) ![Stars](https://img.shields.io/github/stars/zifuwan/Sigma) 
 - RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[paper](https://arxiv.org/abs/2404.06483)] [[code](https://github.com/zizheng-guo/RhythmMamba)] (2024.04.09) ![Stars](https://img.shields.io/github/stars/zizheng-guo/RhythmMamba) 
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)] (2024.04.11)
 - FusionMamba: Efficient Image Fusion with State Space Model [[paper](https://arxiv.org/abs/2404.07932)] (2024.04.11)
 - DGMamba: Domain Generalization via Generalized State Space Model [[paper](https://arxiv.org/abs/2404.07794)] [[code](https://github.com/longshaocong/DGMamba)] (2024.04.11) ![Stars](https://img.shields.io/github/stars/longshaocong/DGMamba) 
+- SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [[paper](https://arxiv.org/abs/2404.08027)] (2024.04.11)
+- SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2404.08489)] (2024.04.12)
+- Fusion-Mamba for Cross-modality Object Detection [[paper](https://arxiv.org/abs/2404.09146)] (2024.04.14)
+- FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining [[paper](https://arxiv.org/abs/2404.09476)] (2024.04.15)
+- HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising [[paper](https://arxiv.org/abs/2404.09697)] (2024.04.15)
 
 ### Language
 
