@@ -58,15 +58,27 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 - DGMamba: Domain Generalization via Generalized State Space Model [[paper](https://arxiv.org/abs/2404.07794)] [[code](https://github.com/longshaocong/DGMamba)] (2024.04.11) ![Stars](https://img.shields.io/github/stars/longshaocong/DGMamba) 
 - SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [[paper](https://arxiv.org/abs/2404.08027)] (2024.04.11)
 - SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2404.08489)] (2024.04.12)
+- MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[paper](https://arxiv.org/abs/2404.08406)] (2024.04.12)
 - Fusion-Mamba for Cross-modality Object Detection [[paper](https://arxiv.org/abs/2404.09146)] (2024.04.14)
 - FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining [[paper](https://arxiv.org/abs/2404.09476)] (2024.04.15)
 - HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising [[paper](https://arxiv.org/abs/2404.09697)] (2024.04.15)
+- A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion [[paper](https://arxiv.org/abs/2404.09293)] (2024.04.15)
+- FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba [[paper](https://arxiv.org/abs/2404.09498)] [[code](https://github.com/millieXie/FusionMamba)] (2024.04.15) ![Stars](https://img.shields.io/github/stars/millieXie/FusionMamba) 
+- Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [[paper](https://arxiv.org/abs/2404.11375)] (2024.04.17)
+- CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [[paper](https://arxiv.org/abs/2404.11778)] (2024.04.17)
+- MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking [[paper](https://arxiv.org/abs/2404.12083)] (2024.04.18)
+- MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model [[paper](https://arxiv.org/abs/2404.12794)] [[code](https://github.com/Terminal-K/MambaMOS)] (2024.04.19) ![Stars](https://img.shields.io/github/stars/Terminal-K/MambaMOS) 
+- ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting [[paper](https://arxiv.org/abs/2404.13257)] (2024.04.20)
+- MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs [[paper](https://arxiv.org/abs/2404.13884)] [[code](https://github.com/1024AILab/MambaUIE)] (2024.04.22) ![Stars](https://img.shields.io/github/stars/1024AILab/MambaUIE) 
+- ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction [[paper](https://arxiv.org/abs/2404.15899)] (2024.04.24)
+- CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [[paper](https://arxiv.org/abs/2404.16302)] [[code](https://github.com/lhy-zjut/CFMW)] (2024.04.25) ![Stars](https://img.shields.io/github/stars/lhy-zjut/CFMW) 
 
 ### Language
 
 * MambaByte: Token-free Selective State Space Model [[paper](https://arxiv.org/abs/2401.13660)] [[code](https://github.com/lucidrains/MEGABYTE-pytorch)] (2024.01.24) ![Stars](https://img.shields.io/github/stars/lucidrains/MEGABYTE-pytorch) 
 * Is Mamba Capable of In-Context Learning? [[paper](https://arxiv.org/abs/2402.03170)] (2024.02.05)
 * Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks  [[paper](https://arxiv.org/abs/2402.04248)] (2024.02.06)
+* SpaceByte: Towards Deleting Tokenization from Large Language Modeling [[paper](https://arxiv.org/abs/2404.14408)] (2024.04.22)
 
 ### Multi-Modal
 
@@ -129,6 +141,10 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 
 - VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [[paper](https://arxiv.org/abs/2404.05105)] (2024.04.07)
 
+- Vim4Path: Self-Supervised Vision Mamba for Histopathology Images [[paper](https://arxiv.org/abs/2404.13222)] [[code](https://github.com/AtlasAnalyticsLab/Vim4Path)] (2024.04.20) ![Stars](https://img.shields.io/github/stars/AtlasAnalyticsLab/Vim4Path) 
+
+- Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model [[paper](https://arxiv.org/abs/2404.17484)] (2024.04.26)
+
 ### Tabular Data
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -145,6 +161,7 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 * Point Could Mamba: Point Cloud Learning via State Space Model [[paper](https://arxiv.org/abs/2403.00762)] [[code](https://github.com/zhang-tao-whu/pcm)] (2024.03.01) ![Stars](https://img.shields.io/github/stars/zhang-tao-whu/pcm) 
 * 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [[paper](https://arxiv.org/abs/2404.05522)] (2024.04.08)
 * 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[paper](https://arxiv.org/abs/2404.07106)] (2024.04.10)
+* Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[paper](https://arxiv.org/abs/2404.14966)] [[code](https://github.com/xhanxu/Mamba3D)] (2024.04.23) ![Stars](https://img.shields.io/github/stars/xhanxu/Mamba3D) 
 
 ### Time Series
 
@@ -156,6 +173,8 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[paper](https://arxiv.org/abs/2403.19888)] (2024.03.29)
 * HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.20183)] (2024.03.29)
+* Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformerin-Time-Series)] (2024.04.23) ![Stars](https://img.shields.io/github/stars/XiongxiaoXu/Mambaformerin-Time-Series) 
+* Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24) ![Stars](https://img.shields.io/github/stars/davidwynter/Bi-Mamba4TS) 
 
 ### Recommendation 
 
@@ -178,7 +197,13 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 
 ### Anomaly Detection
 
-* MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[paper](https://arxiv.org/abs/2404.06564)] [[project](https://lewandofskee.github.io/projects/MambaAD/)] [[code](https://github.com/lewandofskee/MambaAD)] (2024.04.09) ![Stars](https://img.shields.io/github/stars/lewandofskee/MambaAD) 
+* MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[paper](https://arxiv.org/abs/2404.06564)] [[project](https://lewandofskee.github.io/projects/MambaAD/)] [[code](https://github.com/lewandofskee/MambaAD)] (2024.04.15) ![Stars](https://img.shields.io/github/stars/lewandofskee/MambaAD) 
+
+### Survey
+
+* State Space Model for New-Generation Network Alternative to Transformers: A Survey [[paper](https://arxiv.org/abs/2404.09516)] [[project](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)] (2024.04.15)
+* Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[paper](https://arxiv.org/abs/2404.16112)] [[project](https://github.com/badripatro/mamba360)] (2024.04.24)
+* A Survey on Visual Mamba [[paper](https://arxiv.org/abs/2404.15956)] (2024.04.24)
 
 ## Tutorials
 
