@@ -20,6 +20,10 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 * Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/abs/2402.19427)] [[code](https://github.com/kyegomez/Griffin)] (2024.02.29)
 * Jamba: A Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2403.19887)] [[code](https://github.com/kyegomez/Jamba)] (2024.03.28)
 
+### Theoretical Analysis
+
+* From Generalization Analysis to Optimization Designs for State Space Models [[paper](https://arxiv.org/abs/2405.02670)] (2024.05.04)
+
 ### Vision
 
 - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [[paper](https://arxiv.org/abs/2401.09417)] [[code](https://github.com/hustvl/Vim)] (2024.01.17)
@@ -77,6 +81,12 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 - TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms [[paper](https://arxiv.org/abs/2405.01242)] (2024.05.02)
 - SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [[paper](https://arxiv.org/abs/2405.01726)] [[code](https://github.com/lronkitty/SSUMamba)] (2024.05.02)
 - FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space [[paper](https://arxiv.org/abs/2405.01828)] [[code](https://github.com/SwjtuMa/FER-YOLO-Mamba)] (2024.05.03)
+- DVMSR: Distillated Vision Mamba for Efficient Super-Resolution [[paper](https://arxiv.org/abs/2405.03008)] [[code](https://github.com/nathan66666/DVMSR.git)] (2024.05.05)
+- Matten: Video Generation with Mamba-Attention [[paper](https://arxiv.org/abs/2405.03025)] (2024.05.05)
+- MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[paper](https://arxiv.org/abs/2405.03673)] (2024.05.06)
+- MambaJSCC: Deep Joint Source-Channel Coding with Visual State Space Model [[paper](https://arxiv.org/abs/2405.03125)] (2024.05.06)
+- Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement [[paper](https://arxiv.org/abs/2405.03349)] [[code](https://github.com/YhuoyuH/RetinexMamba)] (2024.05.06)
+- SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [[paper](https://arxiv.org/abs/2405.02844)] (2024.05.06)
 
 ### Language
 
@@ -150,6 +160,8 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 
 - Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model [[paper](https://arxiv.org/abs/2404.17484)] (2024.04.26)
 
+- AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation [[paper](https://arxiv.org/abs/2405.03011)] [[code](https://github.com/vietthanh2710/AC-MambaSeg)] (2024.05.05)
+
 ### Tabular Data
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -180,6 +192,7 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 * HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.20183)] (2024.03.29)
 * Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformerin-Time-Series)] (2024.04.23)
 * Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24)
+* TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [[paper](https://arxiv.org/abs/2405.03140)] (2024.05.06)
 
 ### Recommendation 
 
