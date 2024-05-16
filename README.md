@@ -65,6 +65,7 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 - HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising [[paper](https://arxiv.org/abs/2404.09697)] (2024.04.15)
 - A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion [[paper](https://arxiv.org/abs/2404.09293)] (2024.04.15)
 - FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba [[paper](https://arxiv.org/abs/2404.09498)] [[code](https://github.com/millieXie/FusionMamba)] (2024.04.15)
+- MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[paper](https://arxiv.org/abs/2404.06564)] [[project](https://lewandofskee.github.io/projects/MambaAD/)] [[code](https://github.com/lewandofskee/MambaAD)] (2024.04.15)
 - Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [[paper](https://arxiv.org/abs/2404.11375)] (2024.04.17)
 - CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [[paper](https://arxiv.org/abs/2404.11778)] (2024.04.17)
 - MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking [[paper](https://arxiv.org/abs/2404.12083)] (2024.04.18)
@@ -86,8 +87,11 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)] (2024.05.07)
 - Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution [[paper](https://arxiv.org/abs/2405.04964)] (2024.05.08)
 - StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer [[paper](https://arxiv.org/abs/2405.05027)] (2024.05.08)
-- VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[paper](https://arxiv.org/abs/2405.05667)] (2024.05.09)
 - MambaOut: Do We Really Need Mamba for Vision? [[paper](https://arxiv.org/abs/2405.07992)] [[code](https://github.com/yuweihao/MambaOut)] (2024.05.13)
+- OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition [[paper](https://arxiv.org/abs/2405.07966)] [[code](https://github.com/SCNU-RISLAB/OverlapMamba)] (2024.05.13)
+- GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images [[paper](https://arxiv.org/abs/2405.07777)] [[code](https://github.com/wxy11-27/GMSR)] (2024.05.13)
+- WaterMamba: Visual State Space Model for Underwater Image Enhancement [[paper](https://arxiv.org/abs/2405.08419)] (2024.05.14)
+- Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study [[paper](https://arxiv.org/abs/2405.08493)] (2024.05.14)
 
 ### Language
 
@@ -172,6 +176,8 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 
 - HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation [[paper](https://arxiv.org/abs/2405.05007)] (2024.05.08)
 
+- VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[paper](https://arxiv.org/abs/2405.05667)] (2024.05.09)
+
 ### Tabular Data
 
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -204,29 +210,23 @@ If you want to see the star count of each paper's code, switch to [this](https:/
 * Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24)
 * TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [[paper](https://arxiv.org/abs/2405.03140)] (2024.05.06)
 
+### Speech
+
+* Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [[paper](https://arxiv.org/abs/2403.07675)] [[code](https://github.com/Audio-WestlakeU/NBSS)] (2024.03.12)
+* Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [[paper](https://arxiv.org/abs/2403.18257)] (2024.03.27)
+* Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [[paper](https://arxiv.org/abs/2403.18276)] [[code](https://github.com/zhichaoxu-shufe/RankMamba)] (2024.03.27)
+* SPMamba: State-space model is all you need in speech separation [[paper](https://arxiv.org/abs/2404.02063)] [[code](https://github.com/JusperLee/SPMamba)] (2024.04.02)
+* An Investigation of Incorporating Mamba for Speech Enhancement [[paper](https://arxiv.org/abs/2405.06573)] (2024.05.10)
+
 ### Recommendation 
 
 * Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06)
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25)
 
-### Speech
-
-* Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [[paper](https://arxiv.org/abs/2403.07675)] [[code](https://github.com/Audio-WestlakeU/NBSS)] (2024.03.12)
-* Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [[paper](https://arxiv.org/abs/2403.18257)] (2024.03.27)
-* SPMamba: State-space model is all you need in speech separation [[paper](https://arxiv.org/abs/2404.02063)] [[code](https://github.com/JusperLee/SPMamba)] (2024.04.02)
-* An Investigation of Incorporating Mamba for Speech Enhancement [[paper](https://arxiv.org/abs/2405.06573)] (2024.05.10)
-
-### Information Retrieval
-
-* Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [[paper](https://arxiv.org/abs/2403.18276)] [[code](https://github.com/zhichaoxu-shufe/RankMamba)] (2024.03.27)
-
 ### Reinforcement Learning
 
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
-
-### Anomaly Detection
-
-* MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[paper](https://arxiv.org/abs/2404.06564)] [[project](https://lewandofskee.github.io/projects/MambaAD/)] [[code](https://github.com/lewandofskee/MambaAD)] (2024.04.15)
+* Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 
 ### Survey
 
