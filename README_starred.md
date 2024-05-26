@@ -125,6 +125,11 @@ Enjoy it below!
 - NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [[paper](https://arxiv.org/abs/2405.11449)] (2024.05.19)
 - Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2405.12003)] (2024.05.20)
 - 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2405.12487)] (2024.05.21)
+- Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model [[paper](https://arxiv.org/abs/2405.14174)] [[code](https://github.com/YuHengsss/MSVMamba)] (2024.05.23) ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba) 
+- Efficient Visual State Space Model for Image Deblurring [[paper](https://arxiv.org/abs/2405.14343)] (2024.05.23)
+- Scalable Visual State Space Model with Fractal Scanning [[paper](https://arxiv.org/abs/2405.14480)] (2024.05.23)
+- DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2405.14224)] (2024.05.23)
+- Mamba-R: Vision Mamba ALSO Needs Registers [[paper](https://arxiv.org/abs/2405.14858)] [[code](https://github.com/wangf3014/Mamba-Reg)] [[project](https://wangf3014.github.io/mambar-page/)] (2024.05.23) ![Stars](https://img.shields.io/github/stars/wangf3014/Mamba-Reg) 
 
 <span id="head6"></span>
 
@@ -212,6 +217,8 @@ Enjoy it below!
 
 - VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[paper](https://arxiv.org/abs/2405.05667)] (2024.05.09)
 
+- I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[paper](https://arxiv.org/abs/2405.14022)] [[code](https://github.com/icon-lab/I2I-Mamba)] (2024.05.22) ![Stars](https://img.shields.io/github/stars/icon-lab/I2I-Mamba) 
+
 <span id="head9"></span>
 ### Tabular Data
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
@@ -229,6 +236,7 @@ Enjoy it below!
 * 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [[paper](https://arxiv.org/abs/2404.05522)] (2024.04.08)
 * 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[paper](https://arxiv.org/abs/2404.07106)] (2024.04.10)
 * Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[paper](https://arxiv.org/abs/2404.14966)] [[code](https://github.com/xhanxu/Mamba3D)] (2024.04.23) ![Stars](https://img.shields.io/github/stars/xhanxu/Mamba3D) 
+* MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[paper](https://arxiv.org/abs/2405.14338)] (2024.05.23)
 
 <span id="head12"></span>
 ### Time Series
@@ -271,6 +279,9 @@ Enjoy it below!
 * State Space Model for New-Generation Network Alternative to Transformers: A Survey [[paper](https://arxiv.org/abs/2404.09516)] [[project](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)] (2024.04.15)
 * Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[paper](https://arxiv.org/abs/2404.16112)] [[project](https://github.com/badripatro/mamba360)] (2024.04.24)
 * A Survey on Visual Mamba [[paper](https://arxiv.org/abs/2404.15956)] (2024.04.24)
+* A Survey on Vision Mamba: Models, Applications and Challenges [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] (2024.04.29)
+* Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
+* Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 
 <span id="head17"></span>
 ##  Tutorials
@@ -304,6 +315,7 @@ Enjoy it below!
 * awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
 * Awesome-Mamba: Collect papers about Mamba [[URL](https://github.com/caojiaolong/Awesome-Mamba)]
 * Awesome-Mamba-Papers [[URL](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
+* Awesome-Mamba [[URL](https://github.com/pengzhangzhi/Awesome-Mamba)]
 
 <span id="head23"></span>
 ##  Contributions
