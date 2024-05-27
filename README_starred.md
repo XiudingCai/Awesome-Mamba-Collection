@@ -283,7 +283,7 @@ Enjoy it below!
 * State Space Model for New-Generation Network Alternative to Transformers: A Survey [[paper](https://arxiv.org/abs/2404.09516)] [[project](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)] (2024.04.15)
 * Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[paper](https://arxiv.org/abs/2404.16112)] [[project](https://github.com/badripatro/mamba360)] (2024.04.24)
 * A Survey on Visual Mamba [[paper](https://arxiv.org/abs/2404.15956)] (2024.04.24)
-* A Survey on Vision Mamba: Models, Applications and Challenges [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] (2024.04.29)
+* A Survey on Vision Mamba: Models, Applications and Challenges [[paper](https://arxiv.org/abs/2404.18861)] [[project](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] (2024.04.29)
 * Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 
