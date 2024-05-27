@@ -51,6 +51,8 @@ Enjoy it below!
 <span id="head4"></span>
 ### Theoretical Analysis
 * StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization [[paper](https://arxiv.org/abs/2311.14495)] (2023.11.24)
+* The Hidden Attention of Mamba Models [[paper](https://arxiv.org/abs/2403.01590)] [[code](https://github.com/AmeenAli/HiddenMambaAttn)] (2024.03.03) ![Stars](https://img.shields.io/github/stars/AmeenAli/HiddenMambaAttn) 
+* Understanding Robustness of Visual State Space Models for Image Classification [[paper](https://arxiv.org/abs/2403.10935)] (2024.03.16)
 * From Generalization Analysis to Optimization Designs for State Space Models [[paper](https://arxiv.org/abs/2405.02670)] (2024.05.04)
 
 <span id="head5"></span>
@@ -228,6 +230,7 @@ Enjoy it below!
 * Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)] (2024.02.01) ![Stars](https://img.shields.io/github/stars/bowang-lab/Graph-Mamba) 
 * Graph Mamba: Towards Learning on Graphs with State Space Models [[paper](https://arxiv.org/abs/2402.08678)] [[code](https://github.com/graphmamba/gmn)] (2024.02.13) ![Stars](https://img.shields.io/github/stars/graphmamba/gmn) 
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2403.12418)] (2024.03.19)
+* HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2405.13915)] (2024.05.22)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -248,7 +251,7 @@ Enjoy it below!
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[paper](https://arxiv.org/abs/2403.19888)] [[project](https://mambamixer.github.io/)] (2024.03.29)
 * HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.20183)] (2024.03.29)
-* Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformerin-Time-Series)] (2024.04.23) ![Stars](https://img.shields.io/github/stars/XiongxiaoXu/Mambaformerin-Time-Series) 
+* Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)] (2024.04.23) ![Stars](https://img.shields.io/github/stars/XiongxiaoXu/Mambaformer-in-Time-Series) 
 * Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24) ![Stars](https://img.shields.io/github/stars/davidwynter/Bi-Mamba4TS) 
 * MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length [[paper](https://arxiv.org/abs/2405.11263)] [[code](https://github.com/ZhangYezhuo/MAMCA)] (2024.05.18) ![Stars](https://img.shields.io/github/stars/ZhangYezhuo/MAMCA) 
 
