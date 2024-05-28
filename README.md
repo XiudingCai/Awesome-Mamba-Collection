@@ -132,6 +132,7 @@ Enjoy it below!
 - Scalable Visual State Space Model with Fractal Scanning [[paper](https://arxiv.org/abs/2405.14480)] (2024.05.23)
 - DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2405.14224)] (2024.05.23)
 - Mamba-R: Vision Mamba ALSO Needs Registers [[paper](https://arxiv.org/abs/2405.14858)] [[code](https://github.com/wangf3014/Mamba-Reg)] [[project](https://wangf3014.github.io/mambar-page/)] (2024.05.23)
+- MambaVC: Learned Visual Compression with Selective State Spaces [[paper](https://arxiv.org/abs/2405.15413)] [[code](https://github.com/QinSY123/MambaVC)] (2024.05.24)
 
 <span id="head6"></span>
 
@@ -241,6 +242,7 @@ Enjoy it below!
 * 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[paper](https://arxiv.org/abs/2404.07106)] (2024.04.10)
 * Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[paper](https://arxiv.org/abs/2404.14966)] [[code](https://github.com/xhanxu/Mamba3D)] (2024.04.23)
 * MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[paper](https://arxiv.org/abs/2405.14338)] (2024.05.23)
+* PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[paper](https://arxiv.org/abs/2405.15463)] [[code](https://github.com/xiaoyao3302/PoinTramba)] (2024.04.23)
 
 <span id="head12"></span>
 ### Time Series
@@ -255,6 +257,7 @@ Enjoy it below!
 * Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)] (2024.04.23)
 * Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24)
 * MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length [[paper](https://arxiv.org/abs/2405.11263)] [[code](https://github.com/ZhangYezhuo/MAMCA)] (2024.05.18)
+* MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] (2024.05.26)
 
 <span id="head13"></span>
 
