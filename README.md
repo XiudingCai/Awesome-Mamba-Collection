@@ -137,7 +137,7 @@ Enjoy it below!
 - Scalable Visual State Space Model with Fractal Scanning [[paper](https://arxiv.org/abs/2405.14480)] (2024.05.23)
 - DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2405.14224)] (2024.05.23)
 - Mamba-R: Vision Mamba ALSO Needs Registers [[paper](https://arxiv.org/abs/2405.14858)] [[code](https://github.com/wangf3014/Mamba-Reg)] [[project](https://wangf3014.github.io/mambar-page/)] (2024.05.23)
-- MambaVC: Learned Visual Compression with Selective State Spaces [[paper](https://arxiv.org/abs/2405.15413)] [[code](https://github.com/QinSY123/MambaVC)] (2024.05.24)
+- MambaVC: Learned Visual Compression with Selective State Spaces [[paper](https://arxiv.org/abs/2405.15413)] [[code](https://github.com/QinSY123/2024-MambaVC)] (2024.05.24)
 - Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [[paper](https://arxiv.org/abs/2405.15881)] (2024.05.24)
 - MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space [[paper](https://arxiv.org/abs/2405.16105)] (2024.05.25)
 - Image Deraining with Frequency-Enhanced State Space Model [[paper](https://arxiv.org/abs/2405.16470)] (2024.05.26)
@@ -164,6 +164,7 @@ Enjoy it below!
 * Fusion-Mamba for Cross-modality Object Detection [[paper](https://arxiv.org/abs/2404.09146)] (2024.04.14)
 * CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [[paper](https://arxiv.org/abs/2404.16302)] [[code](https://github.com/lhy-zjut/CFMW)] (2024.04.25)
 * Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [[paper](https://arxiv.org/abs/2405.15574)] [[code](https://github.com/ByungKwanLee/Meteor)] (2024.05.24)
+* Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [[paper](https://arxiv.org/abs/2405.18014)] (2024.05.28)
 
 <span id="head8"></span>
 
@@ -236,6 +237,8 @@ Enjoy it below!
 
 - MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [[paper](https://arxiv.org/abs/2405.15925)] [[code](https://github.com/chunyuyuan/MUCM-Net)] (2024.05.24)
 
+- UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation [[paper](https://arxiv.org/abs/2405.17496)] (2024.05.25)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -256,7 +259,9 @@ Enjoy it below!
 * 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[paper](https://arxiv.org/abs/2404.07106)] (2024.04.10)
 * Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[paper](https://arxiv.org/abs/2404.14966)] [[code](https://github.com/xhanxu/Mamba3D)] (2024.04.23)
 * MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[paper](https://arxiv.org/abs/2405.14338)] (2024.05.23)
-* PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[paper](https://arxiv.org/abs/2405.15463)] [[code](https://github.com/xiaoyao3302/PoinTramba)] (2024.04.23)
+* MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[paper](https://arxiv.org/abs/2405.14338)] (2024.05.23)
+* PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[paper](https://arxiv.org/abs/2405.15463)] [[code](https://github.com/xiaoyao3302/PoinTramba)] (2024.05.24)
+* LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling [[paper](https://arxiv.org/abs/2405.17149)] (2024.05.27)
 
 <span id="head12"></span>
 ### Time Series
@@ -273,6 +278,7 @@ Enjoy it below!
 * MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length [[paper](https://arxiv.org/abs/2405.11263)] [[code](https://github.com/ZhangYezhuo/MAMCA)] (2024.05.18)
 * Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16312)] (2024.05.25)
 * MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] (2024.05.26)
+* Efficient Time Series Processing for Transformers and State-Space Models through Token Merging [[paper](https://arxiv.org/abs/2405.17951)] (2024.05.28)
 
 <span id="head13"></span>
 
@@ -359,3 +365,8 @@ Enjoy it below!
 ##  Acknowledgement
 Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
 
+
+
+<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/AAAI-24-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>
+
+<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/JBHI-23-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>
