@@ -142,6 +142,7 @@ Enjoy it below!
 - MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space [[paper](https://arxiv.org/abs/2405.16105)] (2024.05.25)
 - Image Deraining with Frequency-Enhanced State Space Model [[paper](https://arxiv.org/abs/2405.16470)] (2024.05.26)
 - Demystify Mamba in Vision: A Linear Attention Perspective [[paper](https://arxiv.org/abs/2405.16605)] [[code](https://github.com/LeapLabTHU/MLLA)] (2024.05.26)
+- Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[paper](https://arxiv.org/abs/2405.18679)] [[code](https://github.com/yws-wxs/Vim-F)] (2024.05.29)
 
 <span id="head6"></span>
 
@@ -152,6 +153,7 @@ Enjoy it below!
 * SpaceByte: Towards Deleting Tokenization from Large Language Modeling [[paper](https://arxiv.org/abs/2404.14408)] (2024.04.22)
 * State-Free Inference of State-Space Models: The Transfer Function Approach [[paper](https://arxiv.org/abs/2405.06147)] (2024.05.10)
 * Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model [[paper](https://arxiv.org/abs/2405.16542)] (2024.05.26)
+* State Space Models are Comparable to Transformers in Estimating Functions with Dynamic Smoothness [[paper](https://arxiv.org/abs/2405.19036)] (2024.05.29)
 
 <span id="head7"></span>
 ###  Multi-Modal
@@ -364,9 +366,3 @@ Enjoy it below!
 <span id="head26"></span>
 ##  Acknowledgement
 Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
-
-
-
-<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/AAAI-24-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>
-
-<a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/JBHI-23-2e75b7" alt="AAAI" style="width: auto; height: 20px;"></a>
