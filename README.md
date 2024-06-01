@@ -143,6 +143,7 @@ Enjoy it below!
 - Image Deraining with Frequency-Enhanced State Space Model [[paper](https://arxiv.org/abs/2405.16470)] (2024.05.26)
 - Demystify Mamba in Vision: A Linear Attention Perspective [[paper](https://arxiv.org/abs/2405.16605)] [[code](https://github.com/LeapLabTHU/MLLA)] (2024.05.26)
 - Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[paper](https://arxiv.org/abs/2405.18679)] [[code](https://github.com/yws-wxs/Vim-F)] (2024.05.29)
+- DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[paper](https://arxiv.org/abs/2405.19707)] [[code](https://github.com/chenhaoxing/DeMamba)] (2024.05.30)
 
 <span id="head6"></span>
 
@@ -281,6 +282,8 @@ Enjoy it below!
 * Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16312)] (2024.05.25)
 * MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] (2024.05.26)
 * Efficient Time Series Processing for Transformers and State-Space Models through Token Merging [[paper](https://arxiv.org/abs/2405.17951)] (2024.05.28)
+* Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection [[paper](https://arxiv.org/abs/2405.19823)] (2024.05.30)
+* MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba [[paper](https://arxiv.org/abs/2405.20142)] (2024.05.30)
 
 <span id="head13"></span>
 
