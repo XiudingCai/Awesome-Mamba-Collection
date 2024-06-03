@@ -143,6 +143,7 @@ Enjoy it below!
 - Image Deraining with Frequency-Enhanced State Space Model [[paper](https://arxiv.org/abs/2405.16470)] (2024.05.26)
 - Demystify Mamba in Vision: A Linear Attention Perspective [[paper](https://arxiv.org/abs/2405.16605)] [[code](https://github.com/LeapLabTHU/MLLA)] (2024.05.26)
 - Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[paper](https://arxiv.org/abs/2405.18679)] [[code](https://github.com/yws-wxs/Vim-F)] (2024.05.29)
+- FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[paper](https://arxiv.org/abs/2405.19450)] (2024.05.29)
 - DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[paper](https://arxiv.org/abs/2405.19707)] [[code](https://github.com/chenhaoxing/DeMamba)] (2024.05.30)
 
 <span id="head6"></span>
@@ -154,6 +155,7 @@ Enjoy it below!
 * SpaceByte: Towards Deleting Tokenization from Large Language Modeling [[paper](https://arxiv.org/abs/2404.14408)] (2024.04.22)
 * State-Free Inference of State-Space Models: The Transfer Function Approach [[paper](https://arxiv.org/abs/2405.06147)] (2024.05.10)
 * Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model [[paper](https://arxiv.org/abs/2405.16542)] (2024.05.26)
+* Zamba: A Compact 7B SSM Hybrid Model [[paper](https://arxiv.org/abs/2405.16712)] (2024.05.26)
 * State Space Models are Comparable to Transformers in Estimating Functions with Dynamic Smoothness [[paper](https://arxiv.org/abs/2405.19036)] (2024.05.29)
 
 <span id="head7"></span>
@@ -238,9 +240,15 @@ Enjoy it below!
 
 - I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[paper](https://arxiv.org/abs/2405.14022)] [[code](https://github.com/icon-lab/I2I-Mamba)] (2024.05.22)
 
+- EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records [[paper](https://arxiv.org/abs/2405.14567)] (2024.05.23)
+
 - MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [[paper](https://arxiv.org/abs/2405.15925)] [[code](https://github.com/chunyuyuan/MUCM-Net)] (2024.05.24)
 
 - UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation [[paper](https://arxiv.org/abs/2405.17496)] (2024.05.25)
+
+- Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba [[paper](https://arxiv.org/abs/2405.17659)] (2024.05.27)
+
+- Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba [[paper](https://arxiv.org/abs/2405.18533)] (2024.05.28)
 
 <span id="head9"></span>
 
@@ -295,6 +303,7 @@ Enjoy it below!
 * An Investigation of Incorporating Mamba for Speech Enhancement [[paper](https://arxiv.org/abs/2405.06573)] (2024.05.10)
 * SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [[paper](https://arxiv.org/abs/2405.11831)] (2024.05.20)
 * Mamba in Speech: Towards an Alternative to Self-Attention [[paper](https://arxiv.org/abs/2405.12609)] (2024.05.21)
+* Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [[paper](https://arxiv.org/abs/2405.13636)] (2024.05.22)
 
 <span id="head14"></span>
 ### Recommendation 
