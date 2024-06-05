@@ -15,6 +15,7 @@ Enjoy it below!
   - [ Vision](#head5)
   - [ Language](#head6)
   - [ Multi-Modal](#head7)
+  - [ Diffusion](#head27)
   - [ Medical](#head8)
   - [Tabular Data](#head9)
   - [ Graph](#head10)
@@ -46,7 +47,7 @@ Enjoy it below!
 * DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [[paper](https://arxiv.org/abs/2403.00818)] [[code](https://github.com/WailordHe/DenseSSM)] (2024.02.26)
 * Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/abs/2402.19427)] [[code](https://github.com/kyegomez/Griffin)] (2024.02.29)
 * Jamba: A Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2403.19887)] [[code](https://github.com/kyegomez/Jamba)] (2024.03.28)
-* (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)]
+* (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -58,6 +59,7 @@ Enjoy it below!
 * A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [[paper](https://arxiv.org/abs/2405.16504)] (2024.05.26)
 * The Expressive Capacity of State Space Models: A Formal Language Perspective [[paper](https://arxiv.org/abs/2405.17394)] (2024.05.27)
 * Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective [[paper](https://arxiv.org/abs/2405.17383)] (2024.05.27)
+* (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 
 <span id="head5"></span>
 ###  Vision
@@ -145,6 +147,8 @@ Enjoy it below!
 - Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[paper](https://arxiv.org/abs/2405.18679)] [[code](https://github.com/yws-wxs/Vim-F)] (2024.05.29)
 - FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[paper](https://arxiv.org/abs/2405.19450)] (2024.05.29)
 - DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[paper](https://arxiv.org/abs/2405.19707)] [[code](https://github.com/chenhaoxing/DeMamba)] (2024.05.30)
+- FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
+- Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging [[paper](https://arxiv.org/abs/2406.00449)] (2024.06.01)
 
 <span id="head6"></span>
 
@@ -157,7 +161,9 @@ Enjoy it below!
 * Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model [[paper](https://arxiv.org/abs/2405.16542)] (2024.05.26)
 * Zamba: A Compact 7B SSM Hybrid Model [[paper](https://arxiv.org/abs/2405.16712)] (2024.05.26)
 * State Space Models are Comparable to Transformers in Estimating Functions with Dynamic Smoothness [[paper](https://arxiv.org/abs/2405.19036)] (2024.05.29)
+* Mamba State-Space Models Can Be Strong Downstream Learners [[paper](https://arxiv.org/abs/2406.00209)] (2024.05.30)
 * Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba [[paper](https://arxiv.org/pdf/2405.20917)] (2024.05.31)
+* Pretrained Hybrids with MAD Skills [[paper](https://arxiv.org/abs/2406.00894)] (2024.06.02)
 
 <span id="head7"></span>
 ###  Multi-Modal
@@ -172,6 +178,20 @@ Enjoy it below!
 * Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [[paper](https://arxiv.org/abs/2405.15574)] [[code](https://github.com/ByungKwanLee/Meteor)] (2024.05.24)
 * Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [[paper](https://arxiv.org/abs/2405.18014)] (2024.05.28)
 * S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion [[paper](https://arxiv.org/abs/2405.20881)] (2024.05.31)
+
+<span id="head27"></span>
+
+### Diffusion 
+
+* Scalable Diffusion Models with State Space Backbone [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/dis)] (2024.02.08)
+* P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [[paper](https://arxiv.org/abs/2402.08506)] (2024.02.13)
+* MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction [[paper](https://arxiv.org/abs/2403.08479)] [[code](https://github.com/flj19951219/mamba_dose)] (2024.03.13)
+* ZigMa: Zigzag Mamba Diffusion Model [[paper](https://arxiv.org/abs/2403.13802)] [[code](https://taohu.me/zigma/)] (2024.03.20)
+* SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [[paper](https://arxiv.org/abs/2405.02844)] (2024.05.06)
+* VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[paper](https://arxiv.org/abs/2405.05667)] (2024.05.09)
+* DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2405.14224)] (2024.05.23)
+* UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation [[paper](https://arxiv.org/abs/2406.01188)] [[code](https://github.com/ali-vilab/UniAnimate)] (2024.06.03)
+* Dimba: Transformer-Mamba Diffusion Models [[paper](https://arxiv.org/abs/2406.01159)] (2024.06.03)
 
 <span id="head8"></span>
 
@@ -252,6 +272,10 @@ Enjoy it below!
 
 - Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba [[paper](https://arxiv.org/abs/2405.18533)] (2024.05.28)
 
+- fMRI predictors based on language models of increasing complexity recover brain left lateralization [[paper](https://arxiv.org/abs/2405.17992)] [[code](https://github.com/l-bg/llms_brain_lateralization)] (2024.05.28)
+
+- SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation [[paper](https://arxiv.org/abs/2406.00492)] (2024.06.01)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -263,6 +287,7 @@ Enjoy it below!
 * Graph Mamba: Towards Learning on Graphs with State Space Models [[paper](https://arxiv.org/abs/2402.08678)] [[code](https://github.com/graphmamba/gmn)] (2024.02.13)
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2403.12418)] (2024.03.19)
 * HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model [[paper](https://arxiv.org/abs/2405.13915)] (2024.05.22)
+* State Space Models on Temporal Graphs: A First-Principles Study [[paper](https://arxiv.org/abs/2406.00943)] (2024.06.03)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -317,6 +342,7 @@ Enjoy it below!
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
 * Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent [[paper](https://arxiv.org/abs/2405.17680)] [[code](https://github.com/colorfulfuture/UniTraj-pytorch)] (2024.05.27)
+* Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling [[paper](https://arxiv.org/abs/2406.00079)] (2024.05.31)
 
 <span id="head16"></span>
 ###  Survey
@@ -335,6 +361,7 @@ Enjoy it below!
 * The Annotated Mamba [[URL](https://srush.github.io/annotated-mamba/hard.html#part-1-cumulative-sums)]
 * A Visual Guide to Mamba and State Space Models [[URL](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)]
 * Mamba No. 5 (A Little Bit Of...) [[URL](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)]
+* State Space Duality (Mamba-2) [[PART1](https://tridao.me/blog/2024/mamba2-part1-model/)] [[PART2](https://tridao.me/blog/2024/mamba2-part2-theory/)] [[PART3](https://tridao.me/blog/2024/mamba2-part3-algorithm/)] [[PART4](https://tridao.me/blog/2024/mamba2-part4-systems/)]
 
 <span id="head19"></span>
 ###  Videos
