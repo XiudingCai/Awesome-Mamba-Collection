@@ -147,8 +147,8 @@ Enjoy it below!
 - Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[paper](https://arxiv.org/abs/2405.18679)] [[code](https://github.com/yws-wxs/Vim-F)] (2024.05.29) ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F) 
 - FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[paper](https://arxiv.org/abs/2405.19450)] (2024.05.29)
 - DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[paper](https://arxiv.org/abs/2405.19707)] [[code](https://github.com/chenhaoxing/DeMamba)] (2024.05.30) ![Stars](https://img.shields.io/github/stars/chenhaoxing/DeMamba) 
-- FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
 - Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging [[paper](https://arxiv.org/abs/2406.00449)] (2024.06.01)
+- LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
 
 <span id="head6"></span>
 
