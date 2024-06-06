@@ -149,6 +149,7 @@ Enjoy it below!
 - DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[paper](https://arxiv.org/abs/2405.19707)] [[code](https://github.com/chenhaoxing/DeMamba)] (2024.05.30) ![Stars](https://img.shields.io/github/stars/chenhaoxing/DeMamba) 
 - Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging [[paper](https://arxiv.org/abs/2406.00449)] (2024.06.01)
 - LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
+- GrootVL: Tree Topology is All You Need in State Space Model [[paper](https://arxiv.org/abs/2406.02395)] [[code](https://github.com/EasonXiao-888/GrootVL)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL) 
 
 <span id="head6"></span>
 
@@ -164,6 +165,7 @@ Enjoy it below!
 * Mamba State-Space Models Can Be Strong Downstream Learners [[paper](https://arxiv.org/abs/2406.00209)] (2024.05.30)
 * Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba [[paper](https://arxiv.org/pdf/2405.20917)] (2024.05.31)
 * Pretrained Hybrids with MAD Skills [[paper](https://arxiv.org/abs/2406.00894)] (2024.06.02)
+* LongSSM: On the Length Extension of State-space Models in Language Modelling [[paper](https://arxiv.org/abs/2406.02080)] (2024.06.04)
 
 <span id="head7"></span>
 ###  Multi-Modal
@@ -330,6 +332,7 @@ Enjoy it below!
 * SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [[paper](https://arxiv.org/abs/2405.11831)] (2024.05.20)
 * Mamba in Speech: Towards an Alternative to Self-Attention [[paper](https://arxiv.org/abs/2405.12609)] (2024.05.21)
 * Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [[paper](https://arxiv.org/abs/2405.13636)] (2024.05.22)
+* Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations [[paper](https://arxiv.org/abs/2406.02178)] [[code](https://github.com/SiavashShams/ssamba)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/SiavashShams/ssamba) 
 
 <span id="head14"></span>
 ### Recommendation 
@@ -343,6 +346,7 @@ Enjoy it below!
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
 * Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent [[paper](https://arxiv.org/abs/2405.17680)] [[code](https://github.com/colorfulfuture/UniTraj-pytorch)] (2024.05.27) ![Stars](https://img.shields.io/github/stars/colorfulfuture/UniTraj-pytorch) 
 * Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling [[paper](https://arxiv.org/abs/2406.00079)] (2024.05.31)
+* Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2406.02013)] [[code](https://github.com/AndyCao1125/MambaDM)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/AndyCao1125/MambaDM) 
 
 <span id="head16"></span>
 ###  Survey
