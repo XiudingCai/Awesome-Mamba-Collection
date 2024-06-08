@@ -150,7 +150,9 @@ Enjoy it below!
 - Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging [[paper](https://arxiv.org/abs/2406.00449)] (2024.06.01)
 - LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
 - GrootVL: Tree Topology is All You Need in State Space Model [[paper](https://arxiv.org/abs/2406.02395)] [[code](https://github.com/EasonXiao-888/GrootVL)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL) 
+- Feasibility of State Space Models for Network Traffic Generation [[paper](https://arxiv.org/abs/2406.02784)] (2024.06.04)
 - Rethinking Spiking Neural Networks as State Space Models [[paper](https://arxiv.org/abs/2406.02923)] (2024.06.05)
+- Learning 1D Causal Visual Representation with De-focus Attention Networks [[paper](https://arxiv.org/abs/2406.04342)] (2024.06.06)
 
 <span id="head6"></span>
 
@@ -322,6 +324,7 @@ Enjoy it below!
 * Efficient Time Series Processing for Transformers and State-Space Models through Token Merging [[paper](https://arxiv.org/abs/2405.17951)] (2024.05.28)
 * Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection [[paper](https://arxiv.org/abs/2405.19823)] (2024.05.30)
 * MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba [[paper](https://arxiv.org/abs/2405.20142)] (2024.05.30)
+* Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models [[paper](https://arxiv.org/abs/2406.04320)] (2024.06.06)
 
 <span id="head13"></span>
 
@@ -341,6 +344,7 @@ Enjoy it below!
 ### Recommendation 
 * Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06) ![Stars](https://img.shields.io/github/stars/chengkai-liu/mamba4rec) 
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25) ![Stars](https://img.shields.io/github/stars/nancheng58/Rec-Mamba) 
+* EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] (2024.06.04)
 
 <span id="head15"></span>
 ### Reinforcement Learning
@@ -350,6 +354,7 @@ Enjoy it below!
 * Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent [[paper](https://arxiv.org/abs/2405.17680)] [[code](https://github.com/colorfulfuture/UniTraj-pytorch)] (2024.05.27) ![Stars](https://img.shields.io/github/stars/colorfulfuture/UniTraj-pytorch) 
 * Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling [[paper](https://arxiv.org/abs/2406.00079)] (2024.05.31)
 * Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2406.02013)] [[code](https://github.com/AndyCao1125/MambaDM)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/AndyCao1125/MambaDM) 
+* RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[paper](https://arxiv.org/abs/2406.04339)] [[code](https://github.com/lmzpai/roboMamba)] (2024.06.06) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba) 
 
 <span id="head16"></span>
 ###  Survey
