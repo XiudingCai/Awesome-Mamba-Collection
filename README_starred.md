@@ -158,6 +158,8 @@ Enjoy it below!
 - HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model [[paper](https://arxiv.org/abs/2406.05700)] [[code](https://github.com/RsAI-lab/HDMba)] (2024.06.09) ![Stars](https://img.shields.io/github/stars/RsAI-lab/HDMba) 
 - MVGamba: Unify 3D Content Generation as State Space Sequence Modeling [[paper](https://arxiv.org/abs/2406.06367)] (2024.06.10)
 - MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba [[paper](https://arxiv.org/abs/2406.05992)] (2024.06.10)
+- DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2406.07050)] (2024.06.11)
+- Autoregressive Pretraining with Mamba in Vision [[paper](https://arxiv.org/abs/2406.07537)] [[code](https://github.com/OliverRensu/ARM)] (2024.06.11) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM) 
 
 <span id="head6"></span>
 
@@ -174,6 +176,7 @@ Enjoy it below!
 * Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba [[paper](https://arxiv.org/pdf/2405.20917)] (2024.05.31)
 * Pretrained Hybrids with MAD Skills [[paper](https://arxiv.org/abs/2406.00894)] (2024.06.02)
 * LongSSM: On the Length Extension of State-space Models in Language Modelling [[paper](https://arxiv.org/abs/2406.02080)] (2024.06.04)
+* Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [[paper](https://arxiv.org/abs/2406.07522)] [[code](https://github.com/microsoft/Samba)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/microsoft/Samba) 
 
 <span id="head7"></span>
 ###  Multi-Modal
