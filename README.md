@@ -195,6 +195,7 @@ Enjoy it below!
 * Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [[paper](https://arxiv.org/abs/2405.15574)] [[code](https://github.com/ByungKwanLee/Meteor)] (2024.05.24)
 * Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [[paper](https://arxiv.org/abs/2405.18014)] (2024.05.28)
 * S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion [[paper](https://arxiv.org/abs/2405.20881)] (2024.05.31)
+* SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering [[paper](https://arxiv.org/abs/2406.09833)] (2024.06.14)
 
 <span id="head27"></span>
 
@@ -338,13 +339,14 @@ Enjoy it below!
 * Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [[paper](https://arxiv.org/abs/2404.15772)] [[code](https://github.com/davidwynter/Bi-Mamba4TS)] (2024.04.24)
 * MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length [[paper](https://arxiv.org/abs/2405.11263)] [[code](https://github.com/ZhangYezhuo/MAMCA)] (2024.05.18)
 * Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16312)] (2024.05.25)
-* MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] (2024.05.26)
+* MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [[paper](https://arxiv.org/abs/2405.16440)] [[code](https://github.com/XiudingCai/MambaTS-pytorch)] (2024.05.26)
 * Efficient Time Series Processing for Transformers and State-Space Models through Token Merging [[paper](https://arxiv.org/abs/2405.17951)] (2024.05.28)
 * Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection [[paper](https://arxiv.org/abs/2405.19823)] (2024.05.30)
 * MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba [[paper](https://arxiv.org/abs/2405.20142)] (2024.05.30)
 * Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models [[paper](https://arxiv.org/abs/2406.04320)] (2024.06.06)
 * TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [[paper](https://arxiv.org/abs/2406.04419)] (2024.06.06)
 * C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [[paper](https://arxiv.org/abs/2406.05316)] (2024.06.08)
+* ECGMamba: Towards Efficient ECG Classification with BiSSM [[paper](https://arxiv.org/abs/2406.10098)] (2024.06.14)
 
 <span id="head13"></span>
 
