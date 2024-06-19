@@ -162,6 +162,7 @@ Enjoy it below!
 - DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2406.07050)] (2024.06.11)
 - Autoregressive Pretraining with Mamba in Vision [[paper](https://arxiv.org/abs/2406.07537)] [[code](https://github.com/OliverRensu/ARM)] (2024.06.11) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM) 
 - PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement [[paper](https://arxiv.org/abs/2406.08444)] [[code](https://github.com/weitunglin/pixmamba)] (2024.06.12) ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba) 
+- PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[paper](https://arxiv.org/abs/2406.10828)] (2024.06.16)
 
 <span id="head6"></span>
 
@@ -312,6 +313,7 @@ Enjoy it below!
 * State Space Models on Temporal Graphs: A First-Principles Study [[paper](https://arxiv.org/abs/2406.00943)] (2024.06.03)
 * Learning Long Range Dependencies on Graphs via Random Walks [[paper](https://arxiv.org/abs/2406.03386)] [[code](https://github.com/BorgwardtLab/NeuralWalker)] (2024.06.05) ![Stars](https://img.shields.io/github/stars/BorgwardtLab/NeuralWalker) 
 * What Can We Learn from State Space Models for Machine Learning on Graphs? [[paper](https://arxiv.org/abs/2406.05815)] [[code](https://github.com/Graph-COM/GSSC)] (2024.06.09) ![Stars](https://img.shields.io/github/stars/Graph-COM/GSSC) 
+* SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces [[paper](https://arxiv.org/abs/2406.11244)] [[code](https://github.com/bdi-lab/SpoT-Mamba)] (2024.06.17) ![Stars](https://img.shields.io/github/stars/bdi-lab/SpoT-Mamba) 
 
 <span id="head11"></span>
 ### Point Cloud
@@ -324,6 +326,7 @@ Enjoy it below!
 * PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[paper](https://arxiv.org/abs/2405.15463)] [[code](https://github.com/xiaoyao3302/PoinTramba)] (2024.05.24) ![Stars](https://img.shields.io/github/stars/xiaoyao3302/PoinTramba) 
 * LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling [[paper](https://arxiv.org/abs/2405.17149)] (2024.05.27)
 * PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis [[paper](https://arxiv.org/abs/2406.06069)] (2024.06.10)
+* Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[paper](https://arxiv.org/abs/2406.10700)] (2024.06.15)
 
 <span id="head12"></span>
 ### Time Series
