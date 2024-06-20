@@ -163,6 +163,7 @@ Enjoy it below!
 - Autoregressive Pretraining with Mamba in Vision [[paper](https://arxiv.org/abs/2406.07537)] [[code](https://github.com/OliverRensu/ARM)] (2024.06.11) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM) 
 - PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement [[paper](https://arxiv.org/abs/2406.08444)] [[code](https://github.com/weitunglin/pixmamba)] (2024.06.12) ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba) 
 - PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[paper](https://arxiv.org/abs/2406.10828)] (2024.06.16)
+- LFMamba: Light Field Image Super-Resolution with State Space Model [[paper](https://arxiv.org/abs/2406.12463)] (2024.06.18)
 
 <span id="head6"></span>
 
@@ -182,6 +183,7 @@ Enjoy it below!
 * Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [[paper](https://arxiv.org/abs/2406.07522)] [[code](https://github.com/microsoft/Samba)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/microsoft/Samba) 
 * State Soup: In-Context Skill Learning, Retrieval and Mixing [[paper](https://arxiv.org/abs/2406.08423)] (2024.06.12)
 * An Empirical Study of Mamba-based Language Models [[paper](https://arxiv.org/abs/2406.07887)] (2024.06.12)
+* Slot State Space Models [[paper](https://arxiv.org/abs/2406.12272)] (2024.06.18)
 
 <span id="head7"></span>
 ###  Multi-Modal
@@ -372,6 +374,7 @@ Enjoy it below!
 * Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06) ![Stars](https://img.shields.io/github/stars/chengkai-liu/mamba4rec) 
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25) ![Stars](https://img.shields.io/github/stars/nancheng58/Rec-Mamba) 
 * EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] (2024.06.04)
+* (WSDM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/yueqirex/LRURec)] (2024.06.18) ![Stars](https://img.shields.io/github/stars/yueqirex/LRURec) 
 
 <span id="head15"></span>
 ### Reinforcement Learning
