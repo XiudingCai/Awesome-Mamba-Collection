@@ -164,6 +164,7 @@ Enjoy it below!
 - PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement [[paper](https://arxiv.org/abs/2406.08444)] [[code](https://github.com/weitunglin/pixmamba)] (2024.06.12) ![Stars](https://img.shields.io/github/stars/weitunglin/pixmamba) 
 - PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[paper](https://arxiv.org/abs/2406.10828)] (2024.06.16)
 - LFMamba: Light Field Image Super-Resolution with State Space Model [[paper](https://arxiv.org/abs/2406.12463)] (2024.06.18)
+- Slot State Space Models [[paper](https://arxiv.org/abs/2406.12272)] (2024.06.18)
 
 <span id="head6"></span>
 
@@ -183,9 +184,10 @@ Enjoy it below!
 * Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [[paper](https://arxiv.org/abs/2406.07522)] [[code](https://github.com/microsoft/Samba)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/microsoft/Samba) 
 * State Soup: In-Context Skill Learning, Retrieval and Mixing [[paper](https://arxiv.org/abs/2406.08423)] (2024.06.12)
 * An Empirical Study of Mamba-based Language Models [[paper](https://arxiv.org/abs/2406.07887)] (2024.06.12)
-* Slot State Space Models [[paper](https://arxiv.org/abs/2406.12272)] (2024.06.18)
+* DeciMamba: Exploring the Length Extrapolation Potential of Mamba [[paper](https://arxiv.org/abs/2406.14528)] [[code](https://github.com/assafbk/DeciMamba)] (2024.06.20) ![Stars](https://img.shields.io/github/stars/assafbk/DeciMamba) 
 
 <span id="head7"></span>
+
 ###  Multi-Modal
 * VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba) 
 * Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[paper](https://arxiv.org/abs/2403.14520)] [[code](https://sites.google.com/view/cobravlm)] (2024.03.21)
