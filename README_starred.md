@@ -165,6 +165,7 @@ Enjoy it below!
 - PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[paper](https://arxiv.org/abs/2406.10828)] (2024.06.16)
 - LFMamba: Light Field Image Super-Resolution with State Space Model [[paper](https://arxiv.org/abs/2406.12463)] (2024.06.18)
 - Slot State Space Models [[paper](https://arxiv.org/abs/2406.12272)] (2024.06.18)
+- SEDMamba: Enhancing Selective State Space Modelling with Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in Robot-Assisted Surgery [[paper](https://arxiv.org/abs/2406.15920)] (2024.06.22)
 
 <span id="head6"></span>
 
@@ -370,6 +371,7 @@ Enjoy it below!
 * Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations [[paper](https://arxiv.org/abs/2406.02178)] [[code](https://github.com/SiavashShams/ssamba)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/SiavashShams/ssamba) 
 * Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [[paper](https://arxiv.org/abs/2406.03344)] [[code](https://github.com/kyegomez/AudioMamba)] (2024.06.05) ![Stars](https://img.shields.io/github/stars/kyegomez/AudioMamba) 
 * RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection [[paper](https://arxiv.org/abs/2406.06086)] (2024.06.10)
+* Exploring the Capability of Mamba in Speech Applications [[paper](https://arxiv.org/abs/2406.16808)] (2024.06.24)
 
 <span id="head14"></span>
 ### Recommendation 
@@ -389,6 +391,7 @@ Enjoy it below!
 * RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[paper](https://arxiv.org/abs/2406.04339)] [[code](https://github.com/lmzpai/roboMamba)] (2024.06.06) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba) 
 * Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL [[paper](https://arxiv.org/abs/2406.05427)] (2024.06.08)
 * MaIL: Improving Imitation Learning with Mamba [[paper](https://arxiv.org/abs/2406.08234)] (2024.06.12)
+* KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
 
 <span id="head16"></span>
 ###  Survey
