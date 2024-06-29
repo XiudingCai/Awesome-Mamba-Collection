@@ -166,6 +166,9 @@ Enjoy it below!
 - LFMamba: Light Field Image Super-Resolution with State Space Model [[paper](https://arxiv.org/abs/2406.12463)] (2024.06.18)
 - Slot State Space Models [[paper](https://arxiv.org/abs/2406.12272)] (2024.06.18)
 - SEDMamba: Enhancing Selective State Space Modelling with Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in Robot-Assisted Surgery [[paper](https://arxiv.org/abs/2406.15920)] (2024.06.22)
+- Soft Masked Mamba Diffusion Model for CT to MRI Conversion [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)] (2024.06.22) ![Stars](https://img.shields.io/github/stars/wongzbb/DiffMa-Diffusion-Mamba) 
+- SUM: Saliency Unification through Mamba for Visual Attention Modeling [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/Arhosseini77/SUM)] (2024.06.25) ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM) 
+- VideoMambaPro: A Leap Forward for Mamba in Video Understanding [[paper](https://arxiv.org/abs/2406.19006)] (2024.06.27)
 
 <span id="head6"></span>
 
@@ -304,6 +307,8 @@ Enjoy it below!
 
 - Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [[paper](https://arxiv.org/abs/2406.05786)] (2024.06.09)
 
+- MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion [[paper](https://arxiv.org/abs/2406.18950)] (2024.06.27)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -332,6 +337,7 @@ Enjoy it below!
 * LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling [[paper](https://arxiv.org/abs/2405.17149)] (2024.05.27)
 * PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis [[paper](https://arxiv.org/abs/2406.06069)] (2024.06.10)
 * Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[paper](https://arxiv.org/abs/2406.10700)] (2024.06.15)
+* Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[paper](https://arxiv.org/abs/2406.17442)] (2024.06.25)
 
 <span id="head12"></span>
 ### Time Series
