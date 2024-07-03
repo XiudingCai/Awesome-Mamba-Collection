@@ -78,7 +78,7 @@ Enjoy it below!
 - LocalMamba: Visual State Space Model with Windowed Selective Scan [[paper](https://arxiv.org/abs/2403.09338)] [[code](https://github.com/hunto/LocalMamba)] (2024.03.14)
 - EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba [[paper](https://arxiv.org/abs/2403.09977)] (2024.03.15)
 - VmambaIR: Visual State Space Model for Image Restoration [[paper](https://arxiv.org/abs/2403.11423)] [[code](https://github.com/alphacatplus/vmambair)] (2024.03.18)
-- ZigMa: Zigzag Mamba Diffusion Model [[paper](https://arxiv.org/abs/2403.13802)] [[code](https://taohu.me/zigma/)] (2024.03.20)
+- ZigMa: Zigzag Mamba Diffusion Model [[paper](https://arxiv.org/abs/2403.13802)] [[code](https://taohu.me/zigma/)] (ECCV 2024)
 - SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
 - VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [[paper](https://arxiv.org/abs/2403.16536)] [[code](https://github.com/yyyujintang/VMRNN-PyTorch)] (2024.03.25) (CVPR24 Precognition Workshop)
 - PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [[paper](https://arxiv.org/abs/2403.17695)] [[code](https://github.com/ChenhongyiYang/PlainMamba)] (2024.03.26)
