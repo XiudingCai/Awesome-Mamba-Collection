@@ -169,6 +169,8 @@ Enjoy it below!
 - Soft Masked Mamba Diffusion Model for CT to MRI Conversion [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)] (2024.06.22) ![Stars](https://img.shields.io/github/stars/wongzbb/DiffMa-Diffusion-Mamba) 
 - SUM: Saliency Unification through Mamba for Visual Attention Modeling [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/Arhosseini77/SUM)] (2024.06.25) ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM) 
 - VideoMambaPro: A Leap Forward for Mamba in Video Understanding [[paper](https://arxiv.org/abs/2406.19006)] (2024.06.27)
+- MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[paper](https://arxiv.org/abs/2407.02228)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
+- VFIMamba: Video Frame Interpolation with State Space Models [[paper](https://arxiv.org/abs/2407.02315)] [[code](https://github.com/MCG-NJU/VFIMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/MCG-NJU/VFIMamba) 
 
 <span id="head6"></span>
 
