@@ -70,7 +70,7 @@ Enjoy it below!
 - Scalable Diffusion Models with State Space Backbone [[paper](https://arxiv.org/abs/2402.05608)] [[code](https://github.com/feizc/dis)] (2024.02.08) ![Stars](https://img.shields.io/github/stars/feizc/dis) 
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[paper](https://arxiv.org/abs/2402.05892)] (2024.02.08)
 - Pan-Mamba: Effective pan-sharpening with State Space Model [[paper](https://arxiv.org/abs/2402.12192)] (2024.02.19)
-- MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[paper](https://arxiv.org/abs/2402.15648)] [[code](https://github.com/csguoh/mambair)] (2024.02.23) ![Stars](https://img.shields.io/github/stars/csguoh/mambair) 
+- (ECCV 2024) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[paper](https://arxiv.org/abs/2402.15648)] [[code](https://github.com/csguoh/mambair)] (2024.02.23) ![Stars](https://img.shields.io/github/stars/csguoh/mambair) 
 - Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [[paper](https://arxiv.org/abs/2402.15761)] [[code](https://github.com/chishengchen/resvmamba)] (2024.02.24) ![Stars](https://img.shields.io/github/stars/chishengchen/resvmamba) 
 - MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [[paper](https://arxiv.org/abs/2403.02148)] [[code](https://github.com/txchen-USTC/MiM-ISTD)] (2024.03.04) ![Stars](https://img.shields.io/github/stars/txchen-USTC/MiM-ISTD) 
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba)] (2024.03.12) ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba) 
@@ -171,6 +171,7 @@ Enjoy it below!
 - VideoMambaPro: A Leap Forward for Mamba in Video Understanding [[paper](https://arxiv.org/abs/2406.19006)] (2024.06.27)
 - MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[paper](https://arxiv.org/abs/2407.02228)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
 - VFIMamba: Video Frame Interpolation with State Space Models [[paper](https://arxiv.org/abs/2407.02315)] [[code](https://github.com/MCG-NJU/VFIMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/MCG-NJU/VFIMamba) 
+- QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 [[paper](https://arxiv.org/abs/2407.04184)] [[code](https://github.com/zeyun-zhong/querymamba)] (2024.07.04) ![Stars](https://img.shields.io/github/stars/zeyun-zhong/querymamba) 
 
 <span id="head6"></span>
 
@@ -311,6 +312,10 @@ Enjoy it below!
 
 - MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion [[paper](https://arxiv.org/abs/2406.18950)] (2024.06.27)
 
+- Vision Mamba for Classification of Breast Ultrasound Images [[paper](https://arxiv.org/abs/2407.03552)] (2024.07.04)
+
+- Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction [[paper](https://arxiv.org/abs/2407.04242)] (2024.07.05)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -380,6 +385,7 @@ Enjoy it below!
 * Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [[paper](https://arxiv.org/abs/2406.03344)] [[code](https://github.com/kyegomez/AudioMamba)] (2024.06.05) ![Stars](https://img.shields.io/github/stars/kyegomez/AudioMamba) 
 * RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection [[paper](https://arxiv.org/abs/2406.06086)] (2024.06.10)
 * Exploring the Capability of Mamba in Speech Applications [[paper](https://arxiv.org/abs/2406.16808)] (2024.06.24)
+* DASS: Distilled Audio State Space Models Are Stronger and More Duration-Scalable Learners [[paper](https://export.arxiv.org/abs/2407.04082)] (2024.07.04)
 
 <span id="head14"></span>
 ### Recommendation 
