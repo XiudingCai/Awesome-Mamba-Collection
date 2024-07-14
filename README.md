@@ -47,7 +47,7 @@ Enjoy it below!
 * DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [[paper](https://arxiv.org/abs/2403.00818)] [[code](https://github.com/WailordHe/DenseSSM)] (2024.02.26)
 * Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/abs/2402.19427)] [[code](https://github.com/kyegomez/Griffin)] (2024.02.29)
 * Jamba: A Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2403.19887)] [[code](https://github.com/kyegomez/Jamba)] (2024.03.28)
-* (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
+* (ICML 2024, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -61,6 +61,7 @@ Enjoy it below!
 * Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective [[paper](https://arxiv.org/abs/2405.17383)] (2024.05.27)
 * (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 * MambaLRP: Explaining Selective State Space Sequence Models [[paper](https://arxiv.org/abs/2406.07592)] (2024.06.11)
+* Towards a theory of learning dynamics in deep state space models [[paper](https://arxiv.org/abs/2407.07279)] (2024.07.10)
 
 <span id="head5"></span>
 ###  Vision
@@ -91,7 +92,7 @@ Enjoy it below!
 - RS-Mamba for Large Remote Sensing Image Dense Prediction [[paper](https://arxiv.org/abs/2404.02668)] [[code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)] (2024.04.03)
 - RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[paper](https://arxiv.org/abs/2404.02457)] (2024.04.03)
 - InsectMamba: Insect Pest Classification with State Space Model [[paper](https://arxiv.org/abs/2404.03611)] (2024.04.04)
-- ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
+- (IEEE TGRS 2024) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
 - RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[paper](https://arxiv.org/abs/2404.06483)] [[code](https://github.com/zizheng-guo/RhythmMamba)] (2024.04.09)
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)] (2024.04.11)
 - FusionMamba: Efficient Image Fusion with State Space Model [[paper](https://arxiv.org/abs/2404.07932)] (2024.04.11)
@@ -172,6 +173,16 @@ Enjoy it below!
 - MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[paper](https://arxiv.org/abs/2407.02228)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.07.02)
 - VFIMamba: Video Frame Interpolation with State Space Models [[paper](https://arxiv.org/abs/2407.02315)] [[code](https://github.com/MCG-NJU/VFIMamba)] (2024.07.02)
 - QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 [[paper](https://arxiv.org/abs/2407.04184)] [[code](https://github.com/zeyun-zhong/querymamba)] (2024.07.04)
+- A Mamba-based Siamese Network for Remote Sensing Change Detection [[paper](https://arxiv.org/abs/2407.06839)] [[code](https://github.com/JayParanjape/M-CD)] (2024.07.08)
+- Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning [[paper](https://arxiv.org/abs/2407.06136)] (2024.07.08)
+- HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model [[paper](https://arxiv.org/abs/2407.06841)] [[code](https://github.com/shendb2022/HTD-Mamba)] (2024.07.09)
+- MambaVision: A Hybrid Mamba-Transformer Vision Backbone [[paper](https://arxiv.org/abs/2407.08083)] [[code](https://github.com/NVlabs/MambaVision)] (2024.07.10)
+- Parallelizing Autoregressive Generation with Variational State Space Models [[paper](https://arxiv.org/abs/2407.08415)] (2024.07.11)
+- GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2407.08255)] (2024.07.11)
+- ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data [[paper](https://arxiv.org/abs/2407.08558)] (2024.07.11)
+- SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[paper](https://arxiv.org/abs/2407.08333)] [[code](https://github.com/rcao-hk/SR-Mamba)] (2024.07.11)
+- VideoMamba: Spatio-Temporal Selective State Space Model [[paper](https://arxiv.org/abs/2407.08476)] [[code](https://github.com/jinyjelly/videomamba)] (2024.07.11)
+- DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[paper](https://arxiv.org/abs/2407.08132)] [[code](https://github.com/Another-0/DMM)] (2024.07.11)
 
 <span id="head6"></span>
 
@@ -189,6 +200,7 @@ Enjoy it below!
 * Pretrained Hybrids with MAD Skills [[paper](https://arxiv.org/abs/2406.00894)] (2024.06.02)
 * LongSSM: On the Length Extension of State-space Models in Language Modelling [[paper](https://arxiv.org/abs/2406.02080)] (2024.06.04)
 * Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [[paper](https://arxiv.org/abs/2406.07522)] [[code](https://github.com/microsoft/Samba)] (2024.06.04)
+* How Effective are State Space Models for Machine Translation? [[paper](https://arxiv.org/abs/2407.05489)] (2024.06.07)
 * State Soup: In-Context Skill Learning, Retrieval and Mixing [[paper](https://arxiv.org/abs/2406.08423)] (2024.06.12)
 * An Empirical Study of Mamba-based Language Models [[paper](https://arxiv.org/abs/2406.07887)] (2024.06.12)
 * DeciMamba: Exploring the Length Extrapolation Potential of Mamba [[paper](https://arxiv.org/abs/2406.14528)] [[code](https://github.com/assafbk/DeciMamba)] (2024.06.20)
@@ -199,7 +211,7 @@ Enjoy it below!
 * VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20)
 * Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[paper](https://arxiv.org/abs/2403.14520)] [[code](https://sites.google.com/view/cobravlm)] (2024.03.21)
 * SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
-* Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[paper](https://arxiv.org/abs/2404.03425)] [[code](https://github.com/ChenHongruixuan/MambaCD)] (2024.04.04)
+* Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[paper](https://arxiv.org/abs/2404.04256)] [[code](https://github.com/zifuwan/Sigma)] (2024.04.04)
 * SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [[paper](https://arxiv.org/abs/2404.08027)] (2024.04.11)
 * MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[paper](https://arxiv.org/abs/2404.08406)] (2024.04.12)
 * Fusion-Mamba for Cross-modality Object Detection [[paper](https://arxiv.org/abs/2404.09146)] (2024.04.14)
@@ -316,6 +328,10 @@ Enjoy it below!
 
 - Fine-grained Context and Multi-modal Alignment for Freehand 3D Ultrasound Reconstruction [[paper](https://arxiv.org/abs/2407.04242)] (2024.07.05)
 
+- LGRNet: Local-Global Reciprocal Network for Uterine Fibroid Segmentation in Ultrasound Videos [[paper](https://arxiv.org/abs/2407.05703)] [[code](https://github.com/bio-mlhui/LGRNet)] (2024.07.08)
+
+- SliceMamba for Medical Image Segmentation [[paper](https://arxiv.org/abs/2407.08481)] (2024.07.11)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -331,6 +347,7 @@ Enjoy it below!
 * Learning Long Range Dependencies on Graphs via Random Walks [[paper](https://arxiv.org/abs/2406.03386)] [[code](https://github.com/BorgwardtLab/NeuralWalker)] (2024.06.05)
 * What Can We Learn from State Space Models for Machine Learning on Graphs? [[paper](https://arxiv.org/abs/2406.05815)] [[code](https://github.com/Graph-COM/GSSC)] (2024.06.09)
 * SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces [[paper](https://arxiv.org/abs/2406.11244)] [[code](https://github.com/bdi-lab/SpoT-Mamba)] (2024.06.17)
+* GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2407.08255)] (2024.07.11)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -368,6 +385,7 @@ Enjoy it below!
 * TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [[paper](https://arxiv.org/abs/2406.04419)] (2024.06.06)
 * C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [[paper](https://arxiv.org/abs/2406.05316)] (2024.06.08)
 * ECGMamba: Towards Efficient ECG Classification with BiSSM [[paper](https://arxiv.org/abs/2406.10098)] (2024.06.14)
+* Mamba Hawkes Process [[paper](https://arxiv.org/abs/2407.05302)] (2024.07.07)
 
 <span id="head13"></span>
 
@@ -415,6 +433,7 @@ Enjoy it below!
 * A Survey on Vision Mamba: Models, Applications and Challenges [[paper](https://arxiv.org/abs/2404.18861)] [[project](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] (2024.04.29)
 * Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
+* Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [[paper](https://arxiv.org/abs/2406.03430)] [[project](https://github.com/xmindflow/Awesome_Mamba)] (2024.05.07)
 
 <span id="head17"></span>
 ##  Tutorials
