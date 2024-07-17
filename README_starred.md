@@ -183,6 +183,10 @@ Enjoy it below!
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[paper](https://arxiv.org/abs/2407.08333)] [[code](https://github.com/rcao-hk/SR-Mamba)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/rcao-hk/SR-Mamba) 
 - VideoMamba: Spatio-Temporal Selective State Space Model [[paper](https://arxiv.org/abs/2407.08476)] [[code](https://github.com/jinyjelly/videomamba)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/jinyjelly/videomamba) 
 - DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[paper](https://arxiv.org/abs/2407.08132)] [[code](https://github.com/Another-0/DMM)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/Another-0/DMM) 
+- Parallelizing Autoregressive Generation with Variational State Space Models [[paper](https://arxiv.org/abs/2407.08415)] (2024.07.11)
+- InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
+- Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12)
+- OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
 
 <span id="head6"></span>
 
@@ -204,6 +208,8 @@ Enjoy it below!
 * State Soup: In-Context Skill Learning, Retrieval and Mixing [[paper](https://arxiv.org/abs/2406.08423)] (2024.06.12)
 * An Empirical Study of Mamba-based Language Models [[paper](https://arxiv.org/abs/2406.07887)] (2024.06.12)
 * DeciMamba: Exploring the Length Extrapolation Potential of Mamba [[paper](https://arxiv.org/abs/2406.14528)] [[code](https://github.com/assafbk/DeciMamba)] (2024.06.20) ![Stars](https://img.shields.io/github/stars/assafbk/DeciMamba) 
+* Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers [[paper](https://arxiv.org/abs/2407.09941)] [[code](https://github.com/goombalab/hydra)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/goombalab/hydra) 
+* MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis [[paper](https://arxiv.org/abs/2407.10347)] (2024.07.14)
 
 <span id="head7"></span>
 
@@ -386,6 +392,7 @@ Enjoy it below!
 * C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [[paper](https://arxiv.org/abs/2406.05316)] (2024.06.08)
 * ECGMamba: Towards Efficient ECG Classification with BiSSM [[paper](https://arxiv.org/abs/2406.10098)] (2024.06.14)
 * Mamba Hawkes Process [[paper](https://arxiv.org/abs/2407.05302)] (2024.07.07)
+* MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.15)
 
 <span id="head13"></span>
 
@@ -404,8 +411,10 @@ Enjoy it below!
 * RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection [[paper](https://arxiv.org/abs/2406.06086)] (2024.06.10)
 * Exploring the Capability of Mamba in Speech Applications [[paper](https://arxiv.org/abs/2406.16808)] (2024.06.24)
 * DASS: Distilled Audio State Space Models Are Stronger and More Duration-Scalable Learners [[paper](https://export.arxiv.org/abs/2407.04082)] (2024.07.04)
+* Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis [[paper](https://arxiv.org/abs/2407.09732)] [[code](https://github.com/xi-j/Mamba-ASR)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/xi-j/Mamba-ASR) 
 
 <span id="head14"></span>
+
 ### Recommendation 
 * Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06) ![Stars](https://img.shields.io/github/stars/chengkai-liu/mamba4rec) 
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25) ![Stars](https://img.shields.io/github/stars/nancheng58/Rec-Mamba) 
