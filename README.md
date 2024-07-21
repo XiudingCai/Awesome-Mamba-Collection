@@ -187,6 +187,8 @@ Enjoy it below!
 - InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
 - Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12)
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
+- Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
+- GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[paper](https://arxiv.org/abs/2407.13772)] [[code](https://github.com/Amshaker/GroupMamba)] (2024.07.18)
 
 <span id="head6"></span>
 
@@ -420,6 +422,7 @@ Enjoy it below!
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25)
 * EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] (2024.06.04)
 * (WSDM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/yueqirex/LRURec)] (2024.06.18)
+* MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.13135)] (2024.07.18)
 
 <span id="head15"></span>
 ### Reinforcement Learning
