@@ -189,6 +189,7 @@ Enjoy it below!
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
 - Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
 - GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[paper](https://arxiv.org/abs/2407.13772)] [[code](https://github.com/Amshaker/GroupMamba)] (2024.07.18)
+- (ICML 2024 Workshop) Investigating the Indirect Object Identification circuit in Mamba [[paper](https://arxiv.org/abs/2407.14008)] [[openreview](https://openreview.net/forum?id=lq7ZaYuwub)] [[code](https://github.com/Phylliida/investigating-mamba-ioi)] (2024.07.19)
 
 <span id="head6"></span>
 
@@ -212,6 +213,7 @@ Enjoy it below!
 * DeciMamba: Exploring the Length Extrapolation Potential of Mamba [[paper](https://arxiv.org/abs/2406.14528)] [[code](https://github.com/assafbk/DeciMamba)] (2024.06.20)
 * Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers [[paper](https://arxiv.org/abs/2407.09941)] [[code](https://github.com/goombalab/hydra)] (2024.07.13)
 * MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis [[paper](https://arxiv.org/abs/2407.10347)] (2024.07.14)
+* Longhorn: State Space Models are Amortized Online Learners [[paper](https://arxiv.org/abs/2407.14207)] [[code](https://github.com/Cranial-XIX/longhorn)] (2024.07.13)
 
 <span id="head7"></span>
 
@@ -395,6 +397,7 @@ Enjoy it below!
 * ECGMamba: Towards Efficient ECG Classification with BiSSM [[paper](https://arxiv.org/abs/2406.10098)] (2024.06.14)
 * Mamba Hawkes Process [[paper](https://arxiv.org/abs/2407.05302)] (2024.07.07)
 * MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.15)
+* FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.20)
 
 <span id="head13"></span>
 
