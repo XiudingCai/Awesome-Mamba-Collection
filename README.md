@@ -477,6 +477,7 @@ Enjoy it below!
 * If you are searching for a runnable implementation not focused on speed,
   * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
+  * mamba.c: Inference of Mamba models in pure C. [[URL](https://github.com/kroggen/mamba.c)]
 
 <span id="head22"></span>
 ### Other Awesome Mamba List
