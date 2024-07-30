@@ -190,6 +190,9 @@ Enjoy it below!
 - Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
 - GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[paper](https://arxiv.org/abs/2407.13772)] [[code](https://github.com/Amshaker/GroupMamba)] (2024.07.18) ![Stars](https://img.shields.io/github/stars/Amshaker/GroupMamba) 
 - (ICML 2024 Workshop) Investigating the Indirect Object Identification circuit in Mamba [[paper](https://arxiv.org/abs/2407.14008)] [[openreview](https://openreview.net/forum?id=lq7ZaYuwub)] [[code](https://github.com/Phylliida/investigating-mamba-ioi)] (2024.07.19) ![Stars](https://img.shields.io/github/stars/Phylliida/investigating-mamba-ioi) 
+- MxT: Mamba x Transformer for Image Inpainting [[paper](https://arxiv.org/abs/2407.16126)] (2024.07.23)
+- ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[paper](https://arxiv.org/abs/2407.17705)] (2024.07.25)
+- VSSD: Vision Mamba with Non-Casual State Space Duality [[paper](https://arxiv.org/abs/2407.18559)] [[code](https://github.com/YuHengsss/VSSD)] (2024.07.26) ![Stars](https://img.shields.io/github/stars/YuHengsss/VSSD) 
 
 <span id="head6"></span>
 
@@ -398,6 +401,7 @@ Enjoy it below!
 * Mamba Hawkes Process [[paper](https://arxiv.org/abs/2407.05302)] (2024.07.07)
 * MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.15)
 * FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.20)
+* EEG-SSM: Leveraging State-Space Model for Dementia Detection [[paper](https://arxiv.org/abs/2407.17801)] (2024.07.25)
 
 <span id="head13"></span>
 
@@ -477,6 +481,7 @@ Enjoy it below!
 * If you are searching for a runnable implementation not focused on speed,
   * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
+  * mamba.c: Inference of Mamba models in pure C and CUDA. [[URL](https://github.com/kroggen/mamba.c)]
 
 <span id="head22"></span>
 ### Other Awesome Mamba List
