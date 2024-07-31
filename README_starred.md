@@ -34,9 +34,11 @@ Enjoy it below!
 - [ Contributions](#head23)
   - [Contribute in 3 Steps](#head24)
   - [ Guidelines](#head25)
+- [ Citation](#head28)
 - [ Acknowledgement](#head26)
 
 <span id="head2"></span>
+
 ##  Papers
 <span id="head3"></span>
 ###  Architecture
@@ -193,6 +195,7 @@ Enjoy it below!
 - MxT: Mamba x Transformer for Image Inpainting [[paper](https://arxiv.org/abs/2407.16126)] (2024.07.23)
 - ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[paper](https://arxiv.org/abs/2407.17705)] (2024.07.25)
 - VSSD: Vision Mamba with Non-Casual State Space Duality [[paper](https://arxiv.org/abs/2407.18559)] [[code](https://github.com/YuHengsss/VSSD)] (2024.07.26) ![Stars](https://img.shields.io/github/stars/YuHengsss/VSSD) 
+- Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[paper](https://arxiv.org/abs/2407.19274)] [[code](https://github.com/BailiangJ/rethink-reg)] (2024.07.26) ![Stars](https://img.shields.io/github/stars/BailiangJ/rethink-reg) 
 
 <span id="head6"></span>
 
@@ -233,6 +236,8 @@ Enjoy it below!
 * Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [[paper](https://arxiv.org/abs/2405.18014)] (2024.05.28)
 * S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion [[paper](https://arxiv.org/abs/2405.20881)] (2024.05.31)
 * SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering [[paper](https://arxiv.org/abs/2406.09833)] (2024.06.14)
+* ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[paper](https://arxiv.org/abs/2407.19832)] (2024.06.29)
+* (ACM MM 2024) MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper](https://arxiv.org/abs/2407.19976)] (2024.06.29)
 
 <span id="head27"></span>
 
@@ -430,6 +435,7 @@ Enjoy it below!
 * EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] (2024.06.04)
 * (WSDM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/yueqirex/LRURec)] (2024.06.18) ![Stars](https://img.shields.io/github/stars/yueqirex/LRURec) 
 * MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.13135)] (2024.07.18)
+* MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.19239)] [[code](https://github.com/Unintelligentmumu/MaTrRec)] (2024.06.27) ![Stars](https://img.shields.io/github/stars/Unintelligentmumu/MaTrRec) 
 
 <span id="head15"></span>
 ### Reinforcement Learning
@@ -506,6 +512,23 @@ Enjoy it below!
 - Ensure added resources are relevant to State Space Models in Machine Learning.
 - Verify that links work correctly.
 
+<span id="head28"></span>
+
+## Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```latex
+@article{cai2024mambats,
+  title={MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting},
+  author={Cai, Xiuding and Zhu, Yaoyao and Wang, Xueyao and Yao, Yu},
+  journal={arXiv preprint arXiv:2405.16440},
+  year={2024}
+}
+```
+
 <span id="head26"></span>
+
 ##  Acknowledgement
+
 Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml/tree/main)
