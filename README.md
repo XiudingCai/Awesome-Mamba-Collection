@@ -350,6 +350,8 @@ Enjoy it below!
 
 - SliceMamba for Medical Image Segmentation [[paper](https://arxiv.org/abs/2407.08481)] (2024.07.11)
 
+- BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[paper](https://arxiv.org/abs/2408.02600)] (2024.08.05)
+
 <span id="head9"></span>
 
 ### Tabular Data
