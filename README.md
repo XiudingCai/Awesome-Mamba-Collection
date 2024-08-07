@@ -32,8 +32,6 @@ Enjoy it below!
   - [ Codes](#head21)
   - [Other Awesome Mamba List](#head22)
 - [ Contributions](#head23)
-  - [Contribute in 3 Steps](#head24)
-  - [ Guidelines](#head25)
 - [ Citation](#head28)
 - [ Acknowledgement](#head26)
 
@@ -196,6 +194,12 @@ Enjoy it below!
 - ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[paper](https://arxiv.org/abs/2407.17705)] (2024.07.25)
 - VSSD: Vision Mamba with Non-Casual State Space Duality [[paper](https://arxiv.org/abs/2407.18559)] [[code](https://github.com/YuHengsss/VSSD)] (2024.07.26)
 - Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[paper](https://arxiv.org/abs/2407.19274)] [[code](https://github.com/BailiangJ/rethink-reg)] (2024.07.26)
+- PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement [[paper](https://arxiv.org/abs/2408.01077)] (2024.08.02)
+- WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2408.01231)] (2024.08.02)
+- Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2408.01372)] (2024.08.02)
+- MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[paper](https://arxiv.org/abs/2408.01037)] [[code](https://github.com/XiangboGaoBarry/MambaST)] (2024.08.02)
+- JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
+- DeMansia: Mamba Never Forgets Any Tokens [[paper](https://arxiv.org/abs/2408.01986)] [[code](https://github.com/catalpaaa/DeMansia)] (2024.08.04)
 
 <span id="head6"></span>
 
@@ -252,6 +256,7 @@ Enjoy it below!
 * DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2405.14224)] (2024.05.23)
 * UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation [[paper](https://arxiv.org/abs/2406.01188)] [[code](https://github.com/ali-vilab/UniAnimate)] (2024.06.03)
 * Dimba: Transformer-Mamba Diffusion Models [[paper](https://arxiv.org/abs/2406.01159)] (2024.06.03)
+* LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba [[paper](https://arxiv.org/abs/2408.02615)] (2024.08.05)
 
 <span id="head8"></span>
 
@@ -350,6 +355,9 @@ Enjoy it below!
 
 - SliceMamba for Medical Image Segmentation [[paper](https://arxiv.org/abs/2407.08481)] (2024.07.11)
 
+- BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[paper](https://arxiv.org/abs/2408.02600)] (2024.08.05)
+
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -388,7 +396,7 @@ Enjoy it below!
 * MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/zshicode/MambaLithium)] (2024.03.08)
 * TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [[paper](https://arxiv.org/abs/2403.09898)] [[code](https://github.com/atik-ahamed/timemachine)] (2024.03.14)
 * Is Mamba Effective for Time Series Forecasting? [[paper](https://arxiv.org/abs/2403.11144)] [[code](https://github.com/wzhwzhwzh0921/S-D-Mamba)] (2024.03.17)
-* SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
+* SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] [[code](https://github.com/badripatro/Simba)] (2024.03.22)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[paper](https://arxiv.org/abs/2403.19888)] [[project](https://mambamixer.github.io/)] (2024.03.29)
 * HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.20183)] (2024.03.29)
 * Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [[paper](https://arxiv.org/abs/2404.14757)] [[code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series)] (2024.04.23)
@@ -449,6 +457,7 @@ Enjoy it below!
 * Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL [[paper](https://arxiv.org/abs/2406.05427)] (2024.06.08)
 * MaIL: Improving Imitation Learning with Mamba [[paper](https://arxiv.org/abs/2406.08234)] (2024.06.12)
 * KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
+* Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
 
 <span id="head16"></span>
 ###  Survey
@@ -459,6 +468,7 @@ Enjoy it below!
 * Vision Mamba: A Comprehensive Survey and Taxonomy [[paper](https://arxiv.org/abs/2405.04404)] [[project](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 * Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [[paper](https://arxiv.org/abs/2406.03430)] [[project](https://github.com/xmindflow/Awesome_Mamba)] (2024.05.07)
+* Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2408.01129)] (2024.08.02)
 
 <span id="head17"></span>
 ##  Tutorials
