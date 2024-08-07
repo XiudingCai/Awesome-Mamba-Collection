@@ -32,8 +32,6 @@ Enjoy it below!
   - [ Codes](#head21)
   - [Other Awesome Mamba List](#head22)
 - [ Contributions](#head23)
-  - [Contribute in 3 Steps](#head24)
-  - [ Guidelines](#head25)
 - [ Citation](#head28)
 - [ Acknowledgement](#head26)
 
