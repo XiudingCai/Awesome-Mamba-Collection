@@ -197,9 +197,12 @@ Enjoy it below!
 - PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement [[paper](https://arxiv.org/abs/2408.01077)] (2024.08.02)
 - WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2408.01231)] (2024.08.02)
 - Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2408.01372)] (2024.08.02)
-- MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[paper](https://arxiv.org/abs/2408.01037)] (2024.08.02) ![Stars](https://img.shields.io/github/stars/XiangboGaoBarry/MambaST) 
+- MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[paper](https://arxiv.org/abs/2408.01037)] [[code](https://github.com/XiangboGaoBarry/MambaST)] (2024.08.02) ![Stars](https://img.shields.io/github/stars/XiangboGaoBarry/MambaST) 
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - DeMansia: Mamba Never Forgets Any Tokens [[paper](https://arxiv.org/abs/2408.01986)] [[code](https://github.com/catalpaaa/DeMansia)] (2024.08.04) ![Stars](https://img.shields.io/github/stars/catalpaaa/DeMansia) 
+- JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
+- Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition [[paper](https://arxiv.org/abs/2408.05743)] (2024.08.11)
+- MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model [[paper](https://arxiv.org/abs/2408.06400)] (2024.08.12)
 
 <span id="head6"></span>
 
@@ -357,11 +360,14 @@ Enjoy it below!
 
 - BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[paper](https://arxiv.org/abs/2408.02600)] (2024.08.05)
 
+- SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction [[paper](https://arxiv.org/abs/2408.05696)] (2024.08.11)
+
 
 <span id="head9"></span>
 
 ### Tabular Data
 * MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
+* Mambular: A Sequential Model for Tabular Deep Learning [[paper](https://arxiv.org/abs/2401.08867)] [[code](https://github.com/basf/mamba-tabular)] (2024.08.12) ![Stars](https://img.shields.io/github/stars/basf/mamba-tabular) 
 
 <span id="head10"></span>
 ###  Graph
@@ -374,6 +380,8 @@ Enjoy it below!
 * What Can We Learn from State Space Models for Machine Learning on Graphs? [[paper](https://arxiv.org/abs/2406.05815)] [[code](https://github.com/Graph-COM/GSSC)] (2024.06.09) ![Stars](https://img.shields.io/github/stars/Graph-COM/GSSC) 
 * SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces [[paper](https://arxiv.org/abs/2406.11244)] [[code](https://github.com/bdi-lab/SpoT-Mamba)] (2024.06.17) ![Stars](https://img.shields.io/github/stars/bdi-lab/SpoT-Mamba) 
 * GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2407.08255)] (2024.07.11)
+* DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models [[paper](https://arxiv.org/abs/2408.04713)] (2024.08.08)
+* DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/abs/2408.06966)] (2024.08.13)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -434,6 +442,7 @@ Enjoy it below!
 * Exploring the Capability of Mamba in Speech Applications [[paper](https://arxiv.org/abs/2406.16808)] (2024.06.24)
 * DASS: Distilled Audio State Space Models Are Stronger and More Duration-Scalable Learners [[paper](https://export.arxiv.org/abs/2407.04082)] (2024.07.04)
 * Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis [[paper](https://arxiv.org/abs/2407.09732)] [[code](https://github.com/xi-j/Mamba-ASR)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/xi-j/Mamba-ASR) 
+* SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation [[paper](https://arxiv.org/abs/2408.05057)] (2024.08.09)
 
 <span id="head14"></span>
 
@@ -458,6 +467,7 @@ Enjoy it below!
 * MaIL: Improving Imitation Learning with Mamba [[paper](https://arxiv.org/abs/2406.08234)] (2024.06.12)
 * KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
 * Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
+* PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
 
 <span id="head16"></span>
 ###  Survey
