@@ -203,6 +203,9 @@ Enjoy it below!
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition [[paper](https://arxiv.org/abs/2408.05743)] (2024.08.11)
 - MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model [[paper](https://arxiv.org/abs/2408.06400)] (2024.08.12)
+- Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval [[paper](https://arxiv.org/abs/2408.08066)] (2024.08.15)
+- MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking [[paper](https://arxiv.org/abs/2408.07889)] (2024.08.15)
+- ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba [[paper](https://arxiv.org/abs/2408.08087)] (2024.08.15)
 
 <span id="head6"></span>
 
@@ -511,10 +514,9 @@ Enjoy it below!
 
 <span id="head22"></span>
 ### Other Awesome Mamba List
-* awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
-* Awesome-Mamba: Collect papers about Mamba [[URL](https://github.com/caojiaolong/Awesome-Mamba)]
-* Awesome-Mamba-Papers [[URL](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
-* Awesome-Mamba [[URL](https://github.com/pengzhangzhi/Awesome-Mamba)]
+* AvivBick/awesome-ssm-ml [[URL](https://github.com/AvivBick/awesome-ssm-ml)]
+* yyyujintang/Awesome-Mamba-Papers [[URL](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
+* pengzhangzhi/Awesome-Mamba [[URL](https://github.com/pengzhangzhi/Awesome-Mamba)]
 
 <span id="head23"></span>
 ##  Contributions
