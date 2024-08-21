@@ -206,6 +206,10 @@ Enjoy it below!
 - Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval [[paper](https://arxiv.org/abs/2408.08066)] (2024.08.15)
 - MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking [[paper](https://arxiv.org/abs/2408.07889)] (2024.08.15)
 - ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba [[paper](https://arxiv.org/abs/2408.08087)] (2024.08.15)
+- OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] (2024.08.19)
+- Multi-Scale Representation Learning for Image Restoration with State-Space Model [[paper](https://export.arxiv.org/abs/2408.10145)] (2024.08.19)
+- MambaLoc: Efficient Camera Localisation via State Space Model [[paper](https://arxiv.org/abs/2408.09680)] (2024.08.20)
+- (ICML ES-FoMo 2024) ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement [[paper](https://arxiv.org/abs/2408.09650)] [[code](https://github.com/eashanadhikarla/ExpoMamba)] (2024.08.04)
 
 <span id="head6"></span>
 
@@ -230,6 +234,7 @@ Enjoy it below!
 * Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers [[paper](https://arxiv.org/abs/2407.09941)] [[code](https://github.com/goombalab/hydra)] (2024.07.13)
 * MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis [[paper](https://arxiv.org/abs/2407.10347)] (2024.07.14)
 * Longhorn: State Space Models are Amortized Online Learners [[paper](https://arxiv.org/abs/2407.14207)] [[code](https://github.com/Cranial-XIX/longhorn)] (2024.07.13)
+* Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models [[paper](https://arxiv.org/abs/2408.10189)] (2024.07.14)
 
 <span id="head7"></span>
 
@@ -385,6 +390,7 @@ Enjoy it below!
 * GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2407.08255)] (2024.07.11)
 * DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models [[paper](https://arxiv.org/abs/2408.04713)] (2024.08.08)
 * DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/abs/2408.06966)] (2024.08.13)
+* Geometry Informed Tokenization of Molecules for Language Model Generation [[paper](https://arxiv.org/abs/2408.10120)] (2024.08.19)
 
 <span id="head11"></span>
 ### Point Cloud
