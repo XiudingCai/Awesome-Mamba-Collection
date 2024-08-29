@@ -48,6 +48,7 @@ Enjoy it below!
 * Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/abs/2402.19427)] [[code](https://github.com/kyegomez/Griffin)] (2024.02.29) ![Stars](https://img.shields.io/github/stars/kyegomez/Griffin) 
 * Jamba: A Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2403.19887)] [[code](https://github.com/kyegomez/Jamba)] (2024.03.28) ![Stars](https://img.shields.io/github/stars/kyegomez/Jamba) 
 * (ICML 2024, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba) 
+* Jamba-1.5: Hybrid Transformer-Mamba Models at Scale [[paper](https://arxiv.org/abs/2408.12570)] (2024.08.22)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -208,8 +209,23 @@ Enjoy it below!
 - ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba [[paper](https://arxiv.org/abs/2408.08087)] (2024.08.15)
 - OccMamba: Semantic Occupancy Prediction with State Space Models [[paper](https://arxiv.org/abs/2408.09859)] (2024.08.19)
 - Multi-Scale Representation Learning for Image Restoration with State-Space Model [[paper](https://export.arxiv.org/abs/2408.10145)] (2024.08.19)
+- (ICML ES-FoMo 2024) ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement [[paper](https://arxiv.org/abs/2408.09650)] [[code](https://github.com/eashanadhikarla/ExpoMamba)] (2024.08.19) ![Stars](https://img.shields.io/github/stars/eashanadhikarla/ExpoMamba) 
 - MambaLoc: Efficient Camera Localisation via State Space Model [[paper](https://arxiv.org/abs/2408.09680)] (2024.08.20)
-- (ICML ES-FoMo 2024) ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement [[paper](https://arxiv.org/abs/2408.09650)] [[code](https://github.com/eashanadhikarla/ExpoMamba)] (2024.08.04) ![Stars](https://img.shields.io/github/stars/eashanadhikarla/ExpoMamba) 
+- DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba [[paper](https://arxiv.org/abs/2408.10679)] (2024.08.20)
+- MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling [[paper](https://arxiv.org/abs/2408.10854)] (2024.08.20)
+- MambaEVT: Event Stream based Visual Object Tracking using State Space Model [[paper](https://arxiv.org/abs/2408.10487)] [[code](https://github.com/Event-AHU/MambaEVT)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/Event-AHU/MambaEVT) 
+- OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model [[paper](https://arxiv.org/abs/2408.10618)] [[code](https://jmwang0117.github.io/OMEGA)] (2024.08.20)
+- UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images [[paper](https://arxiv.org/abs/2408.11545)] [[code](https://github.com/EnzeZhu2001/UNetMamba)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/EnzeZhu2001/UNetMamba) 
+- Exploring Robustness of Visual State Space model against Backdoor Attacks [[paper](https://arxiv.org/abs/2408.11679)] (2024.08.21)
+- MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs [[paper](https://arxiv.org/abs/2408.11758)] (2024.08.21)
+- MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[paper](https://arxiv.org/abs/2408.11464)] [[code](https://github.com/Hub-Tian/MambaOcc)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/Hub-Tian/MambaOcc) 
+- Modeling Time-Variant Responses of Optical Compressors with Selective State Space Models [[paper](https://arxiv.org/abs/2408.12549)] (2024.08.22)
+- Scalable Autoregressive Image Generation with Mamba [[paper](https://arxiv.org/abs/2408.12245)] [[code](https://github.com/hp-l33/aim)] (2024.08.23) ![Stars](https://img.shields.io/github/stars/hp-l33/aim) 
+- O-Mamba: O-shape State-Space Model for Underwater Image Enhancement [[paper](https://arxiv.org/abs/2408.12816)] [[code](https://github.com/chenydong/o-mamba)] (2024.08.23) ![Stars](https://img.shields.io/github/stars/chenydong/o-mamba) 
+- MSFMamba: Multi-Scale Feature Fusion State Space Model for Multi-Source Remote Sensing Image Classification [[paper](https://arxiv.org/abs/2408.14255)] (2024.08.26)
+- ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation [[paper](https://arxiv.org/abs/2408.14114)] (2024.08.26)
+- ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning [[paper](https://arxiv.org/abs/2408.14868)] [[code](https://anonymous.4open.science/r/ZeroMamba)] (2024.08.27)
+- MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders [[paper](https://arxiv.org/abs/2408.15101)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.08.27) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
 
 <span id="head6"></span>
 
@@ -253,6 +269,7 @@ Enjoy it below!
 * SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering [[paper](https://arxiv.org/abs/2406.09833)] (2024.06.14)
 * ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[paper](https://arxiv.org/abs/2407.19832)] (2024.06.29)
 * (ACM MM 2024) MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper](https://arxiv.org/abs/2407.19976)] (2024.06.29)
+* MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval [[paper](https://arxiv.org/abs/2408.10575)] [[code](https://github.com/hrtang22/MUSE)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/hrtang22/MUSE) 
 
 <span id="head27"></span>
 
@@ -370,6 +387,16 @@ Enjoy it below!
 
 - SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction [[paper](https://arxiv.org/abs/2408.05696)] (2024.08.11)
 
+- HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation [[paper](https://arxiv.org/abs/2408.11289)] [[code](https://github.com/simzhangbest/hmt-unet)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/simzhangbest/hmt-unet) 
+
+- Hierarchical Spatio-Temporal State-Space Modeling for fMRI Analysis [[paper](https://arxiv.org/abs/2408.13074)] (2024.08.23)
+
+- MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation [[paper](https://arxiv.org/abs/2408.13735)] [[code](https://github.com/gndlwch2w/msvm-unet)] (2024.08.25) ![Stars](https://img.shields.io/github/stars/gndlwch2w/msvm-unet) 
+
+- LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation [[paper](https://arxiv.org/abs/2408.14415)] [[code](https://github.com/Oulu-IMEDS/LoG-VMamba)] (2024.08.26) ![Stars](https://img.shields.io/github/stars/Oulu-IMEDS/LoG-VMamba) 
+
+- Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology [[paper](https://arxiv.org/abs/2408.15032)] [[code](https://github.com/YuqiZhang-Buaa/Mamba2MIL)] (2024.08.27) ![Stars](https://img.shields.io/github/stars/YuqiZhang-Buaa/Mamba2MIL) 
+
 
 <span id="head9"></span>
 
@@ -432,6 +459,7 @@ Enjoy it below!
 * MSegRNN:Enhanced SegRNN Model with Mamba for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.15)
 * FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.20)
 * EEG-SSM: Leveraging State-Space Model for Dementia Detection [[paper](https://arxiv.org/abs/2407.17801)] (2024.07.25)
+* Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2408.12068)] (2024.08.22)
 
 <span id="head13"></span>
 
@@ -462,6 +490,7 @@ Enjoy it below!
 * (WSDM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/yueqirex/LRURec)] (2024.06.18) ![Stars](https://img.shields.io/github/stars/yueqirex/LRURec) 
 * MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.13135)] (2024.07.18)
 * MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.19239)] [[code](https://github.com/Unintelligentmumu/MaTrRec)] (2024.06.27) ![Stars](https://img.shields.io/github/stars/Unintelligentmumu/MaTrRec) 
+* Bidirectional Gated Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2408.11451)] [[code](https://github.com/ziwliu-cityu/SIMGA)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/ziwliu-cityu/SIMGA) 
 
 <span id="head15"></span>
 ### Reinforcement Learning
@@ -477,6 +506,7 @@ Enjoy it below!
 * KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
 * Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
 * PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
+* Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/too-z/decision-metamamba) 
 
 <span id="head16"></span>
 ###  Survey
@@ -514,7 +544,8 @@ Enjoy it below!
 ###  Codes
 * The official Mamba Repository is currently only available for Linux. [[URL](https://github.com/state-spaces/mamba)]
 * If you are searching for a runnable implementation not focused on speed,
-  * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
+  * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)]
+  * mamba2-minimal: A minimal, single-file implementation of the Mamba-2 model in PyTorch. [[URL](https://github.com/tommyip/mamba2-minimal)]
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
   * mamba.c: Inference of Mamba models in pure C and CUDA. [[URL](https://github.com/kroggen/mamba.c)]
 
