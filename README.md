@@ -514,7 +514,8 @@ Enjoy it below!
 ###  Codes
 * The official Mamba Repository is currently only available for Linux. [[URL](https://github.com/state-spaces/mamba)]
 * If you are searching for a runnable implementation not focused on speed,
-  * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)] 
+  * mamba-minimal: Simple, minimal implementation of the Mamba SSM in one file of PyTorch. [[URL](https://github.com/johnma2006/mamba-minimal/tree/master)]
+  * mamba2-minimal: A minimal, single-file implementation of the Mamba-2 model in PyTorch. [[URL](https://github.com/tommyip/mamba2-minimal)]
   * mamba.py: An efficient Mamba implementation in PyTorch and MLX. [[URL](https://github.com/alxndrTL/mamba.py)]
   * mamba.c: Inference of Mamba models in pure C and CUDA. [[URL](https://github.com/kroggen/mamba.c)]
 
