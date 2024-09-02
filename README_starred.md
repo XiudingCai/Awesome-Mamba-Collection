@@ -226,6 +226,7 @@ Enjoy it below!
 - ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation [[paper](https://arxiv.org/abs/2408.14114)] (2024.08.26)
 - ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning [[paper](https://arxiv.org/abs/2408.14868)] [[code](https://anonymous.4open.science/r/ZeroMamba)] (2024.08.27)
 - MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders [[paper](https://arxiv.org/abs/2408.15101)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.08.27) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
+- DrowzEE-G-Mamba: Leveraging EEG and State Space Models for Driver Drowsiness Detection [[paper](https://arxiv.org/abs/2408.16145)] (2024.08.28)
 
 <span id="head6"></span>
 
@@ -251,6 +252,7 @@ Enjoy it below!
 * MambaForGCN: Enhancing Long-Range Dependency with State Space Model and Kolmogorov-Arnold Networks for Aspect-Based Sentiment Analysis [[paper](https://arxiv.org/abs/2407.10347)] (2024.07.14)
 * Longhorn: State Space Models are Amortized Online Learners [[paper](https://arxiv.org/abs/2407.14207)] [[code](https://github.com/Cranial-XIX/longhorn)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/Cranial-XIX/longhorn) 
 * Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models [[paper](https://arxiv.org/abs/2408.10189)] (2024.07.14)
+* ReMamba: Equip Mamba with Effective Long-Sequence Modeling [[paper](https://arxiv.org/abs/2408.15496)] (2024.08.28)
 
 <span id="head7"></span>
 
@@ -460,6 +462,7 @@ Enjoy it below!
 * FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting [[paper](https://arxiv.org/abs/2407.10768)] (2024.07.20)
 * EEG-SSM: Leveraging State-Space Model for Dementia Detection [[paper](https://arxiv.org/abs/2407.17801)] (2024.07.25)
 * Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2408.12068)] (2024.08.22)
+* Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need [[paper](https://arxiv.org/abs/2408.15997)] [[code](https://github.com/lunaaa95/mou/)] (2024.08.28) ![Stars](https://img.shields.io/github/stars/lunaaa95/mou/) 
 
 <span id="head13"></span>
 
