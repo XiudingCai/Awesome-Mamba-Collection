@@ -227,6 +227,11 @@ Enjoy it below!
 - ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning [[paper](https://arxiv.org/abs/2408.14868)] [[code](https://anonymous.4open.science/r/ZeroMamba)] (2024.08.27)
 - MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders [[paper](https://arxiv.org/abs/2408.15101)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.08.27) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
 - DrowzEE-G-Mamba: Leveraging EEG and State Space Models for Driver Drowsiness Detection [[paper](https://arxiv.org/abs/2408.16145)] (2024.08.28)
+- TrackSSM: A General Motion Predictor by State-Space Model [[paper](https://arxiv.org/abs/2409.00487)] (2024.08.31)
+- A Hybrid Transformer-Mamba Network for Single Image Deraining [[paper](https://arxiv.org/abs/2409.00410)] (2024.08.31)
+- Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion [[paper](https://arxiv.org/abs/2409.01728)] (2024.09.03)
+- (IEEE MMSP 2024) Efficient Image Compression Using Advanced State Space Models [[paper](https://arxiv.org/abs/2409.02743)] (2024.09.04)
+- UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images [[paper](https://arxiv.org/abs/2409.03431)] (2024.09.05)
 
 <span id="head6"></span>
 
@@ -253,6 +258,7 @@ Enjoy it below!
 * Longhorn: State Space Models are Amortized Online Learners [[paper](https://arxiv.org/abs/2407.14207)] [[code](https://github.com/Cranial-XIX/longhorn)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/Cranial-XIX/longhorn) 
 * Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models [[paper](https://arxiv.org/abs/2408.10189)] (2024.07.14)
 * ReMamba: Equip Mamba with Effective Long-Sequence Modeling [[paper](https://arxiv.org/abs/2408.15496)] (2024.08.28)
+* Sparse Mamba: Reinforcing Controllability In Structural State Space Models [[paper](https://arxiv.org/abs/2409.00563)] (2024.08.31)
 
 <span id="head7"></span>
 
@@ -272,6 +278,7 @@ Enjoy it below!
 * ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[paper](https://arxiv.org/abs/2407.19832)] (2024.06.29)
 * (ACM MM 2024) MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion [[paper](https://arxiv.org/abs/2407.19976)] (2024.06.29)
 * MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval [[paper](https://arxiv.org/abs/2408.10575)] [[code](https://github.com/hrtang22/MUSE)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/hrtang22/MUSE) 
+* Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion [[paper](https://arxiv.org/abs/2409.03223)] (2024.09.05)
 
 <span id="head27"></span>
 
@@ -287,6 +294,7 @@ Enjoy it below!
 * UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation [[paper](https://arxiv.org/abs/2406.01188)] [[code](https://github.com/ali-vilab/UniAnimate)] (2024.06.03) ![Stars](https://img.shields.io/github/stars/ali-vilab/UniAnimate) 
 * Dimba: Transformer-Mamba Diffusion Models [[paper](https://arxiv.org/abs/2406.01159)] (2024.06.03)
 * LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba [[paper](https://arxiv.org/abs/2408.02615)] (2024.08.05)
+* MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos [[paper](https://arxiv.org/abs/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io)] (2024.09.04)
 
 <span id="head8"></span>
 
@@ -483,6 +491,7 @@ Enjoy it below!
 * DASS: Distilled Audio State Space Models Are Stronger and More Duration-Scalable Learners [[paper](https://export.arxiv.org/abs/2407.04082)] (2024.07.04)
 * Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis [[paper](https://arxiv.org/abs/2407.09732)] [[code](https://github.com/xi-j/Mamba-ASR)] (2024.07.13) ![Stars](https://img.shields.io/github/stars/xi-j/Mamba-ASR) 
 * SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation [[paper](https://arxiv.org/abs/2408.05057)] (2024.08.09)
+* MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision [[paper](https://arxiv.org/abs/2409.02421)] (2024.09.04)
 
 <span id="head14"></span>
 
@@ -494,6 +503,7 @@ Enjoy it below!
 * MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.13135)] (2024.07.18)
 * MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.19239)] [[code](https://github.com/Unintelligentmumu/MaTrRec)] (2024.06.27) ![Stars](https://img.shields.io/github/stars/Unintelligentmumu/MaTrRec) 
 * Bidirectional Gated Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2408.11451)] [[code](https://github.com/ziwliu-cityu/SIMGA)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/ziwliu-cityu/SIMGA) 
+* SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2409.01192)] [[code](https://github.com/ZhangYifeng1995/SSD4Rec)] (2024.09.02) ![Stars](https://img.shields.io/github/stars/ZhangYifeng1995/SSD4Rec) 
 
 <span id="head15"></span>
 ### Reinforcement Learning
@@ -510,6 +520,7 @@ Enjoy it below!
 * Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
 * PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
 * Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/too-z/decision-metamamba) 
+* Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 
 <span id="head16"></span>
 ###  Survey
