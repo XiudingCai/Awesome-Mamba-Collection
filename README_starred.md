@@ -171,7 +171,7 @@ Enjoy it below!
 - Soft Masked Mamba Diffusion Model for CT to MRI Conversion [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)] (2024.06.22) ![Stars](https://img.shields.io/github/stars/wongzbb/DiffMa-Diffusion-Mamba) 
 - SUM: Saliency Unification through Mamba for Visual Attention Modeling [[paper](https://arxiv.org/abs/2406.17815)] [[code](https://github.com/Arhosseini77/SUM)] (2024.06.25) ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM) 
 - VideoMambaPro: A Leap Forward for Mamba in Video Understanding [[paper](https://arxiv.org/abs/2406.19006)] (2024.06.27)
-- MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[paper](https://arxiv.org/abs/2407.02228)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
+- (ECCV 2024) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[paper](https://arxiv.org/abs/2407.02228)] [[code](https://github.com/EnVision-Research/MTMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/EnVision-Research/MTMamba) 
 - VFIMamba: Video Frame Interpolation with State Space Models [[paper](https://arxiv.org/abs/2407.02315)] [[code](https://github.com/MCG-NJU/VFIMamba)] (2024.07.02) ![Stars](https://img.shields.io/github/stars/MCG-NJU/VFIMamba) 
 - QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 [[paper](https://arxiv.org/abs/2407.04184)] [[code](https://github.com/zeyun-zhong/querymamba)] (2024.07.04) ![Stars](https://img.shields.io/github/stars/zeyun-zhong/querymamba) 
 - A Mamba-based Siamese Network for Remote Sensing Change Detection [[paper](https://arxiv.org/abs/2407.06839)] [[code](https://github.com/JayParanjape/M-CD)] (2024.07.08) ![Stars](https://img.shields.io/github/stars/JayParanjape/M-CD) 
@@ -496,10 +496,10 @@ Enjoy it below!
 <span id="head14"></span>
 
 ### Recommendation 
-* Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06) ![Stars](https://img.shields.io/github/stars/chengkai-liu/mamba4rec) 
+* (RelKD@KDD 2024) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [[paper](https://arxiv.org/abs/2403.05430)] [[code](https://github.com/chengkai-liu/mamba4rec)] (2024.03.06) ![Stars](https://img.shields.io/github/stars/chengkai-liu/mamba4rec) 
 * Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] [[code](https://github.com/nancheng58/Rec-Mamba)] (2024.03.25) ![Stars](https://img.shields.io/github/stars/nancheng58/Rec-Mamba) 
 * EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [[paper](https://arxiv.org/abs/2403.16371)] (2024.06.04)
-* (WSDM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/yueqirex/LRURec)] (2024.06.18) ![Stars](https://img.shields.io/github/stars/yueqirex/LRURec) 
+* (CIKM 2024) Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2406.12580)] [[code](https://github.com/chengkai-liu/RecBLR)] (2024.06.18) ![Stars](https://img.shields.io/github/stars/chengkai-liu/RecBLR) 
 * MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.13135)] (2024.07.18)
 * MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.19239)] [[code](https://github.com/Unintelligentmumu/MaTrRec)] (2024.06.27) ![Stars](https://img.shields.io/github/stars/Unintelligentmumu/MaTrRec) 
 * Bidirectional Gated Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2408.11451)] [[code](https://github.com/ziwliu-cityu/SIMGA)] (2024.08.21) ![Stars](https://img.shields.io/github/stars/ziwliu-cityu/SIMGA) 
