@@ -228,6 +228,9 @@ Enjoy it below!
 - PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation [[paper](https://arxiv.org/abs/2409.06309)] (2024.09.10)
 - Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement [[paper](https://arxiv.org/abs/2409.07040)] (2024.09.11)
 - CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model [[paper](https://arxiv.org/abs/2409.07714)] (2024.09.12)
+- SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks [[paper](https://arxiv.org/abs/2409.09649)] [[code](https://github.com/LMMMEng/SparX)] (2024.09.15) ![Stars](https://img.shields.io/github/stars/LMMMEng/SparX) 
+- (ECCV 2024) Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[paper](https://arxiv.org/abs/2409.09808)] (2024.09.15)
+- Mamba-ST: State Space Model for Efficient Style Transfer [[paper](https://arxiv.org/abs/2409.10385)] (2024.09.16)
 
 <span id="head6"></span>
 
@@ -293,6 +296,7 @@ Enjoy it below!
 * MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking [[paper](https://arxiv.org/abs/2408.07889)] (2024.08.15)
 * DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba [[paper](https://arxiv.org/abs/2408.10679)] (2024.08.20)
 * Self-Supervised State Space Model for Real-Time Traffic Accident Prediction Using eKAN Networks [[paper](https://arxiv.org/abs/2409.05933)] [[code](http://github.com/KevinT618/SSL-eKamba)] (2024.09.09)
+* (ADMA2024) Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification [[paper](https://arxiv.org/abs/2409.09627)] (2024.09.15)
 
 <span id="head27"></span>
 
@@ -430,6 +434,8 @@ Enjoy it below!
 
 - Learning Brain Tumor Representation in 3D High-Resolution MR Images via Interpretable State Space Models [[paper](https://arxiv.org/abs/2409.07746)] (2024.09.12)
 
+- Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [[paper](https://arxiv.org/abs/2409.08492)] (2024.09.13)
+
 
 <span id="head9"></span>
 
@@ -465,6 +471,7 @@ Enjoy it below!
 * PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis [[paper](https://arxiv.org/abs/2406.06069)] (2024.06.10)
 * Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[paper](https://arxiv.org/abs/2406.10700)] (2024.06.15)
 * Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[paper](https://arxiv.org/abs/2406.17442)] (2024.06.25)
+* Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation [[paper](https://arxiv.org/abs/2409.11018)] (2024.09.17)
 
 <span id="head12"></span>
 ### Time Series
@@ -494,6 +501,8 @@ Enjoy it below!
 * EEG-SSM: Leveraging State-Space Model for Dementia Detection [[paper](https://arxiv.org/abs/2407.17801)] (2024.07.25)
 * Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting [[paper](https://arxiv.org/abs/2408.12068)] (2024.08.22)
 * Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need [[paper](https://arxiv.org/abs/2408.15997)] [[code](https://github.com/lunaaa95/mou/)] (2024.08.28) ![Stars](https://img.shields.io/github/stars/lunaaa95/mou/) 
+* Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics [[paper](https://arxiv.org/abs/2409.08530)] (2024.09.13)
+* SITSMamba for Crop Classification based on Satellite Image Time Series [[paper](https://arxiv.org/abs/2409.09673)] (2024.09.15)
 
 <span id="head13"></span>
 
@@ -518,6 +527,9 @@ Enjoy it below!
 * TF-Mamba: A Time-Frequency Network for Sound Source Localization [[paper](https://arxiv.org/abs/2409.05034)] (2024.09.08)
 * A Two-Stage Band-Split Mamba-2 Network for Music Separation [[paper](https://arxiv.org/abs/2409.06245)] [[code](https://github.com/baijinglin/TS-BSmamba2)] (2024.09.10) ![Stars](https://img.shields.io/github/stars/baijinglin/TS-BSmamba2) 
 * Rethinking Mamba in Speech Processing by Self-Supervised Models [[paper](https://arxiv.org/abs/2409.07273)] (2024.09.11)
+* MambaFoley: Foley Sound Generation using Selective State-Space Models [[paper](https://arxiv.org/abs/2409.09162)] (2024.09.13)
+* Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution [[paper](https://arxiv.org/abs/2409.09337)] (2024.09.14)
+* Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement [[paper](https://arxiv.org/abs/2409.10376)] (2024.09.16)
 
 <span id="head14"></span>
 
