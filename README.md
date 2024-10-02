@@ -50,6 +50,7 @@ Enjoy it below!
 * Jamba: A Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2403.19887)] [[code](https://github.com/kyegomez/Jamba)] (2024.03.28)
 * (ICML 2024, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 * Jamba-1.5: Hybrid Transformer-Mamba Models at Scale [[paper](https://arxiv.org/abs/2408.12570)] (2024.08.22)
+* (ICCAD 2024) MARCA: Mamba Accelerator with ReConfigurable Architecture [[paper](https://arxiv.org/abs/2409.11440)] (2024.09.16)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -231,6 +232,9 @@ Enjoy it below!
 - SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks [[paper](https://arxiv.org/abs/2409.09649)] [[code](https://github.com/LMMMEng/SparX)] (2024.09.15)
 - (ECCV 2024) Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[paper](https://arxiv.org/abs/2409.09808)] (2024.09.15)
 - Mamba-ST: State Space Model for Efficient Style Transfer [[paper](https://arxiv.org/abs/2409.10385)] (2024.09.16)
+- Distillation-free Scaling of Large SSMs for Images and Videos [[paper](https://arxiv.org/abs/2409.11867)] (2024.09.18)
+- GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[paper](https://arxiv.org/abs/2409.14403)] (2024.09.22)
+- Exploring Token Pruning in Vision State Space Models [[paper](https://arxiv.org/abs/2409.18962)] (2024.09.27)
 
 <span id="head6"></span>
 
@@ -258,6 +262,7 @@ Enjoy it below!
 * Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models [[paper](https://arxiv.org/abs/2408.10189)] (2024.07.14)
 * ReMamba: Equip Mamba with Effective Long-Sequence Modeling [[paper](https://arxiv.org/abs/2408.15496)] (2024.08.28)
 * Sparse Mamba: Reinforcing Controllability In Structural State Space Models [[paper](https://arxiv.org/abs/2409.00563)] (2024.08.31)
+* DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://arxiv.org/abs/2409.11887)] (2024.09.18)
 
 <span id="head7"></span>
 
@@ -280,6 +285,8 @@ Enjoy it below!
 * Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion [[paper](https://arxiv.org/abs/2409.03223)] (2024.09.05)
 * Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations [[paper](https://arxiv.org/abs/2409.05243)] (2024.09.08)
 * Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling [[paper](https://arxiv.org/abs/2409.05395)] (2024.09.09)
+* Mamba Fusion: Learning Actions Through Questioning [[paper](https://arxiv.org/abs/2409.11513)] (2024.09.17)
+* DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[paper](https://arxiv.org/abs/2409.15936)] (2024.09.24)
 
 <span id="head29"></span>
 
@@ -296,7 +303,8 @@ Enjoy it below!
 * MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking [[paper](https://arxiv.org/abs/2408.07889)] (2024.08.15)
 * DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba [[paper](https://arxiv.org/abs/2408.10679)] (2024.08.20)
 * Self-Supervised State Space Model for Real-Time Traffic Accident Prediction Using eKAN Networks [[paper](https://arxiv.org/abs/2409.05933)] [[code](http://github.com/KevinT618/SSL-eKamba)] (2024.09.09)
-* (ADMA2024) Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification [[paper](https://arxiv.org/abs/2409.09627)] (2024.09.15)
+* (ADMA 2024) Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification [[paper](https://arxiv.org/abs/2409.09627)] (2024.09.15)
+* (CCBR 2024) PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba [[paper](https://arxiv.org/abs/2409.12031)] (2024.09.18)
 
 <span id="head27"></span>
 
@@ -314,6 +322,7 @@ Enjoy it below!
 * LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba [[paper](https://arxiv.org/abs/2408.02615)] (2024.08.05)
 * MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos [[paper](https://arxiv.org/abs/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io)] (2024.09.04)
 * Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/abs/2409.07163)] [[code](https://andycao1125.github.io/mamba_policy)] (2024.09.04)
+* DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 
 <span id="head8"></span>
 
@@ -436,6 +445,14 @@ Enjoy it below!
 
 - Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [[paper](https://arxiv.org/abs/2409.08492)] (2024.09.13)
 
+- SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba [[paper](https://arxiv.org/abs/2409.12108)] (2024.09.18)
+
+- MambaRecon: MRI Reconstruction with Structured State Space Models [[paper](https://arxiv.org/abs/2409.12401)] (2024.09.19)
+
+- UU-Mamba: Uncertainty-aware U-Mamba for Cardiovascular Segmentation [[paper](https://arxiv.org/abs/2409.14305)] (2024.09.22)
+
+- Protein-Mamba: Biological Mamba Models for Protein Function Prediction [[paper](https://arxiv.org/abs/2409.14617)] (2024.09.22)
+
 
 <span id="head9"></span>
 
@@ -530,6 +547,7 @@ Enjoy it below!
 * MambaFoley: Foley Sound Generation using Selective State-Space Models [[paper](https://arxiv.org/abs/2409.09162)] (2024.09.13)
 * Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution [[paper](https://arxiv.org/abs/2409.09337)] (2024.09.14)
 * Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement [[paper](https://arxiv.org/abs/2409.10376)] (2024.09.16)
+* DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification [[paper](https://arxiv.org/abs/2409.12413)] (2024.09.19)
 
 <span id="head14"></span>
 
@@ -542,6 +560,7 @@ Enjoy it below!
 * MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation [[paper](https://arxiv.org/abs/2407.19239)] [[code](https://github.com/Unintelligentmumu/MaTrRec)] (2024.06.27)
 * Bidirectional Gated Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2408.11451)] [[code](https://github.com/ziwliu-cityu/SIMGA)] (2024.08.21)
 * SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2409.01192)] [[code](https://github.com/ZhangYifeng1995/SSD4Rec)] (2024.09.02)
+* TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model [[paper](https://arxiv.org/abs/2409.16182)] [[code](https://github.com/AlwaysFHao/TiM4Rec)] (2024.09.24)
 
 <span id="head15"></span>
 ### Reinforcement Learning
@@ -559,6 +578,8 @@ Enjoy it below!
 * PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
 * Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20)
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
+* DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
+* Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
 
 <span id="head16"></span>
 ###  Survey
