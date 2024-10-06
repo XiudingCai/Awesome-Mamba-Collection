@@ -63,6 +63,7 @@ Enjoy it below!
 * The Expressive Capacity of State Space Models: A Formal Language Perspective [[paper](https://arxiv.org/abs/2405.17394)] (2024.05.27)
 * Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective [[paper](https://arxiv.org/abs/2405.17383)] (2024.05.27)
 * (ICML 2024) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
+* Parallelizing Linear Transformers with the Delta Rule over Sequence Length [[paper](https://arxiv.org/abs/2406.06484)] [[code](https://github.com/sustcsonglin/flash-linear-attention)] (2024.06.10)
 * MambaLRP: Explaining Selective State Space Sequence Models [[paper](https://arxiv.org/abs/2406.07592)] (2024.06.11)
 * Towards a theory of learning dynamics in deep state space models [[paper](https://arxiv.org/abs/2407.07279)] (2024.07.10)
 
@@ -75,6 +76,7 @@ Enjoy it below!
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[paper](https://arxiv.org/abs/2402.05892)] (2024.02.08)
 - Pan-Mamba: Effective pan-sharpening with State Space Model [[paper](https://arxiv.org/abs/2402.12192)] (2024.02.19)
 - (ECCV 2024) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[paper](https://arxiv.org/abs/2402.15648)] [[code](https://github.com/csguoh/mambair)] (2024.02.23)
+- (CVPR 2024 spotlight) State Space Models for Event Cameras [[paper](https://arxiv.org/abs/2402.15584)] [[code](https://github.com/uzh-rpg/ssms_event_cameras)] (2024.02.23)
 - Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [[paper](https://arxiv.org/abs/2402.15761)] [[code](https://github.com/chishengchen/resvmamba)] (2024.02.24)
 - MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [[paper](https://arxiv.org/abs/2403.02148)] [[code](https://github.com/txchen-USTC/MiM-ISTD)] (2024.03.04)
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba)] (2024.03.12)
@@ -235,6 +237,7 @@ Enjoy it below!
 - Distillation-free Scaling of Large SSMs for Images and Videos [[paper](https://arxiv.org/abs/2409.11867)] (2024.09.18)
 - GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[paper](https://arxiv.org/abs/2409.14403)] (2024.09.22)
 - Exploring Token Pruning in Vision State Space Models [[paper](https://arxiv.org/abs/2409.18962)] (2024.09.27)
+- MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining [[paper](https://arxiv.org/abs/2410.00871)] (2024.10.01)
 
 <span id="head6"></span>
 
@@ -520,6 +523,7 @@ Enjoy it below!
 * Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need [[paper](https://arxiv.org/abs/2408.15997)] [[code](https://github.com/lunaaa95/mou/)] (2024.08.28)
 * Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics [[paper](https://arxiv.org/abs/2409.08530)] (2024.09.13)
 * SITSMamba for Crop Classification based on Satellite Image Time Series [[paper](https://arxiv.org/abs/2409.09673)] (2024.09.15)
+* A SSM is Polymerized from Multivariate Time Series [[paper](https://arxiv.org/abs/2409.20310)] [[code](https://github.com/Joeland4/Poly-Mamba)] (2024.09.30)
 
 <span id="head13"></span>
 
