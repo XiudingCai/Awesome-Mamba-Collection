@@ -238,6 +238,13 @@ Enjoy it below!
 - GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[paper](https://arxiv.org/abs/2409.14403)] (2024.09.22)
 - Exploring Token Pruning in Vision State Space Models [[paper](https://arxiv.org/abs/2409.18962)] (2024.09.27)
 - MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining [[paper](https://arxiv.org/abs/2410.00871)] (2024.10.01)
+- Oscillatory State-Space Models [[paper](https://arxiv.org/abs/2410.03943)] (2024.10.04)
+- HRVMamba: High-Resolution Visual State Space Model for Dense Prediction [[paper](https://arxiv.org/abs/2410.03174)] (2024.10.04)
+- Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection [[paper](https://arxiv.org/abs/2410.03987)] [[code](https://github.com/Liangbo-Cheng/mamba)] (2024.10.05)
+- IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2410.05100)] (2024.10.07)
+- Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion [[paper](https://arxiv.org/abs/2410.05624)] (2024.10.08)
+- MatMamba: A Matryoshka State Space Model [[paper](https://arxiv.org/abs/2410.06718)] [[code](https://github.com/ScaledFoundations/MatMamba)] (2024.10.09)
+- (NeurIPS 2024) QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model [[paper](https://arxiv.org/abs/2410.06806)] [[code](https://github.com/VISION-SJTU/QuadMamba)] (2024.10.09)
 
 <span id="head6"></span>
 
@@ -266,6 +273,8 @@ Enjoy it below!
 * ReMamba: Equip Mamba with Effective Long-Sequence Modeling [[paper](https://arxiv.org/abs/2408.15496)] (2024.08.28)
 * Sparse Mamba: Reinforcing Controllability In Structural State Space Models [[paper](https://arxiv.org/abs/2409.00563)] (2024.08.31)
 * DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://arxiv.org/abs/2409.11887)] (2024.09.18)
+* Can Mamba Always Enjoy the "Free Lunch"? [[paper](https://arxiv.org/abs/2410.03810)] (2024.10.04)
+* Falcon Mamba: The First Competitive Attention-free 7B Language Model [[paper](https://arxiv.org/abs/2410.05355)] (2024.10.07)
 
 <span id="head7"></span>
 
@@ -290,6 +299,7 @@ Enjoy it below!
 * Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling [[paper](https://arxiv.org/abs/2409.05395)] (2024.09.09)
 * Mamba Fusion: Learning Actions Through Questioning [[paper](https://arxiv.org/abs/2409.11513)] (2024.09.17)
 * DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[paper](https://arxiv.org/abs/2409.15936)] (2024.09.24)
+* EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[paper](https://arxiv.org/abs/2410.05938)] (2024.10.08)
 
 <span id="head29"></span>
 
@@ -524,6 +534,7 @@ Enjoy it below!
 * Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics [[paper](https://arxiv.org/abs/2409.08530)] (2024.09.13)
 * SITSMamba for Crop Classification based on Satellite Image Time Series [[paper](https://arxiv.org/abs/2409.09673)] (2024.09.15)
 * A SSM is Polymerized from Multivariate Time Series [[paper](https://arxiv.org/abs/2409.20310)] [[code](https://github.com/Joeland4/Poly-Mamba)] (2024.09.30)
+* TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models [[paper](https://arxiv.org/abs/2410.05916)] (2024.10.08)
 
 <span id="head13"></span>
 
@@ -552,6 +563,7 @@ Enjoy it below!
 * Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution [[paper](https://arxiv.org/abs/2409.09337)] (2024.09.14)
 * Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement [[paper](https://arxiv.org/abs/2409.10376)] (2024.09.16)
 * DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification [[paper](https://arxiv.org/abs/2409.12413)] (2024.09.19)
+* (ICASSP 2025) Mamba-based Segmentation Model for Speaker Diarization [[paper](https://arxiv.org/abs/2410.06459)] [[code](https://github.com/nttcslab-sp/mamba-diarization)] (2024.10.09)
 
 <span id="head14"></span>
 
@@ -584,6 +596,7 @@ Enjoy it below!
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
+* S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
 
 <span id="head16"></span>
 ###  Survey
