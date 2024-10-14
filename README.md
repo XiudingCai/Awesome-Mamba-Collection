@@ -51,6 +51,7 @@ Enjoy it below!
 * (ICML 2024, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality [[paper](https://arxiv.org/abs/2405.21060)] [[poster](https://icml.cc/virtual/2024/poster/32613)] [[code](https://github.com/state-spaces/mamba)] (2024.05.31)
 * Jamba-1.5: Hybrid Transformer-Mamba Models at Scale [[paper](https://arxiv.org/abs/2408.12570)] (2024.08.22)
 * (ICCAD 2024) MARCA: Mamba Accelerator with ReConfigurable Architecture [[paper](https://arxiv.org/abs/2409.11440)] (2024.09.16)
+* S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -245,6 +246,7 @@ Enjoy it below!
 - Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion [[paper](https://arxiv.org/abs/2410.05624)] (2024.10.08)
 - MatMamba: A Matryoshka State Space Model [[paper](https://arxiv.org/abs/2410.06718)] [[code](https://github.com/ScaledFoundations/MatMamba)] (2024.10.09)
 - (NeurIPS 2024) QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model [[paper](https://arxiv.org/abs/2410.06806)] [[code](https://github.com/VISION-SJTU/QuadMamba)] (2024.10.09)
+- CountMamba: Exploring Multi-directional Selective State-Space Models for Plant Counting [[paper](https://arxiv.org/abs/2410.07528)] (2024.10.10)
 
 <span id="head6"></span>
 
@@ -275,6 +277,7 @@ Enjoy it below!
 * DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://arxiv.org/abs/2409.11887)] (2024.09.18)
 * Can Mamba Always Enjoy the "Free Lunch"? [[paper](https://arxiv.org/abs/2410.03810)] (2024.10.04)
 * Falcon Mamba: The First Competitive Attention-free 7B Language Model [[paper](https://arxiv.org/abs/2410.05355)] (2024.10.07)
+* Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling [[paper](https://arxiv.org/abs/2410.07145)] (2024.10.09)
 
 <span id="head7"></span>
 
@@ -466,6 +469,8 @@ Enjoy it below!
 
 - Protein-Mamba: Biological Mamba Models for Protein Function Prediction [[paper](https://arxiv.org/abs/2409.14617)] (2024.09.22)
 
+- Multi-resolution visual Mamba with multi-directional selective mechanism for retinal disease detection [[paper](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2024.1484880/full)] (2024.10.11)
+
 
 <span id="head9"></span>
 
@@ -487,6 +492,7 @@ Enjoy it below!
 * DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models [[paper](https://arxiv.org/abs/2408.04713)] (2024.08.08)
 * DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/abs/2408.06966)] (2024.08.13)
 * Geometry Informed Tokenization of Molecules for Language Model Generation [[paper](https://arxiv.org/abs/2408.10120)] (2024.08.19)
+* Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction [[paper](https://arxiv.org/abs/2410.03707)] [[code](http://github.com/Ali-Meh619/SAMBA)] (2024.09.26)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -533,6 +539,7 @@ Enjoy it below!
 * Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need [[paper](https://arxiv.org/abs/2408.15997)] [[code](https://github.com/lunaaa95/mou/)] (2024.08.28)
 * Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics [[paper](https://arxiv.org/abs/2409.08530)] (2024.09.13)
 * SITSMamba for Crop Classification based on Satellite Image Time Series [[paper](https://arxiv.org/abs/2409.09673)] (2024.09.15)
+* Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction [[paper](https://arxiv.org/abs/2410.03707)] [[code](http://github.com/Ali-Meh619/SAMBA)] (2024.09.26)
 * A SSM is Polymerized from Multivariate Time Series [[paper](https://arxiv.org/abs/2409.20310)] [[code](https://github.com/Joeland4/Poly-Mamba)] (2024.09.30)
 * TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models [[paper](https://arxiv.org/abs/2410.05916)] (2024.10.08)
 
@@ -596,7 +603,6 @@ Enjoy it below!
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
-* S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
 
 <span id="head16"></span>
 ###  Survey
