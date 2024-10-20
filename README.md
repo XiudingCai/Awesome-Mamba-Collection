@@ -67,6 +67,7 @@ Enjoy it below!
 * Parallelizing Linear Transformers with the Delta Rule over Sequence Length [[paper](https://arxiv.org/abs/2406.06484)] [[code](https://github.com/sustcsonglin/flash-linear-attention)] (2024.06.10)
 * MambaLRP: Explaining Selective State Space Sequence Models [[paper](https://arxiv.org/abs/2406.07592)] (2024.06.11)
 * Towards a theory of learning dynamics in deep state space models [[paper](https://arxiv.org/abs/2407.07279)] (2024.07.10)
+* Lambda-Skip Connections: the architectural component that prevents Rank Collapse [[paper](https://arxiv.org/abs/2410.10609)] (2024.10.14)
 
 <span id="head5"></span>
 ###  Vision
@@ -247,6 +248,11 @@ Enjoy it below!
 - MatMamba: A Matryoshka State Space Model [[paper](https://arxiv.org/abs/2410.06718)] [[code](https://github.com/ScaledFoundations/MatMamba)] (2024.10.09)
 - (NeurIPS 2024) QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model [[paper](https://arxiv.org/abs/2410.06806)] [[code](https://github.com/VISION-SJTU/QuadMamba)] (2024.10.09)
 - CountMamba: Exploring Multi-directional Selective State-Space Models for Plant Counting [[paper](https://arxiv.org/abs/2410.07528)] (2024.10.10)
+- GlobalMamba: Global Image Serialization for Vision Mamba [[paper](https://arxiv.org/abs/2410.10316)] (2024.10.14)
+- V2M: Visual 2-Dimensional Mamba for Image Representation Learning [[paper](https://arxiv.org/abs/2410.10382)] (2024.10.14)
+- MambaBEV: An efficient 3D detection model with Mamba2 [[paper](https://arxiv.org/abs/2410.12673)] (2024.10.16)
+- MambaPainter: Neural Stroke-Based Rendering in a Single Step [[paper](https://arxiv.org/abs/2410.12524)] (2024.10.16)
+- RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images [[paper](https://arxiv.org/abs/2410.13532)] (2024.10.17)
 
 <span id="head6"></span>
 
@@ -471,6 +477,8 @@ Enjoy it below!
 
 - Multi-resolution visual Mamba with multi-directional selective mechanism for retinal disease detection [[paper](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2024.1484880/full)] (2024.10.11)
 
+- UMambaAdj: Advancing GTV Segmentation for Head and Neck Cancer in MRI-Guided RT with UMamba and nnU-Net ResEnc Planner [[paper](https://arxiv.org/abs/2410.12940)] (2024.10.16)
+
 
 <span id="head9"></span>
 
@@ -542,6 +550,8 @@ Enjoy it below!
 * Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction [[paper](https://arxiv.org/abs/2410.03707)] [[code](http://github.com/Ali-Meh619/SAMBA)] (2024.09.26)
 * A SSM is Polymerized from Multivariate Time Series [[paper](https://arxiv.org/abs/2409.20310)] [[code](https://github.com/Joeland4/Poly-Mamba)] (2024.09.30)
 * TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models [[paper](https://arxiv.org/abs/2410.05916)] (2024.10.08)
+* Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models [[paper](https://arxiv.org/abs/2410.09385)] (2024.10.12)
+* UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba [[paper](https://arxiv.org/abs/2410.11278)] (2024.10.15)
 
 <span id="head13"></span>
 
@@ -571,6 +581,7 @@ Enjoy it below!
 * Leveraging Joint Spectral and Spatial Learning with MAMBA for Multichannel Speech Enhancement [[paper](https://arxiv.org/abs/2409.10376)] (2024.09.16)
 * DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification [[paper](https://arxiv.org/abs/2409.12413)] (2024.09.19)
 * (ICASSP 2025) Mamba-based Segmentation Model for Speaker Diarization [[paper](https://arxiv.org/abs/2410.06459)] [[code](https://github.com/nttcslab-sp/mamba-diarization)] (2024.10.09)
+* CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning [[paper](https://arxiv.org/abs/2410.11062)] (2024.10.14)
 
 <span id="head14"></span>
 
