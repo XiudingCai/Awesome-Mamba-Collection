@@ -236,6 +236,7 @@ Enjoy it below!
 - SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks [[paper](https://arxiv.org/abs/2409.09649)] [[code](https://github.com/LMMMEng/SparX)] (2024.09.15) ![Stars](https://img.shields.io/github/stars/LMMMEng/SparX) 
 - (ECCV 2024) Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[paper](https://arxiv.org/abs/2409.09808)] (2024.09.15)
 - Mamba-ST: State Space Model for Efficient Style Transfer [[paper](https://arxiv.org/abs/2409.10385)] (2024.09.16)
+- (IEEE Sensors Journal) AE-IRMamba: Low-Complexity Inverted Residual Mamba for Identification of Piezoelectric Ceramic and Optical Fiber Acoustic Emission Sensors Signals [[paper](https://ieeexplore.ieee.org/document/10682523)] (2024.09.17)
 - Distillation-free Scaling of Large SSMs for Images and Videos [[paper](https://arxiv.org/abs/2409.11867)] (2024.09.18)
 - GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[paper](https://arxiv.org/abs/2409.14403)] (2024.09.22)
 - Exploring Token Pruning in Vision State Space Models [[paper](https://arxiv.org/abs/2409.18962)] (2024.09.27)
@@ -252,7 +253,17 @@ Enjoy it below!
 - V2M: Visual 2-Dimensional Mamba for Image Representation Learning [[paper](https://arxiv.org/abs/2410.10382)] (2024.10.14)
 - MambaBEV: An efficient 3D detection model with Mamba2 [[paper](https://arxiv.org/abs/2410.12673)] (2024.10.16)
 - MambaPainter: Neural Stroke-Based Rendering in a Single Step [[paper](https://arxiv.org/abs/2410.12524)] (2024.10.16)
+- Rethinking Token Reduction for State Space Models [[paper](https://arxiv.org/abs/2410.14725)] (2024.10.16)
+- Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats [[paper](https://arxiv.org/abs/2410.12781)] (2024.10.16)
 - RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images [[paper](https://arxiv.org/abs/2410.13532)] (2024.10.17)
+- Quamba: A Post-Training Quantization Recipe for Selective State Space Models [[paper](https://arxiv.org/abs/2410.13229)] (2024.10.17)
+- (NeurIPS 2024) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging [[paper](https://arxiv.org/abs/2410.14214)] [[code](https://github.com/PAN083/MambaSCI)] (2024.10.18) ![Stars](https://img.shields.io/github/stars/PAN083/MambaSCI) 
+- Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion [[paper](https://arxiv.org/abs/2410.15091)] [[code](https://github.com/EdwardChasel/Spatial-Mamba)] (2024.10.19) ![Stars](https://img.shields.io/github/stars/EdwardChasel/Spatial-Mamba) 
+- START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation [[paper](https://arxiv.org/abs/2410.16020)] [[code](https://github.com/lingeringlight/START)] (2024.10.21) ![Stars](https://img.shields.io/github/stars/lingeringlight/START) 
+- Revealing and Mitigating the Local Pattern Shortcuts of Mamba [[paper](https://arxiv.org/abs/2410.15678)] (2024.10.21)
+- SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[paper](https://arxiv.org/abs/2410.16746)] (2024.10.22)
+- Topology-aware Mamba for Crack Segmentation in Structures [[paper](https://arxiv.org/abs/2410.19894)] [[code](https://github.com/shengyu27/CrackMamba)] (2024.10.25) ![Stars](https://img.shields.io/github/stars/shengyu27/CrackMamba) 
+- Adaptive Multi Scale Document Binarisation Using Vision Mamba [[paper](https://arxiv.org/abs/2410.22811)] (2024.10.30)
 
 <span id="head6"></span>
 
@@ -284,6 +295,7 @@ Enjoy it below!
 * Can Mamba Always Enjoy the "Free Lunch"? [[paper](https://arxiv.org/abs/2410.03810)] (2024.10.04)
 * Falcon Mamba: The First Competitive Attention-free 7B Language Model [[paper](https://arxiv.org/abs/2410.05355)] (2024.10.07)
 * Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling [[paper](https://arxiv.org/abs/2410.07145)] (2024.10.09)
+* (CIKM 2024) XRDMamba: Large-scale Crystal Material Space Group Identification with Selective State Space Model [[paper](https://dl.acm.org/doi/10.1145/3627673.3680006)] (2024.10.21)
 
 <span id="head7"></span>
 
@@ -309,6 +321,7 @@ Enjoy it below!
 * Mamba Fusion: Learning Actions Through Questioning [[paper](https://arxiv.org/abs/2409.11513)] (2024.09.17)
 * DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[paper](https://arxiv.org/abs/2409.15936)] (2024.09.24)
 * EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[paper](https://arxiv.org/abs/2410.05938)] (2024.10.08)
+* MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[paper](https://arxiv.org/abs/2410.15015)] [[code](https://github.com/YueZhan721/MambaSOD)] (2024.10.19) ![Stars](https://img.shields.io/github/stars/YueZhan721/MambaSOD) 
 
 <span id="head29"></span>
 
@@ -479,6 +492,14 @@ Enjoy it below!
 
 - UMambaAdj: Advancing GTV Segmentation for Head and Neck Cancer in MRI-Guided RT with UMamba and nnU-Net ResEnc Planner [[paper](https://arxiv.org/abs/2410.12940)] (2024.10.16)
 
+- Taming Mambas for Voxel Level 3D Medical Image Segmentation [[paper](https://arxiv.org/abs/2410.15496)] (2024.10.20)
+
+- R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[paper](https://arxiv.org/abs/2410.18135)] [[code](https://github.com/YonghengSun1997/R2Gen-Mamba)] (2024.10.21) ![Stars](https://img.shields.io/github/stars/YonghengSun1997/R2Gen-Mamba) 
+
+- Bio2Token: All-atom tokenization of any biomolecular structure with Mamba [[paper](https://arxiv.org/abs/2410.19110)] (2024.10.24)
+
+- SC-MAMBA2: Leveraging State-Space Models for Efficient Single-Cell Ultra-Long Transcriptome Modeling [[paper](https://www.biorxiv.org/content/10.1101/2024.09.30.615775)] (2024.10.26)
+
 
 <span id="head9"></span>
 
@@ -552,6 +573,9 @@ Enjoy it below!
 * TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models [[paper](https://arxiv.org/abs/2410.05916)] (2024.10.08)
 * Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models [[paper](https://arxiv.org/abs/2410.09385)] (2024.10.12)
 * UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba [[paper](https://arxiv.org/abs/2410.11278)] (2024.10.15)
+* MASER: Enhancing EEG Spatial Resolution With State Space Modeling [[paper](https://ieeexplore.ieee.org/document/10720236)] (2024.10.16)
+* MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction [[paper](https://arxiv.org/abs/2410.19297)] [[code](https://github.com/wredan/mamba-cpu)] (2024.10.25) ![Stars](https://img.shields.io/github/stars/wredan/mamba-cpu) 
+* SambaMixer: State of Health Prediction of Li-ion Batteries using Mamba State Space Models [[paper](https://arxiv.org/abs/2411.00233)] [[code](https://github.com/sascha-kirch/samba-mixer)] (2024.10.25) ![Stars](https://img.shields.io/github/stars/sascha-kirch/samba-mixer) 
 
 <span id="head13"></span>
 
