@@ -622,6 +622,7 @@ Enjoy it below!
 
 <span id="head15"></span>
 ### Reinforcement Learning
+* Decision MetaMamba: Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models [[paper]([https://arxiv.org/abs/2403.19925](http://www.arxiv.org/abs/2408.10517))] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20)
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
