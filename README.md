@@ -622,7 +622,6 @@ Enjoy it below!
 
 <span id="head15"></span>
 ### Reinforcement Learning
-* Decision MetaMamba: Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models [[paper]([https://arxiv.org/abs/2403.19925](http://www.arxiv.org/abs/2408.10517))] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20)
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
 * Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [[paper](https://arxiv.org/abs/2405.12094)] (2024.05.20)
@@ -635,7 +634,7 @@ Enjoy it below!
 * KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
 * Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
 * PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
-* Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models: Decision MetaMamba [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20)
+* Decision MetaMamba: Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20)
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
