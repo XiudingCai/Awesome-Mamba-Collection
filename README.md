@@ -264,6 +264,21 @@ Enjoy it below!
 - SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[paper](https://arxiv.org/abs/2410.16746)] (2024.10.22)
 - Topology-aware Mamba for Crack Segmentation in Structures [[paper](https://arxiv.org/abs/2410.19894)] [[code](https://github.com/shengyu27/CrackMamba)] (2024.10.25)
 - Adaptive Multi Scale Document Binarisation Using Vision Mamba [[paper](https://arxiv.org/abs/2410.22811)] (2024.10.30)
+- MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration [[paper](https://arxiv.org/abs/2411.01399)] (2024.11.03)
+- ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal [[paper](https://arxiv.org/abs/2411.03260)] (2024.11.05)
+- Towards 3D Semantic Scene Completion for Autonomous Driving: A Meta-Learning Framework Empowered by Deformable Large-Kernel Attention and Mamba Model [[paper](https://arxiv.org/abs/2411.03672)] (2024.11.06)
+- MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba [[paper](https://arxiv.org/abs/2411.03855)] (2024.11.06)
+- SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM [[paper](https://arxiv.org/abs/2411.06318)] [[code](https://github.com/ChrisChen1023/SEM-Net)] (2024.11.10)
+- KMM: Key Frame Mask Mamba for Extended Motion Generation [[paper](https://arxiv.org/abs/2411.06481)] (2024.11.10)
+- LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection [[paper](https://arxiv.org/abs/2411.06652)] [[code](https://github.com/liuzywen/LFScribble)] (2024.11.11)
+- AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models [[paper](https://arxiv.org/abs/2411.07364)] (2024.11.11)
+- RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model [[paper](https://arxiv.org/abs/2411.11717)] (2024.11.18)
+- EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality [[paper](https://arxiv.org/abs/2411.15241)] [[code](https://github.com/mlvlab/EfficientViM)] (2024.11.22)
+- MambaIRv2: Attentive State Space Restoration [[paper](https://arxiv.org/abs/2411.15269)] [[code](https://github.com/csguoh/MambaIR)] (2024.11.22)
+- Nd-BiMamba2: A Unified Bidirectional Architecture for Multi-Dimensional Data Processing [[paper](https://arxiv.org/abs/2411.15380)] [[code](https://github.com/Human9000/nd-Mamba2-torch)] (2024.11.22)
+- MobileMamba: Lightweight Multi-Receptive Visual Mamba Network [[paper](https://arxiv.org/abs/2411.15941)] [[code](https://github.com/lewandofskee/MobileMamba)] (2024.11.24)
+- MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking [[paper](https://arxiv.org/abs/2411.15761)] (2024.11.24)
+- TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba [[paper](https://arxiv.org/abs/2411.17473)] [[code](https://github.com/xwmaxwma/TinyViM)] (2024.11.26)
 
 <span id="head6"></span>
 
@@ -296,6 +311,9 @@ Enjoy it below!
 * Falcon Mamba: The First Competitive Attention-free 7B Language Model [[paper](https://arxiv.org/abs/2410.05355)] (2024.10.07)
 * Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling [[paper](https://arxiv.org/abs/2410.07145)] (2024.10.09)
 * (CIKM 2024) XRDMamba: Large-scale Crystal Material Space Group Identification with Selective State Space Model [[paper](https://dl.acm.org/doi/10.1145/3627673.3680006)] (2024.10.21)
+* Bi-Mamba: Towards Accurate 1-Bit State Space Models [[paper](https://arxiv.org/abs/2411.11843)] (2024.11.18)
+* Hymba: A Hybrid-head Architecture for Small Language Models [[paper](https://arxiv.org/abs/2411.13676)] (2024.11.20)
+* Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation [[paper](https://arxiv.org/abs/2411.15224)] (2024.11.21)
 
 <span id="head7"></span>
 
@@ -358,6 +376,7 @@ Enjoy it below!
 * MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos [[paper](https://arxiv.org/abs/2409.02638)] [[code](https://irmvlab.github.io/madiff.github.io)] (2024.09.04)
 * Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/abs/2409.07163)] [[code](https://andycao1125.github.io/mamba_policy)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
+* (NeurIPS 2024) DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation [[paper](https://arxiv.org/abs/2411.04168)] [[code](https://hao-pt.github.io/dimsum/)] (2024.11.06)
 
 <span id="head8"></span>
 
@@ -500,6 +519,10 @@ Enjoy it below!
 
 - SC-MAMBA2: Leveraging State-Space Models for Efficient Single-Cell Ultra-Long Transcriptome Modeling [[paper](https://www.biorxiv.org/content/10.1101/2024.09.30.615775)] (2024.10.26)
 
+- KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling [[paper](https://arxiv.org/abs/2411.11926)] (2024.11.18)
+
+- When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation [[paper](https://arxiv.org/abs/2411.09363)] [[code](https://github.com/FangZhuoyi/XLSTM-VMUNet)] (2024.11.25)
+
 
 <span id="head9"></span>
 
@@ -576,6 +599,8 @@ Enjoy it below!
 * MASER: Enhancing EEG Spatial Resolution With State Space Modeling [[paper](https://ieeexplore.ieee.org/document/10720236)] (2024.10.16)
 * MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction [[paper](https://arxiv.org/abs/2410.19297)] [[code](https://github.com/wredan/mamba-cpu)] (2024.10.25)
 * SambaMixer: State of Health Prediction of Li-ion Batteries using Mamba State Space Models [[paper](https://arxiv.org/abs/2411.00233)] [[code](https://github.com/sascha-kirch/samba-mixer)] (2024.10.25)
+* A Mamba Foundation Model for Time Series Forecasting [[paper](https://arxiv.org/abs/2411.02941)] (2024.11.05)
+* BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging [[paper](https://arxiv.org/abs/2411.01589)] (2024.11.21)
 
 <span id="head13"></span>
 
@@ -606,6 +631,9 @@ Enjoy it below!
 * DeFT-Mamba: Universal Multichannel Sound Separation and Polyphonic Audio Classification [[paper](https://arxiv.org/abs/2409.12413)] (2024.09.19)
 * (ICASSP 2025) Mamba-based Segmentation Model for Speaker Diarization [[paper](https://arxiv.org/abs/2410.06459)] [[code](https://github.com/nttcslab-sp/mamba-diarization)] (2024.10.09)
 * CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning [[paper](https://arxiv.org/abs/2410.11062)] (2024.10.14)
+* (IEEE TCE) Selective State Space Model for Monaural Speech Enhancement [[paper](https://arxiv.org/abs/2411.06217)] (2024.11.09)
+* (SLT 2024) Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition [[paper](https://arxiv.org/abs/2411.06968)] [[code](https://github.com/YoshikiMas/madeon-asr)] (2024.11.11)
+* XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection [[paper](https://arxiv.org/abs/2411.10027)] (2024.11.15)
 
 <span id="head14"></span>
 
