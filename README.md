@@ -279,6 +279,10 @@ Enjoy it below!
 - MobileMamba: Lightweight Multi-Receptive Visual Mamba Network [[paper](https://arxiv.org/abs/2411.15941)] [[code](https://github.com/lewandofskee/MobileMamba)] (2024.11.24)
 - MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking [[paper](https://arxiv.org/abs/2411.15761)] (2024.11.24)
 - TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba [[paper](https://arxiv.org/abs/2411.17473)] [[code](https://github.com/xwmaxwma/TinyViM)] (2024.11.26)
+- BadScan: An Architectural Backdoor Attack on Visual State Space Models [[paper](https://arxiv.org/abs/2411.17283)] [[code](https://github.com/OmSDeshmukh/BadScan)] (2024.11.26)
+- SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders [[paper](https://arxiv.org/abs/2411.19544)] (2024.11.29)
+- MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning [[paper](https://arxiv.org/abs/2412.00626)] (2024.12.01)
+- (Expert Systems with Applications 2025) Evaluation of aggregate distribution uniformity using Vision Mamba-based dual networks for concrete aggregate segmentation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424029439)] (2024.12.05)
 
 <span id="head6"></span>
 
@@ -340,6 +344,7 @@ Enjoy it below!
 * DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[paper](https://arxiv.org/abs/2409.15936)] (2024.09.24)
 * EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[paper](https://arxiv.org/abs/2410.05938)] (2024.10.08)
 * MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[paper](https://arxiv.org/abs/2410.15015)] [[code](https://github.com/YueZhan721/MambaSOD)] (2024.10.19)
+* AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[paper](https://arxiv.org/abs/2412.00833)] (2024.12.01)
 
 <span id="head29"></span>
 
@@ -523,6 +528,10 @@ Enjoy it below!
 
 - When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTM-VMUNet Model for Skin lesion Segmentation [[paper](https://arxiv.org/abs/2411.09363)] [[code](https://github.com/FangZhuoyi/XLSTM-VMUNet)] (2024.11.25)
 
+- MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation [[paper](https://arxiv.org/abs/2412.01405)] (2024.12.02)
+
+- MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[paper](https://arxiv.org/abs/2412.01422)] (2024.12.02)
+
 
 <span id="head9"></span>
 
@@ -545,6 +554,9 @@ Enjoy it below!
 * DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/abs/2408.06966)] (2024.08.13)
 * Geometry Informed Tokenization of Molecules for Language Model Generation [[paper](https://arxiv.org/abs/2408.10120)] (2024.08.19)
 * Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction [[paper](https://arxiv.org/abs/2410.03707)] [[code](http://github.com/Ali-Meh619/SAMBA)] (2024.09.26)
+* DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models [[paper](https://arxiv.org/abs/2412.08160)] (2024.12.11)
+* (AAAI 2025) Selective Visual Prompting in Vision Mamba [[paper](https://arxiv.org/abs/2412.08947)] (2024.12.12)
+* XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring [[paper](https://arxiv.org/abs/2412.10338)] (2024.12.13)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -666,6 +678,7 @@ Enjoy it below!
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
+* Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games [[paper](https://arxiv.org/abs/2412.00725)] (2024.12.01)
 
 <span id="head16"></span>
 ###  Survey
