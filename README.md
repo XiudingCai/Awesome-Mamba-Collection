@@ -420,7 +420,7 @@ Enjoy it below!
 
 - Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy [[paper](https://arxiv.org/abs/2403.05146)] (2024.03.08)
 
-- MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [[paper](https://arxiv.org/abs/2403.05160)] (2024.03.08)
+- (IEEE BIBM 2024) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [[paper](https://arxiv.org/abs/2403.05160)] [[code](https://github.com/Vison307/MamMIL)] (2024.03.08)
 
 - LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [[paper](https://arxiv.org/abs/2403.05246)] [[code](https://github.com/MrBlankness/LightM-UNet)] (2024.03.08)
 
