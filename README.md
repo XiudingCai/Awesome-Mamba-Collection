@@ -532,6 +532,8 @@ Enjoy it below!
 
 - MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[paper](https://arxiv.org/abs/2412.01422)] (2024.12.02)
 
+- MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction [[paper](https://arxiv.org/abs/2412.09331)] [[code](https://github.com/icon-lab/MambaRoll)] (2024.12.12)
+
 
 <span id="head9"></span>
 
