@@ -84,6 +84,7 @@ Enjoy it below!
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[paper](https://arxiv.org/abs/2403.07487)] [[code](https://github.com/steve-zeyu-zhang/MotionMamba)] (2024.03.12) ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba) 
 - LocalMamba: Visual State Space Model with Windowed Selective Scan [[paper](https://arxiv.org/abs/2403.09338)] [[code](https://github.com/hunto/LocalMamba)] (2024.03.14) ![Stars](https://img.shields.io/github/stars/hunto/LocalMamba) 
 - EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba [[paper](https://arxiv.org/abs/2403.09977)] (2024.03.15)
+- Exploring Learning-based Motion Models in Multi-Object Tracking [[paper](https://arxiv.org/abs/2403.10826)] (2024.03.16)
 - VmambaIR: Visual State Space Model for Image Restoration [[paper](https://arxiv.org/abs/2403.11423)] [[code](https://github.com/alphacatplus/vmambair)] (2024.03.18) ![Stars](https://img.shields.io/github/stars/alphacatplus/vmambair) 
 - (ECCV 2024) ZigMa: Zigzag Mamba Diffusion Model [[paper](https://arxiv.org/abs/2403.13802)] [[code](https://github.com/CompVis/zigma)] [[project](https://taohu.me/zigma/)] (2024.03.20) ![Stars](https://img.shields.io/github/stars/CompVis/zigma) 
 - SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
@@ -283,6 +284,11 @@ Enjoy it below!
 - SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders [[paper](https://arxiv.org/abs/2411.19544)] (2024.11.29)
 - MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning [[paper](https://arxiv.org/abs/2412.00626)] (2024.12.01)
 - (Expert Systems with Applications 2025) Evaluation of aggregate distribution uniformity using Vision Mamba-based dual networks for concrete aggregate segmentation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424029439)] (2024.12.05)
+- Exploring Enhanced Contextual Information for Video-Level Object Tracking [[paper](https://arxiv.org/abs/2412.11023)] [[code](https://github.com/kangben258/MCITrack)] (2024.12.15) ![Stars](https://img.shields.io/github/stars/kangben258/MCITrack) 
+- SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation [[paper](https://arxiv.org/abs/2412.11890)] [[code](https://github.com/yunxiangfu2001/SegMAN)] (2024.12.16) ![Stars](https://img.shields.io/github/stars/yunxiangfu2001/SegMAN) 
+- GG-SSMs: Graph-Generating State Space Models [[paper](https://arxiv.org/abs/2412.12423)] (2024.12.17)
+- (AAAI 2025) Robust Tracking via Mamba-based Context-aware Token Learning [[paper](https://arxiv.org/abs/2412.13611)] (2024.12.18)
+- (AAAI 2025) Efficient Self-Supervised Video Hashing with Selective State Spaces [[paper](https://arxiv.org/abs/2412.14518)] [[code](https://github.com/gimpong/AAAI25-S5VH)] (2024.12.19) ![Stars](https://img.shields.io/github/stars/gimpong/AAAI25-S5VH) 
 
 <span id="head6"></span>
 
@@ -532,6 +538,11 @@ Enjoy it below!
 
 - MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[paper](https://arxiv.org/abs/2412.01422)] (2024.12.02)
 
+- MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction [[paper](https://arxiv.org/abs/2412.09331)] [[code](https://github.com/icon-lab/MambaRoll)] (2024.12.12) ![Stars](https://img.shields.io/github/stars/icon-lab/MambaRoll) 
+
+- BarcodeMamba: State Space Models for Biodiversity Analysis [[paper](https://export.arxiv.org/abs/2412.11084)] (2024.12.15)
+
+- (NeurIPS 2024) Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA [[paper](https://arxiv.org/abs/2412.13716)] [[code](https://github.com/qiaoqiaoLF/MxDNA)] (2024.12.18) ![Stars](https://img.shields.io/github/stars/qiaoqiaoLF/MxDNA) 
 
 <span id="head9"></span>
 
@@ -646,6 +657,7 @@ Enjoy it below!
 * (IEEE TCE) Selective State Space Model for Monaural Speech Enhancement [[paper](https://arxiv.org/abs/2411.06217)] (2024.11.09)
 * (SLT 2024) Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition [[paper](https://arxiv.org/abs/2411.06968)] [[code](https://github.com/YoshikiMas/madeon-asr)] (2024.11.11) ![Stars](https://img.shields.io/github/stars/YoshikiMas/madeon-asr) 
 * XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection [[paper](https://arxiv.org/abs/2411.10027)] (2024.11.15)
+* MASV: Speaker Verification with Global and Local Context Mamba [[paper](https://arxiv.org/abs/2412.10989)] (2024.12.14)
 
 <span id="head14"></span>
 
