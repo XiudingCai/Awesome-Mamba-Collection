@@ -185,12 +185,13 @@ Enjoy it below!
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[paper](https://arxiv.org/abs/2407.08333)] [[code](https://github.com/rcao-hk/SR-Mamba)] (2024.07.11)
 - DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[paper](https://arxiv.org/abs/2407.08132)] [[code](https://github.com/Another-0/DMM)] (2024.07.11)
 - Parallelizing Autoregressive Generation with Variational State Space Models [[paper](https://arxiv.org/abs/2407.08415)] (2024.07.11)
-- InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
 - Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12)
+- InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
 - Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
 - GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[paper](https://arxiv.org/abs/2407.13772)] [[code](https://github.com/Amshaker/GroupMamba)] (2024.07.18)
 - (ICML 2024 Workshop) Investigating the Indirect Object Identification circuit in Mamba [[paper](https://arxiv.org/abs/2407.14008)] [[openreview](https://openreview.net/forum?id=lq7ZaYuwub)] [[code](https://github.com/Phylliida/investigating-mamba-ioi)] (2024.07.19)
+- (TGRS 2024) MambaHSI: Spatial–Spectral Mamba for Hyperspectral Image Classification [[paper](https://ieeexplore.ieee.org/document/10604894)] [[code](https://github.com/li-yapeng/MambaHSI)] (2024.07.19)
 - MxT: Mamba x Transformer for Image Inpainting [[paper](https://arxiv.org/abs/2407.16126)] (2024.07.23)
 - ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[paper](https://arxiv.org/abs/2407.17705)] (2024.07.25)
 - VSSD: Vision Mamba with Non-Casual State Space Duality [[paper](https://arxiv.org/abs/2407.18559)] [[code](https://github.com/YuHengsss/VSSD)] (2024.07.26)
@@ -289,6 +290,10 @@ Enjoy it below!
 - GG-SSMs: Graph-Generating State Space Models [[paper](https://arxiv.org/abs/2412.12423)] (2024.12.17)
 - (AAAI 2025) Robust Tracking via Mamba-based Context-aware Token Learning [[paper](https://arxiv.org/abs/2412.13611)] (2024.12.18)
 - (AAAI 2025) Efficient Self-Supervised Video Hashing with Selective State Spaces [[paper](https://arxiv.org/abs/2412.14518)] [[code](https://github.com/gimpong/AAAI25-S5VH)] (2024.12.19)
+- (ICASSP 2025) Trusted Mamba Contrastive Network for Multi-View Clustering [[paper](https://arxiv.org/abs/2412.16487)] [[code](https://github.com/HackerHyper/TMCN)] (2024.12.21)
+- (WACV 2025) PTQ4VM: Post-Training Quantization for Visual Mamba [[paper](https://arxiv.org/abs/2412.20386)] [[code](https://github.com/YoungHyun197/ptq4vm)] (2024.12.29)
+- H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving [[paper](https://arxiv.org/abs/2501.04302)] [[code](https://github.com/Sranc3/H-MBA)] (2025.01.08)
+- (Artificial Intelligence in Agriculture) PAB-Mamba-YOLO: VSSM assists in YOLO for aggressive behavior detection among weaned piglets [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000017)] (2025.01.01)
 
 <span id="head6"></span>
 
@@ -538,17 +543,22 @@ Enjoy it below!
 
 - MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[paper](https://arxiv.org/abs/2412.01422)] (2024.12.02)
 
+- (BIBM 2024) Mamba-SAM: An Adaption Framework for Accurate Medical Image Segmentation [[paper](https://ieeexplore.ieee.org/document/10821723)] (2024.12.03)
+
 - MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction [[paper](https://arxiv.org/abs/2412.09331)] [[code](https://github.com/icon-lab/MambaRoll)] (2024.12.12)
 
-- BarcodeMamba: State Space Models for Biodiversity Analysis [[paper](https://export.arxiv.org/abs/2412.11084)] (2024.12.15)
+- (NeurIPS 2024 workshop) BarcodeMamba: State Space Models for Biodiversity Analysis [[paper](https://export.arxiv.org/abs/2412.11084)] (2024.12.15)
 
 - (NeurIPS 2024) Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA [[paper](https://arxiv.org/abs/2412.13716)] [[code](https://github.com/qiaoqiaoLF/MxDNA)] (2024.12.18)
+
+- KM-UNet KAN Mamba UNet for medical image segmentation [[paper](https://arxiv.org/abs/2501.02559)] [[code](https://github.com/2760613195/KM_UNet)] (2025.01.05)
 
 <span id="head9"></span>
 
 ### Tabular Data
-* MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
+* (MIPR 2024) MambaTab: A Simple Yet Effective Approach for Handling Tabular Data [[paper](https://arxiv.org/abs/2401.08867)] (2024.01.16)
 * Mambular: A Sequential Model for Tabular Deep Learning [[paper](https://arxiv.org/abs/2401.08867)] [[code](https://github.com/basf/mamba-tabular)] (2024.08.12)
+* (BIBM 2024) FT-Mamba: A Novel Deep Learning Model for Efficient Tabular Regression [[paper](https://ieeexplore.ieee.org/abstract/document/10822174)] (2024.12.03)
 
 <span id="head10"></span>
 ###  Graph
@@ -568,6 +578,8 @@ Enjoy it below!
 * DG-Mamba: Robust and Efficient Dynamic Graph Structure Learning with Selective State Space Models [[paper](https://arxiv.org/abs/2412.08160)] (2024.12.11)
 * (AAAI 2025) Selective Visual Prompting in Vision Mamba [[paper](https://arxiv.org/abs/2412.08947)] (2024.12.12)
 * XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring [[paper](https://arxiv.org/abs/2412.10338)] (2024.12.13)
+* GG-SSMs: Graph-Generating State Space Models [[paper](https://arxiv.org/abs/2412.12423)] (2024.12.17)
+* (AAAI 2025) MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights [[paper](https://arxiv.org/abs/2412.16483)] (2024.12.21)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -583,6 +595,7 @@ Enjoy it below!
 * Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[paper](https://arxiv.org/abs/2406.10700)] (2024.06.15)
 * Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[paper](https://arxiv.org/abs/2406.17442)] (2024.06.25)
 * Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation [[paper](https://arxiv.org/abs/2409.11018)] (2024.09.17)
+* (AAAI 2025) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[paper](https://arxiv.org/abs/2412.17366)] (2024.12.23)
 
 <span id="head12"></span>
 ### Time Series
@@ -624,6 +637,7 @@ Enjoy it below!
 * SambaMixer: State of Health Prediction of Li-ion Batteries using Mamba State Space Models [[paper](https://arxiv.org/abs/2411.00233)] [[code](https://github.com/sascha-kirch/samba-mixer)] (2024.10.25)
 * A Mamba Foundation Model for Time Series Forecasting [[paper](https://arxiv.org/abs/2411.02941)] (2024.11.05)
 * BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging [[paper](https://arxiv.org/abs/2411.01589)] (2024.11.21)
+* (BIBM 2024) EMO-Mamba: Multimodal Selective Structured State Space Model for Depression Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10822789)] (2024.12.03)
 
 <span id="head13"></span>
 
