@@ -202,7 +202,6 @@ Enjoy it below!
 - MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[paper](https://arxiv.org/abs/2408.01037)] [[code](https://github.com/XiangboGaoBarry/MambaST)] (2024.08.02)
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - DeMansia: Mamba Never Forgets Any Tokens [[paper](https://arxiv.org/abs/2408.01986)] [[code](https://github.com/catalpaaa/DeMansia)] (2024.08.04)
-- JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition [[paper](https://arxiv.org/abs/2408.05743)] (2024.08.11)
 - MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model [[paper](https://arxiv.org/abs/2408.06400)] (2024.08.12)
 - Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval [[paper](https://arxiv.org/abs/2408.08066)] (2024.08.15)

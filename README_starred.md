@@ -202,7 +202,6 @@ Enjoy it below!
 - MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[paper](https://arxiv.org/abs/2408.01037)] [[code](https://github.com/XiangboGaoBarry/MambaST)] (2024.08.02) ![Stars](https://img.shields.io/github/stars/XiangboGaoBarry/MambaST) 
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - DeMansia: Mamba Never Forgets Any Tokens [[paper](https://arxiv.org/abs/2408.01986)] [[code](https://github.com/catalpaaa/DeMansia)] (2024.08.04) ![Stars](https://img.shields.io/github/stars/catalpaaa/DeMansia) 
-- JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[paper](https://arxiv.org/abs/2408.01627)] (2024.08.03)
 - Neural Architecture Search based Global-local Vision Mamba for Palm-Vein Recognition [[paper](https://arxiv.org/abs/2408.05743)] (2024.08.11)
 - MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model [[paper](https://arxiv.org/abs/2408.06400)] (2024.08.12)
 - Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval [[paper](https://arxiv.org/abs/2408.08066)] (2024.08.15)
@@ -333,6 +332,7 @@ Enjoy it below!
 <span id="head7"></span>
 
 ###  Multi-Modal
+* (NeurIPS 2024) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models [[paper](https://arxiv.org/abs/2403.09471)] [[code](https://github.com/kkakkkka/MambaTalk)] (2024.03.14) ![Stars](https://img.shields.io/github/stars/kkakkkka/MambaTalk) 
 * VL-Mamba: Exploring State Space Models for Multimodal Learning [[paper](https://arxiv.org/abs/2403.13600)] [[code](https://github.com/ZhengYu518/VL-Mamba)] (2024.03.20) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba) 
 * Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[paper](https://arxiv.org/abs/2403.14520)] [[code](https://sites.google.com/view/cobravlm)] (2024.03.21)
 * SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[paper](https://arxiv.org/abs/2404.01174)] (2024.04.01)
