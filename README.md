@@ -68,6 +68,7 @@ Enjoy it below!
 * MambaLRP: Explaining Selective State Space Sequence Models [[paper](https://arxiv.org/abs/2406.07592)] (2024.06.11)
 * Towards a theory of learning dynamics in deep state space models [[paper](https://arxiv.org/abs/2407.07279)] (2024.07.10)
 * Lambda-Skip Connections: the architectural component that prevents Rank Collapse [[paper](https://arxiv.org/abs/2410.10609)] (2024.10.14)
+* Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention [[paper](https://arxiv.org/abs/2502.01473)] (2025.02.03)
 
 <span id="head5"></span>
 ###  Vision
@@ -290,9 +291,19 @@ Enjoy it below!
 - (AAAI 2025) Robust Tracking via Mamba-based Context-aware Token Learning [[paper](https://arxiv.org/abs/2412.13611)] (2024.12.18)
 - (AAAI 2025) Efficient Self-Supervised Video Hashing with Selective State Spaces [[paper](https://arxiv.org/abs/2412.14518)] [[code](https://github.com/gimpong/AAAI25-S5VH)] (2024.12.19)
 - (ICASSP 2025) Trusted Mamba Contrastive Network for Multi-View Clustering [[paper](https://arxiv.org/abs/2412.16487)] [[code](https://github.com/HackerHyper/TMCN)] (2024.12.21)
+- (IEEE Geoscience and Remote Sensing Letters) PPMamba: Enhancing Semantic Segmentation in Remote Sensing Imagery by SS2D [[paper](https://ieeexplore.ieee.org/document/10769411)] [[code](https://github.com/Jerrymo59/PPMambaSeg)] (2024.12.27)
 - (WACV 2025) PTQ4VM: Post-Training Quantization for Visual Mamba [[paper](https://arxiv.org/abs/2412.20386)] [[code](https://github.com/YoungHyun197/ptq4vm)] (2024.12.29)
 - H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving [[paper](https://arxiv.org/abs/2501.04302)] [[code](https://github.com/Sranc3/H-MBA)] (2025.01.08)
 - (Artificial Intelligence in Agriculture) PAB-Mamba-YOLO: VSSM assists in YOLO for aggressive behavior detection among weaned piglets [[paper](https://www.sciencedirect.com/science/article/pii/S2589721725000017)] (2025.01.01)
+- (IEEE Geoscience and Remote Sensing Letters) A Mamba-Aware Spatial–Spectral Cross-Modal Network for Remote Sensing Classification [[paper](https://ieeexplore.ieee.org/document/10829637)] [[code](https://github.com/ru-willow/CMSI-Mamba)] (2025.01.06)
+- H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving [[paper](https://arxiv.org/abs/2501.04302)] (2025.01.08)
+- MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection [[paper](https://arxiv.org/abs/2501.06138)] [[code](https://github.com/thearkaprava/MS-Temba)] (2025.01.10)
+- Mamba-MOC: A Multicategory Remote Object Counting via State Space Model [[paper](https://arxiv.org/abs/2501.06697)] (2025.01.12)
+- Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2501.07260)] (2025.01.13)
+- WMamba: Wavelet-based Mamba for Face Forgery Detection [[paper](https://arxiv.org/abs/2501.09617)] (2025.01.16)
+- MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods [[paper](https://arxiv.org/abs/2501.13484)] [[code](https://github.com/mambaquant/mambaquant)] (2025.01.23)
+- (NAACL-25) Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models [[paper](https://arxiv.org/abs/2501.17088)] [[code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)] (2025.01.28)
+- HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution [[paper](https://arxiv.org/abs/2501.18500)] (2025.01.30)
 
 <span id="head6"></span>
 
@@ -553,6 +564,8 @@ Enjoy it below!
 
 - KM-UNet KAN Mamba UNet for medical image segmentation [[paper](https://arxiv.org/abs/2501.02559)] [[code](https://github.com/2760613195/KM_UNet)] (2025.01.05)
 
+- (IEEE Transactions on Geoscience and Remote Sensing) RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal [[paper](https://ieeexplore.ieee.org/document/10833852)] (2025.01.08)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -580,6 +593,7 @@ Enjoy it below!
 * XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring [[paper](https://arxiv.org/abs/2412.10338)] (2024.12.13)
 * GG-SSMs: Graph-Generating State Space Models [[paper](https://arxiv.org/abs/2412.12423)] (2024.12.17)
 * (AAAI 2025) MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights [[paper](https://arxiv.org/abs/2412.16483)] (2024.12.21)
+* Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space [[paper](https://arxiv.org/abs/2501.15461)] (2025.01.26)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -596,6 +610,7 @@ Enjoy it below!
 * Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[paper](https://arxiv.org/abs/2406.17442)] (2024.06.25)
 * Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation [[paper](https://arxiv.org/abs/2409.11018)] (2024.09.17)
 * (AAAI 2025) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[paper](https://arxiv.org/abs/2412.17366)] (2024.12.23)
+* (WACV 2025, workshop) MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling [[paper](https://arxiv.org/abs/2501.16384)] (2025.01.25)
 
 <span id="head12"></span>
 ### Time Series
@@ -685,8 +700,10 @@ Enjoy it below!
 * Bidirectional Gated Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2408.11451)] [[code](https://github.com/ziwliu-cityu/SIMGA)] (2024.08.21)
 * SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2409.01192)] [[code](https://github.com/ZhangYifeng1995/SSD4Rec)] (2024.09.02)
 * TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model [[paper](https://arxiv.org/abs/2409.16182)] [[code](https://github.com/AlwaysFHao/TiM4Rec)] (2024.09.24)
+* SS4Rec: Continuous-Time Sequential Recommendation with State Space Models [[paper](https://arxiv.org/abs/2502.08132)] [[code](https://github.com/XiaoWei-i/SS4Rec)] (2025.02.12)
 
 <span id="head15"></span>
+
 ### Reinforcement Learning
 * Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/abs/2403.19925)] [[code](https://github.com/toshihiro-ota/decision-mamba)] (2024.03.29)
 * Hierarchical Decision Mamba [[paper](https://arxiv.org/abs/2405.07943)] [[code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] (2024.05.13)
@@ -716,6 +733,7 @@ Enjoy it below!
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2405.14238)] (2024.05.23)
 * Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [[paper](https://arxiv.org/abs/2406.03430)] [[project](https://github.com/xmindflow/Awesome_Mamba)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2408.01129)] (2024.08.02)
+* A Survey on Mamba Architecture for Vision Applications [[paper](https://arxiv.org/abs/2502.07161)] (2025.02.11)
 
 <span id="head17"></span>
 ##  Tutorials
