@@ -304,6 +304,14 @@ Enjoy it below!
 - MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods [[paper](https://arxiv.org/abs/2501.13484)] [[code](https://github.com/mambaquant/mambaquant)] (2025.01.23) ![Stars](https://img.shields.io/github/stars/mambaquant/mambaquant) 
 - (NAACL-25) Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models [[paper](https://arxiv.org/abs/2501.17088)] [[code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)] (2025.01.28) ![Stars](https://img.shields.io/github/stars/IntelLabs/Hardware-Aware-Automated-Machine-Learning) 
 - HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution [[paper](https://arxiv.org/abs/2501.18500)] (2025.01.30)
+- DCAMamba: Mamba-based Rapid Response DC Arc Fault Detection [[paper](https://arxiv.org/abs/2503.01264)] (2025.03.03)
+- Mamba base PKD for efficient knowledge compression [[paper](https://arxiv.org/abs/2503.01727)] (2025.03.03)
+- SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images [[paper](https://arxiv.org/abs/2503.02270)] (2025.03.04)
+- JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba [[paper](https://arxiv.org/abs/2503.03437)] (2025.03.05)
+- Spectral State Space Model for Rotation-Invariant~Visual~Representation~Learning [[paper](https://arxiv.org/abs/2503.06369)] (2025.03.09)
+- Global-Aware Monocular Semantic Scene Completion with State Space Models [[paper](https://arxiv.org/abs/2503.06569)] (2025.03.09)
+- HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation [[paper](https://arxiv.org/abs/2503.06897)] (2025.03.10)
+- MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation [[paper](https://arxiv.org/abs/2503.07046)] (2025.03.10)
 
 <span id="head6"></span>
 
@@ -367,6 +375,7 @@ Enjoy it below!
 * EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[paper](https://arxiv.org/abs/2410.05938)] (2024.10.08)
 * MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[paper](https://arxiv.org/abs/2410.15015)] [[code](https://github.com/YueZhan721/MambaSOD)] (2024.10.19) ![Stars](https://img.shields.io/github/stars/YueZhan721/MambaSOD) 
 * AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[paper](https://arxiv.org/abs/2412.00833)] (2024.12.01)
+* M$^3$amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification [[paper](https://arxiv.org/abs/2503.06446)] [[code](https://github.com/kaka-Cao/M3amba)] (2025.03.09) ![Stars](https://img.shields.io/github/stars/kaka-Cao/M3amba) 
 
 <span id="head29"></span>
 
@@ -566,6 +575,10 @@ Enjoy it below!
 
 - (IEEE Transactions on Geoscience and Remote Sensing) RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal [[paper](https://ieeexplore.ieee.org/document/10833852)] (2025.01.08)
 
+- XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification [[paper](https://arxiv.org/abs/2503.02619)] [[code](https://github.com/XZheng0427/XFMamba)] (2025.03.04) ![Stars](https://img.shields.io/github/stars/XZheng0427/XFMamba) 
+
+- (Scientific Reports) Vision Mamba and xLSTM-UNet for medical image segmentation [[paper](https://www.nature.com/articles/s41598-025-88967-5)] (20254.03.10)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -611,6 +624,7 @@ Enjoy it below!
 * Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation [[paper](https://arxiv.org/abs/2409.11018)] (2024.09.17)
 * (AAAI 2025) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[paper](https://arxiv.org/abs/2412.17366)] (2024.12.23)
 * (WACV 2025, workshop) MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling [[paper](https://arxiv.org/abs/2501.16384)] (2025.01.25)
+* Spectral Informed Mamba for Robust Point Cloud Processing [[paper](https://arxiv.org/abs/2503.04953)] (2025.03.06)
 
 <span id="head12"></span>
 ### Time Series
@@ -717,7 +731,6 @@ Enjoy it below!
 * KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty [[paper](https://arxiv.org/abs/2406.15131)] (2024.06.21)
 * Context-aware Mamba-based Reinforcement Learning for social robot navigation [[paper](https://arxiv.org/abs/2408.02661)] (2024.08.05)
 * PTrajM: Efficient and Semantic-rich Trajectory Learning with Pretrained Trajectory-Mamba [[paper](https://arxiv.org/abs/2408.04916)] (2024.08.09)
-* Decision MetaMamba: Integrating Multi-Modal Input Token Mixer Into Mamba-Based Decision Models [[paper](https://arxiv.org/abs/2408.10517)] [[code](https://github.com/too-z/decision-metamamba)] (2024.08.20) ![Stars](https://img.shields.io/github/stars/too-z/decision-metamamba) 
 * Mamba as a motion encoder for robotic imitation learning [[paper](https://arxiv.org/abs/2409.02636)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
