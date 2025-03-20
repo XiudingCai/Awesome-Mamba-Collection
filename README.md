@@ -304,6 +304,7 @@ Enjoy it below!
 - MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods [[paper](https://arxiv.org/abs/2501.13484)] [[code](https://github.com/mambaquant/mambaquant)] (2025.01.23)
 - (NAACL-25) Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models [[paper](https://arxiv.org/abs/2501.17088)] [[code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning)] (2025.01.28)
 - HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution [[paper](https://arxiv.org/abs/2501.18500)] (2025.01.30)
+- DAViMNet: SSMs-Based Domain Adaptive Object Detection [[paper](https://arxiv.org/abs/2502.11178)] [[code](https://github.com/enesdoruk/DAVimNet)] (2025.02.16)
 - DCAMamba: Mamba-based Rapid Response DC Arc Fault Detection [[paper](https://arxiv.org/abs/2503.01264)] (2025.03.03)
 - Mamba base PKD for efficient knowledge compression [[paper](https://arxiv.org/abs/2503.01727)] (2025.03.03)
 - SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images [[paper](https://arxiv.org/abs/2503.02270)] (2025.03.04)
