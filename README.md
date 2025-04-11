@@ -52,6 +52,7 @@ Enjoy it below!
 * Jamba-1.5: Hybrid Transformer-Mamba Models at Scale [[paper](https://arxiv.org/abs/2408.12570)] (2024.08.22)
 * (ICCAD 2024) MARCA: Mamba Accelerator with ReConfigurable Architecture [[paper](https://arxiv.org/abs/2409.11440)] (2024.09.16)
 * S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
+* TransMamba: Flexibly Switching between Transformer and Mamba [[paper](https://arxiv.org/abs/2503.24067)] (2025.03.31)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -313,6 +314,27 @@ Enjoy it below!
 - Global-Aware Monocular Semantic Scene Completion with State Space Models [[paper](https://arxiv.org/abs/2503.06569)] (2025.03.09)
 - HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation [[paper](https://arxiv.org/abs/2503.06897)] (2025.03.10)
 - MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation [[paper](https://arxiv.org/abs/2503.07046)] (2025.03.10)
+- (CVPR 2025) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection [[paper](https://arxiv.org/abs/2503.12009)] (2025.03.15)
+- (CVPR 2025) MambaIC: State Space Models for High-Performance Learned Image Compression [[paper](https://arxiv.org/abs/2503.12461)] (2025.03.16)
+- Atlas: Multi-Scale Attention Improves Long Context Image Modeling [[paper](https://arxiv.org/abs/2503.12355)] (2025.03.16)
+- MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling [[paper](https://arxiv.org/abs/2503.13440)] (2025.03.17)
+- DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model [[paper](https://arxiv.org/abs/2503.13073)] [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)] (2025.03.17)
+- (AAAI 2025 Oral) Pose as a Modality: A Psychology-Inspired Network for Personality Recognition with a New Multimodal Dataset [[paper](https://arxiv.org/abs/2503.12912)] (2025.03.17)
+- (ICLR 2025) State Space Model Meets Transformer: A New Paradigm for 3D Object Detection [[paper](https://arxiv.org/abs/2503.07046)] (2025.03.18)
+- MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations [[paper](https://arxiv.org/abs/2503.13858)] (2025.03.18)
+- DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding [[paper](https://arxiv.org/abs/2503.16426)] [[code](https://github.com/KyanChen/DynamicVis)] (2025.03.20)
+- (CVPR 2025) Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing [[paper](https://arxiv.org/abs/2503.16134)] [[code](https://github.com/Clausy9/BMTNet)] (2025.03.20)
+- (CVPR 2025) SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer [[paper](https://arxiv.org/abs/2503.15934)] (2025.03.20)
+- GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model [[paper](https://arxiv.org/abs/2503.17903)] [[code](https://github.com/Yali-Fu/GLADMamba)] (2025.03.23)
+- EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction [[paper](https://arxiv.org/abs/2503.19721)] (2025.03.25)
+- Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration [[paper](https://arxiv.org/abs/2503.21970)] (2025.03.27)
+- (ICME 2025) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection [[paper](https://arxiv.org/abs/2503.21169)] (2025.03.27)
+- vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition [[paper](https://arxiv.org/abs/2503.21262)] (2025.03.27)
+- Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models [[paper](https://arxiv.org/abs/2503.22879)] (2025.03.28)
+- Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes [[paper](https://arxiv.org/abs/2504.01466)] (2025.04.02)
+- (CVPR 2025) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation [[paper](https://arxiv.org/abs/2504.03193)] (2025.04.04)
+- Dynamic Vision Mamba [[paper](https://arxiv.org/abs/2504.04787)] (2025.04.07)
+- (CVPR 2025) DefMamba: Deformable Visual State Space Model [[paper](https://arxiv.org/abs/2504.05794)] (2025.04.08)
 
 <span id="head6"></span>
 
@@ -580,6 +602,8 @@ Enjoy it below!
 
 - (Scientific Reports) Vision Mamba and xLSTM-UNet for medical image segmentation [[paper](https://www.nature.com/articles/s41598-025-88967-5)] (20254.03.10)
 
+- Leveraging State Space Models in Long Range Genomics [[paper](https://arxiv.org/abs/2504.06304)] (20254.04.07)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -626,6 +650,7 @@ Enjoy it below!
 * (AAAI 2025) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[paper](https://arxiv.org/abs/2412.17366)] (2024.12.23)
 * (WACV 2025, workshop) MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling [[paper](https://arxiv.org/abs/2501.16384)] (2025.01.25)
 * Spectral Informed Mamba for Robust Point Cloud Processing [[paper](https://arxiv.org/abs/2503.04953)] (2025.03.06)
+* TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba [[paper](https://arxiv.org/abs/2503.13004)] (2025.03.17)
 
 <span id="head12"></span>
 ### Time Series
@@ -668,6 +693,8 @@ Enjoy it below!
 * A Mamba Foundation Model for Time Series Forecasting [[paper](https://arxiv.org/abs/2411.02941)] (2024.11.05)
 * BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging [[paper](https://arxiv.org/abs/2411.01589)] (2024.11.21)
 * (BIBM 2024) EMO-Mamba: Multimodal Selective Structured State Space Model for Depression Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10822789)] (2024.12.03)
+* Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements [[paper](https://arxiv.org/abs/2504.02013)] (2025.04.02)
+* ms-Mamba: Multi-scale Mamba for Time-Series Forecasting [[paper](https://arxiv.org/abs/2504.07654)] (2025.04.10)
 
 <span id="head13"></span>
 
@@ -748,6 +775,7 @@ Enjoy it below!
 * Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [[paper](https://arxiv.org/abs/2406.03430)] [[project](https://github.com/xmindflow/Awesome_Mamba)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2408.01129)] (2024.08.02)
 * A Survey on Mamba Architecture for Vision Applications [[paper](https://arxiv.org/abs/2502.07161)] (2025.02.11)
+* A Survey on Structured State Space Sequence (S4) Models [[paper](https://arxiv.org/abs/2503.18970)] (2025.03.22)
 
 <span id="head17"></span>
 ##  Tutorials
