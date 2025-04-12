@@ -315,7 +315,7 @@ Enjoy it below!
 - HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation [[paper](https://arxiv.org/abs/2503.06897)] (2025.03.10)
 - MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation [[paper](https://arxiv.org/abs/2503.07046)] (2025.03.10)
 - (CVPR 2025) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection [[paper](https://arxiv.org/abs/2503.12009)] (2025.03.15)
-- (CVPR 2025) MambaIC: State Space Models for High-Performance Learned Image Compression [[paper](https://arxiv.org/abs/2503.12461)] (2025.03.16)
+- (CVPR 2025) MambaIC: State Space Models for High-Performance Learned Image Compression [[paper](https://arxiv.org/abs/2503.12461)] [[code](https://github.com/AuroraZengfh/MambaIC)] (2025.03.16) ![Stars](https://img.shields.io/github/stars/AuroraZengfh/MambaIC) 
 - Atlas: Multi-Scale Attention Improves Long Context Image Modeling [[paper](https://arxiv.org/abs/2503.12355)] (2025.03.16)
 - MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling [[paper](https://arxiv.org/abs/2503.13440)] (2025.03.17)
 - DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model [[paper](https://arxiv.org/abs/2503.13073)] [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)] (2025.03.17) ![Stars](https://img.shields.io/github/stars/mmic-lcl/Datasets-and-benchmark-code) 
