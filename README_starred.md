@@ -335,6 +335,12 @@ Enjoy it below!
 - (CVPR 2025) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation [[paper](https://arxiv.org/abs/2504.03193)] (2025.04.04)
 - Dynamic Vision Mamba [[paper](https://arxiv.org/abs/2504.04787)] (2025.04.07)
 - (CVPR 2025) DefMamba: Deformable Visual State Space Model [[paper](https://arxiv.org/abs/2504.05794)] (2025.04.08)
+- ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model [[paper](https://arxiv.org/abs/2504.11781)] (2025.04.16)
+- MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment [[paper](https://arxiv.org/abs/2504.16003)] (2025.04.22)
+- HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2504.15612)] (2025.04.22)
+- StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies [[paper](https://arxiv.org/abs/2504.17401)] (2025.04.24)
+- MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2504.20509)] (2025.04.29)
+- LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment [[paper](https://arxiv.org/abs/2505.00980)] (2025.05.02)
 
 <span id="head6"></span>
 
@@ -370,6 +376,8 @@ Enjoy it below!
 * Bi-Mamba: Towards Accurate 1-Bit State Space Models [[paper](https://arxiv.org/abs/2411.11843)] (2024.11.18)
 * Hymba: A Hybrid-head Architecture for Small Language Models [[paper](https://arxiv.org/abs/2411.13676)] (2024.11.20)
 * Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation [[paper](https://arxiv.org/abs/2411.15224)] (2024.11.21)
+* (AAAI 2025) DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34584)] [[code](https://github.com/Pengfei-Hu/DocMamba)] (2025.04.11) ![Stars](https://img.shields.io/github/stars/Pengfei-Hu/DocMamba) 
+* (ICLR 2025) LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement [[paper](https://arxiv.org/abs/2504.16053)] [[code](https://github.com/GATECH-EIC/LongMamba)] (2025.04.22) ![Stars](https://img.shields.io/github/stars/GATECH-EIC/LongMamba) 
 
 <span id="head7"></span>
 
@@ -399,6 +407,8 @@ Enjoy it below!
 * MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[paper](https://arxiv.org/abs/2410.15015)] [[code](https://github.com/YueZhan721/MambaSOD)] (2024.10.19) ![Stars](https://img.shields.io/github/stars/YueZhan721/MambaSOD) 
 * AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[paper](https://arxiv.org/abs/2412.00833)] (2024.12.01)
 * M$^3$amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification [[paper](https://arxiv.org/abs/2503.06446)] [[code](https://github.com/kaka-Cao/M3amba)] (2025.03.09) ![Stars](https://img.shields.io/github/stars/kaka-Cao/M3amba) 
+* (AAAI 2025) MSAmba: Exploring Multimodal Sentiment Analysis with State Space Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32120)] (2025.04.11)
+* ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting [[paper](https://arxiv.org/abs/2504.20630)] (2025.04.29)
 
 <span id="head29"></span>
 
@@ -436,6 +446,8 @@ Enjoy it below!
 * Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/abs/2409.07163)] [[code](https://andycao1125.github.io/mamba_policy)] (2024.09.04)
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * (NeurIPS 2024) DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation [[paper](https://arxiv.org/abs/2411.04168)] [[code](https://hao-pt.github.io/dimsum/)] (2024.11.06)
+* (CVPR 2025 eLVM workshop) U-Shape Mamba: State Space Model for faster diffusion [[paper](https://arxiv.org/abs/2504.13499)] [https://github.com/ErgastiAlex/U-Shape-Mamba] (2025.04.18)
+* Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation [[paper](https://arxiv.org/abs/2505.03314)] [[code](https://github.com/jinchengzhanggg/proffusion)] (2025.05.06) ![Stars](https://img.shields.io/github/stars/jinchengzhanggg/proffusion) 
 
 <span id="head8"></span>
 
@@ -598,11 +610,21 @@ Enjoy it below!
 
 - (IEEE Transactions on Geoscience and Remote Sensing) RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal [[paper](https://ieeexplore.ieee.org/document/10833852)] (2025.01.08)
 
+- (IEEE Internet of Things Journal) Fall-Mamba: A Multimodal Fusion and Masked Mamba-Based Approach for Fall Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10833684)] [[code](https://github.com/DHUspeech/fall-mamba)] (2025.01.08) ![Stars](https://img.shields.io/github/stars/DHUspeech/fall-mamba) 
+
 - XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification [[paper](https://arxiv.org/abs/2503.02619)] [[code](https://github.com/XZheng0427/XFMamba)] (2025.03.04) ![Stars](https://img.shields.io/github/stars/XZheng0427/XFMamba) 
 
-- (Scientific Reports) Vision Mamba and xLSTM-UNet for medical image segmentation [[paper](https://www.nature.com/articles/s41598-025-88967-5)] (20254.03.10)
+- (Scientific Reports) Vision Mamba and xLSTM-UNet for medical image segmentation [[paper](https://www.nature.com/articles/s41598-025-88967-5)] (2025.03.10)
 
-- Leveraging State Space Models in Long Range Genomics [[paper](https://arxiv.org/abs/2504.06304)] (20254.04.07)
+- Leveraging State Space Models in Long Range Genomics [[paper](https://arxiv.org/abs/2504.06304)] (2025.04.07)
+
+- (ISBI 2025) OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation [[paper](https://arxiv.org/abs/2504.09655)] (2025.04.13)
+
+- Mamba-Based Ensemble learning for White Blood Cell Classification [[paper](https://arxiv.org/abs/2504.11438)] [[code](https://github.com/LewisClifton/Mamba-WBC-Classification)] (2025.04.15) ![Stars](https://img.shields.io/github/stars/LewisClifton/Mamba-WBC-Classification) 
+
+- Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image [[paper](https://arxiv.org/abs/2504.21281)]  (2025.04.30)
+
+- (TMI 2025) Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation [[paper](https://ieeexplore.ieee.org/document/10980210)] [[code](https://github.com/orange-czh/Mamba-Sea)] (2025.04.30) ![Stars](https://img.shields.io/github/stars/orange-czh/Mamba-Sea) 
 
 <span id="head9"></span>
 
@@ -763,6 +785,7 @@ Enjoy it below!
 * DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization [[paper](https://arxiv.org/abs/2409.14719)] (2024.09.23)
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
 * Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games [[paper](https://arxiv.org/abs/2412.00725)] (2024.12.01)
+* Learning Local Causal World Models with State Space Models and Attention [[paper](https://arxiv.org/abs/2505.02074)] (2025.05.04)
 
 <span id="head16"></span>
 ###  Survey
@@ -775,7 +798,7 @@ Enjoy it below!
 * Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [[paper](https://arxiv.org/abs/2406.03430)] [[project](https://github.com/xmindflow/Awesome_Mamba)] (2024.05.07)
 * Surveying Image Segmentation Approaches in Astronomy [[paper](https://arxiv.org/abs/2408.01129)] (2024.08.02)
 * A Survey on Mamba Architecture for Vision Applications [[paper](https://arxiv.org/abs/2502.07161)] (2025.02.11)
-* A Survey on Structured State Space Sequence (S4) Models [[paper](https://arxiv.org/abs/2503.18970)] (2025.03.22)
+* Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook [[paper](https://arxiv.org/abs/2505.00630)] (2025.05.01)
 
 <span id="head17"></span>
 ##  Tutorials
