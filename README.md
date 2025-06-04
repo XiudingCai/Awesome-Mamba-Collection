@@ -53,6 +53,7 @@ Enjoy it below!
 * (ICCAD 2024) MARCA: Mamba Accelerator with ReConfigurable Architecture [[paper](https://arxiv.org/abs/2409.11440)] (2024.09.16)
 * S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
 * TransMamba: Flexibly Switching between Transformer and Mamba [[paper](https://arxiv.org/abs/2503.24067)] (2025.03.31)
+* Sparsified State-Space Models are Efficient Highway Networks [[paper](https://arxiv.org/abs/2505.20698)] [[openreview](https://openreview.net/forum?id=G1p0YwrX8X)] [[code](https://github.com/woominsong/Simba)] (2025.03.22)
 
 <span id="head4"></span>
 ### Theoretical Analysis
@@ -378,6 +379,7 @@ Enjoy it below!
 * Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation [[paper](https://arxiv.org/abs/2411.15224)] (2024.11.21)
 * (AAAI 2025) DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34584)] [[code](https://github.com/Pengfei-Hu/DocMamba)] (2025.04.11)
 * (ICLR 2025) LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement [[paper](https://arxiv.org/abs/2504.16053)] [[code](https://github.com/GATECH-EIC/LongMamba)] (2025.04.22)
+* Mamba Drafters for Speculative Decoding [[paper](https://arxiv.org/abs/2506.01206)] (2025.06.01)
 
 <span id="head7"></span>
 
