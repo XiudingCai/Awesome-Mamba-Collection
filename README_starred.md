@@ -70,6 +70,8 @@ Enjoy it below!
 * Towards a theory of learning dynamics in deep state space models [[paper](https://arxiv.org/abs/2407.07279)] (2024.07.10)
 * Lambda-Skip Connections: the architectural component that prevents Rank Collapse [[paper](https://arxiv.org/abs/2410.10609)] (2024.10.14)
 * Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention [[paper](https://arxiv.org/abs/2502.01473)] (2025.02.03)
+* EVM-Fusion: An Explainable Vision Mamba Architecture with Neural Algorithmic Fusion [[paper](https://arxiv.org/abs/2505.17367)] (2025.05.23)
+* (ACL 2025) Mamba Knockout for Unraveling Factual Information Flow [[paper](https://arxiv.org/abs/2505.24244)] (2025.05.30)
 
 <span id="head5"></span>
 ###  Vision
@@ -158,7 +160,7 @@ Enjoy it below!
 - LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[paper](https://arxiv.org/abs/2406.01028)] (2024.06.03)
 - GrootVL: Tree Topology is All You Need in State Space Model [[paper](https://arxiv.org/abs/2406.02395)] [[code](https://github.com/EasonXiao-888/GrootVL)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL) 
 - Feasibility of State Space Models for Network Traffic Generation [[paper](https://arxiv.org/abs/2406.02784)] (2024.06.04)
-- Rethinking Spiking Neural Networks as State Space Models [[paper](https://arxiv.org/abs/2406.02923)] (2024.06.05)
+- (ICLR 2025) Rethinking Spiking Neural Networks as State Space Models [[paper](https://arxiv.org/abs/2406.02923)] (2024.06.05)
 - Learning 1D Causal Visual Representation with De-focus Attention Networks [[paper](https://arxiv.org/abs/2406.04342)] (2024.06.06)
 - MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation [[paper](https://arxiv.org/abs/2406.04532)] (2024.06.06)
 - Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs [[paper](https://arxiv.org/abs/2406.05038)] (2024.06.07)
@@ -341,6 +343,12 @@ Enjoy it below!
 - StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies [[paper](https://arxiv.org/abs/2504.17401)] (2025.04.24)
 - MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification [[paper](https://arxiv.org/abs/2504.20509)] (2025.04.29)
 - LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment [[paper](https://arxiv.org/abs/2505.00980)] (2025.05.02)
+- WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing [[paper](https://arxiv.org/abs/2505.04369)]  [[code](https://github.com/SunJ000/WDMamba)] (2025.05.07 ![Stars](https://img.shields.io/github/stars/SunJ000/WDMamba) 
+- HuMoGen Workshop) Dyadic Mamba: Long-term Dyadic Human Motion Synthesis [[paper](https://arxiv.org/abs/2505.09827)] (2025.05.14)
+- (CVPR 2025) Mamba-Adaptor: State Space Model Adaptor for Visual Recognition [[paper](https://arxiv.org/abs/2505.12685)] (2025.05.19)
+- FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization [[paper](https://arxiv.org/abs/2505.18975)] (2025.05.25)
+- Long-Context State-Space Video World Models [[paper](https://arxiv.org/abs/2505.20171)] (2025.05.26)
+- Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation [[paper](https://arxiv.org/abs/2505.20611)] (2025.05.27)
 
 <span id="head6"></span>
 
@@ -378,6 +386,8 @@ Enjoy it below!
 * Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation [[paper](https://arxiv.org/abs/2411.15224)] (2024.11.21)
 * (AAAI 2025) DocMamba: Efficient Document Pre-training with State Space Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34584)] [[code](https://github.com/Pengfei-Hu/DocMamba)] (2025.04.11) ![Stars](https://img.shields.io/github/stars/Pengfei-Hu/DocMamba) 
 * (ICLR 2025) LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement [[paper](https://arxiv.org/abs/2504.16053)] [[code](https://github.com/GATECH-EIC/LongMamba)] (2025.04.22) ![Stars](https://img.shields.io/github/stars/GATECH-EIC/LongMamba) 
+* Block-Biased Mamba for Long-Range Sequence Processing [[paper](https://arxiv.org/abs/2505.09022)] (2024.05.13)
+* Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments [[paper](https://arxiv.org/abs/2505.08299)] (2025.05.13)
 
 <span id="head7"></span>
 
@@ -409,6 +419,7 @@ Enjoy it below!
 * M$^3$amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification [[paper](https://arxiv.org/abs/2503.06446)] [[code](https://github.com/kaka-Cao/M3amba)] (2025.03.09) ![Stars](https://img.shields.io/github/stars/kaka-Cao/M3amba) 
 * (AAAI 2025) MSAmba: Exploring Multimodal Sentiment Analysis with State Space Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32120)] (2025.04.11)
 * ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting [[paper](https://arxiv.org/abs/2504.20630)] (2025.04.29)
+* TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis [[paper](https://arxiv.org/abs/2505.14329)] (2025.05.20)
 
 <span id="head29"></span>
 
@@ -626,6 +637,10 @@ Enjoy it below!
 
 - (TMI 2025) Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation [[paper](https://ieeexplore.ieee.org/document/10980210)] [[code](https://github.com/orange-czh/Mamba-Sea)] (2025.04.30) ![Stars](https://img.shields.io/github/stars/orange-czh/Mamba-Sea) 
 
+- MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction [[paper](https://arxiv.org/abs/2505.09965https://arxiv.org/abs/2505.09965)] (2025.05.15)
+
+- Graph Mamba for Efficient Whole Slide Image Understanding [[paper](https://arxiv.org/abs/2505.17457)] (2025.05.23)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -673,6 +688,10 @@ Enjoy it below!
 * (WACV 2025, workshop) MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling [[paper](https://arxiv.org/abs/2501.16384)] (2025.01.25)
 * Spectral Informed Mamba for Robust Point Cloud Processing [[paper](https://arxiv.org/abs/2503.04953)] (2025.03.06)
 * TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba [[paper](https://arxiv.org/abs/2503.13004)] (2025.03.17)
+* PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model [[paper](https://arxiv.org/abs/2505.05397)] (2025.05.08)
+* SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds [[paper](https://arxiv.org/abs/2505.10601)] (2025.05.15)
+* Latent Mamba Operator for Partial Differential Equations [[paper](https://arxiv.org/abs/2505.19105)] (2025.05.25)
+* (CVPR 2025) PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter [[paper](https://arxiv.org/abs/2505.20941)] [[code](https://github.com/zyh16143998882/PMA)] (2025.05.27) ![Stars](https://img.shields.io/github/stars/zyh16143998882/PMA) 
 
 <span id="head12"></span>
 ### Time Series
@@ -717,6 +736,9 @@ Enjoy it below!
 * (BIBM 2024) EMO-Mamba: Multimodal Selective Structured State Space Model for Depression Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10822789)] (2024.12.03)
 * Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements [[paper](https://arxiv.org/abs/2504.02013)] (2025.04.02)
 * ms-Mamba: Multi-scale Mamba for Time-Series Forecasting [[paper](https://arxiv.org/abs/2504.07654)] (2025.04.10)
+* Byte Pair Encoding for Efficient Time Series Forecasting [[paper](https://arxiv.org/abs/2505.14411)] (2025.05.20)
+* FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model [[paper](https://arxiv.org/abs/2505.16083)] (2025.05.21)
+* (ICML 2025) TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state [[paper](https://arxiv.org/abs/2505.20774)] [[code](https://github.com/xwmaxwma/TimePro)] (2025.05.27) ![Stars](https://img.shields.io/github/stars/xwmaxwma/TimePro) 
 
 <span id="head13"></span>
 
@@ -751,6 +773,7 @@ Enjoy it below!
 * (SLT 2024) Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition [[paper](https://arxiv.org/abs/2411.06968)] [[code](https://github.com/YoshikiMas/madeon-asr)] (2024.11.11) ![Stars](https://img.shields.io/github/stars/YoshikiMas/madeon-asr) 
 * XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection [[paper](https://arxiv.org/abs/2411.10027)] (2024.11.15)
 * MASV: Speaker Verification with Global and Local Context Mamba [[paper](https://arxiv.org/abs/2412.10989)] (2024.12.14)
+* (Interspeech 2025) Universal Speech Enhancement with Regression and Generative Mamba [[paper](https://arxiv.org/abs/2505.21198)] (2025.05.27)
 
 <span id="head14"></span>
 
@@ -765,6 +788,7 @@ Enjoy it below!
 * SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation [[paper](https://arxiv.org/abs/2409.01192)] [[code](https://github.com/ZhangYifeng1995/SSD4Rec)] (2024.09.02) ![Stars](https://img.shields.io/github/stars/ZhangYifeng1995/SSD4Rec) 
 * TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model [[paper](https://arxiv.org/abs/2409.16182)] [[code](https://github.com/AlwaysFHao/TiM4Rec)] (2024.09.24) ![Stars](https://img.shields.io/github/stars/AlwaysFHao/TiM4Rec) 
 * SS4Rec: Continuous-Time Sequential Recommendation with State Space Models [[paper](https://arxiv.org/abs/2502.08132)] [[code](https://github.com/XiaoWei-i/SS4Rec)] (2025.02.12) ![Stars](https://img.shields.io/github/stars/XiaoWei-i/SS4Rec) 
+* HMamba: Hyperbolic Mamba for Sequential Recommendation [[paper](https://arxiv.org/abs/2505.09205)] (2025.05.14)
 
 <span id="head15"></span>
 
@@ -786,6 +810,8 @@ Enjoy it below!
 * Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability [[paper](https://arxiv.org/abs/2409.16824)] (2024.09.25)
 * Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games [[paper](https://arxiv.org/abs/2412.00725)] (2024.12.01)
 * Learning Local Causal World Models with State Space Models and Attention [[paper](https://arxiv.org/abs/2505.02074)] (2025.05.04)
+* MTIL: Encoding Full History with Mamba for Temporal Imitation Learning [[paper](https://arxiv.org/abs/2505.12410)] [[code](https://github.com/yulinzhouZYL/MTIL)] (2024.05.18) ![Stars](https://img.shields.io/github/stars/yulinzhouZYL/MTIL) 
+* Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [[paper](https://arxiv.org/abs/2406.02013)] [[code](https://github.com/AndyCao1125/MambaDM)] (2024.06.04) ![Stars](https://img.shields.io/github/stars/AndyCao1125/MambaDM) 
 
 <span id="head16"></span>
 ###  Survey
