@@ -349,6 +349,20 @@ Enjoy it below!
 - FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization [[paper](https://arxiv.org/abs/2505.18975)] (2025.05.25)
 - Long-Context State-Space Video World Models [[paper](https://arxiv.org/abs/2505.20171)] (2025.05.26)
 - Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation [[paper](https://arxiv.org/abs/2505.20611)] (2025.05.27)
+- (Scientific Reports) A lightweight high-frequency mamba network for image super-resolution [[paper](https://www.nature.com/articles/s41598-025-11663-x)] (2025.07.17)
+- GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation [[paper](https://arxiv.org/abs/2507.13803)] (2025.07.18)
+- (ICCV 2025) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction [[paper](https://arxiv.org/abs/2507.15212)] (2025.07.21)
+- AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection [[paper](https://arxiv.org/abs/2507.16172)] (2025.07.22)
+- A2Mamba: Attention-augmented State Space Models for Visual Recognition [[paper](https://arxiv.org/abs/2507.16624)] (2025.07.22)
+- Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video [[paper](https://arxiv.org/abs/2507.16342)] (2025.07.22)
+- WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection [[paper](https://arxiv.org/abs/2507.18173)] (2025.07.24)
+- (IROS 2025) HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation [[paper](https://arxiv.org/abs/2507.18575)]  [[code](https://github.com/deepinact/HybridTM)] (2025.07.24)
+- GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution [[paper](https://arxiv.org/abs/2507.18998)] [[code](https://github.com/yongsongH/GPSMamba)] (2025.07.25)
+- Hypergraph Mamba Reasoning-Based Social Relation Recognition [[paper](https://ieeexplore.ieee.org/document/11104994)] (2025.07.30)
+- (ACMMM 2025) DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal [[paper](https://arxiv.org/abs/2508.02113)] [[code](https://github.com/BNU-ERC-ITEA/DeflareMamba)] (2025.08.04)
+- CMIC: Content-Adaptive Mamba for Learned Image Compression [[paper](https://arxiv.org/abs/2508.02192)] (2025.08.04)
+- (ICCAD 2025) Mamba-X: An End-to-End Vision Mamba Accelerator for Edge Computing Devices [[paper](https://arxiv.org/abs/2508.02977)] (2025.08.05)
+- Few-Shot Object Detection via Spatial-Channel State Space Model [[paper](https://arxiv.org/abs/2507.15308)] (2025.08.21)
 
 <span id="head6"></span>
 
@@ -641,6 +655,20 @@ Enjoy it below!
 
 - Graph Mamba for Efficient Whole Slide Image Understanding [[paper](https://arxiv.org/abs/2505.17457)] (2025.05.23)
 
+- DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification [[paper](https://arxiv.org/abs/2507.15487)] (2025.07.21)
+
+- MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI [[paper](https://arxiv.org/abs/2507.17678)] (2025.07.23)
+
+- SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection [[paper](https://arxiv.org/abs/2507.19076)] [[code](https://github.com/Ray-RuiPan/SP-Mamba)] (2025.07.25)
+
+- (TOMM) MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation [[paper](https://arxiv.org/abs/2507.19931)] [[code](https://github.com/CC0117/MambaVesselNet)] (2025.07.26)
+
+- (MICCAI MLMI 2025 Workshop) ClinicalFMamba: Advancing Clinical Assessment using Mamba-based Multimodal Neuroimaging Fusion [[paper](https://arxiv.org/abs/2508.03008v1)] (2025.08.05)
+
+- (BioCAS 2025) MedMambaLite: Hardware-Aware Mamba for Medical Image Classification [[paper](https://arxiv.org/abs/2508.05049)] (2025.08.07)
+
+- MSGM: A Multi-Scale Spatiotemporal Graph Mamba for EEG Emotion Recognition [[paper](https://arxiv.org/abs/2507.15914)] (2025.08.21)
+
 <span id="head9"></span>
 
 ### Tabular Data
@@ -692,6 +720,8 @@ Enjoy it below!
 * SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds [[paper](https://arxiv.org/abs/2505.10601)] (2025.05.15)
 * Latent Mamba Operator for Partial Differential Equations [[paper](https://arxiv.org/abs/2505.19105)] (2025.05.25)
 * (CVPR 2025) PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter [[paper](https://arxiv.org/abs/2505.20941)] [[code](https://github.com/zyh16143998882/PMA)] (2025.05.27)
+* PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining [[paper](https://arxiv.org/abs/2507.17296)] (2025.07.23)
+* (MM 2025) PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter [[paper](https://arxiv.org/abs/2507.19778)] [[code](https://github.com/Point-Cloud-Learning/HydraMamba)] (2025.05.27)
 
 <span id="head12"></span>
 ### Time Series
@@ -739,6 +769,7 @@ Enjoy it below!
 * Byte Pair Encoding for Efficient Time Series Forecasting [[paper](https://arxiv.org/abs/2505.14411)] (2025.05.20)
 * FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model [[paper](https://arxiv.org/abs/2505.16083)] (2025.05.21)
 * (ICML 2025) TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state [[paper](https://arxiv.org/abs/2505.20774)] [[code](https://github.com/xwmaxwma/TimePro)] (2025.05.27)
+* FlowState: Sampling Rate Invariant Time Series Forecasting [[paper](https://arxiv.org/abs/2508.05287)] (2025.08.07)
 
 <span id="head13"></span>
 
