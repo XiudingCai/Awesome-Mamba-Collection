@@ -434,7 +434,7 @@ Enjoy it below!
 * (AAAI 2025) MSAmba: Exploring Multimodal Sentiment Analysis with State Space Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32120)] (2025.04.11)
 * ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting [[paper](https://arxiv.org/abs/2504.20630)] (2025.04.29)
 * TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis [[paper](https://arxiv.org/abs/2505.14329)] (2025.05.20)
-* MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2507.04369)] [[code](https://github.com/AutoLab-SAI-SJTU/MambaFusion)] (2025.07.06)
+* (ICCV 2025) MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection [[paper](https://arxiv.org/abs/2507.04369)] [[code](https://github.com/AutoLab-SAI-SJTU/MambaFusion)] (2025.07.06)
 
 <span id="head29"></span>
 
