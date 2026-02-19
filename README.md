@@ -771,6 +771,7 @@ Enjoy it below!
 * FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model [[paper](https://arxiv.org/abs/2505.16083)] (2025.05.21)
 * (ICML 2025) TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state [[paper](https://arxiv.org/abs/2505.20774)] [[code](https://github.com/xwmaxwma/TimePro)] (2025.05.27)
 * FlowState: Sampling Rate Invariant Time Series Forecasting [[paper](https://arxiv.org/abs/2508.05287)] (2025.08.07)
+* Bidirectional Mamba state-space model for anomalous diffusion [[paper](https://iopscience.iop.org/article/10.1088/2515-7647/add42c/meta)] (2025.05.13)
 
 <span id="head13"></span>
 
