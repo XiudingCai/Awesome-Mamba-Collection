@@ -698,6 +698,7 @@ Enjoy it below!
 * GG-SSMs: Graph-Generating State Space Models [[paper](https://arxiv.org/abs/2412.12423)] (2024.12.17)
 * (AAAI 2025) MOL-Mamba: Enhancing Molecular Representation with Structural & Electronic Insights [[paper](https://arxiv.org/abs/2412.16483)] (2024.12.21)
 * Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space [[paper](https://arxiv.org/abs/2501.15461)] (2025.01.26)
+* (NeurIPS 2025) DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs [[paper](https://arxiv.org/abs/2408.06966)] [[code](https://github.com/Clearloveyuan/DyG-Mamba)] (2025.08.13)
 
 <span id="head11"></span>
 ### Point Cloud
@@ -767,11 +768,11 @@ Enjoy it below!
 * (BIBM 2024) EMO-Mamba: Multimodal Selective Structured State Space Model for Depression Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10822789)] (2024.12.03)
 * Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements [[paper](https://arxiv.org/abs/2504.02013)] (2025.04.02)
 * ms-Mamba: Multi-scale Mamba for Time-Series Forecasting [[paper](https://arxiv.org/abs/2504.07654)] (2025.04.10)
+* Bidirectional Mamba state-space model for anomalous diffusion [[paper](https://iopscience.iop.org/article/10.1088/2515-7647/add42c/meta)] (2025.05.13)
 * Byte Pair Encoding for Efficient Time Series Forecasting [[paper](https://arxiv.org/abs/2505.14411)] (2025.05.20)
 * FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model [[paper](https://arxiv.org/abs/2505.16083)] (2025.05.21)
 * (ICML 2025) TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state [[paper](https://arxiv.org/abs/2505.20774)] [[code](https://github.com/xwmaxwma/TimePro)] (2025.05.27)
 * FlowState: Sampling Rate Invariant Time Series Forecasting [[paper](https://arxiv.org/abs/2508.05287)] (2025.08.07)
-* Bidirectional Mamba state-space model for anomalous diffusion [[paper](https://iopscience.iop.org/article/10.1088/2515-7647/add42c/meta)] (2025.05.13)
 
 <span id="head13"></span>
 
