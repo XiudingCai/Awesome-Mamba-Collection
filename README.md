@@ -403,6 +403,8 @@ Enjoy it below!
 * Block-Biased Mamba for Long-Range Sequence Processing [[paper](https://arxiv.org/abs/2505.09022)] (2024.05.13)
 * Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments [[paper](https://arxiv.org/abs/2505.08299)] (2025.05.13)
 
+* S₀ Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models [[paper](https://arxiv.org/abs/2604.01168)] [[code](https://github.com/JackYoung27/s0-tuning)] (2026.03)
+
 <span id="head7"></span>
 
 ###  Multi-Modal
