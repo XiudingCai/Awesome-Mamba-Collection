@@ -363,6 +363,7 @@ Enjoy it below!
 - CMIC: Content-Adaptive Mamba for Learned Image Compression [[paper](https://arxiv.org/abs/2508.02192)] (2025.08.04)
 - (ICCAD 2025) Mamba-X: An End-to-End Vision Mamba Accelerator for Edge Computing Devices [[paper](https://arxiv.org/abs/2508.02977)] (2025.08.05)
 - Few-Shot Object Detection via Spatial-Channel State Space Model [[paper](https://arxiv.org/abs/2507.15308)] (2025.08.21)
+- (CVPR 2025) MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2509.00649)] [[code](https://github.com/aviralchharia/MV-SSM)] (2025.08.31) ![Stars](https://img.shields.io/github/stars/aviralchharia/MV-SSM) 
 
 <span id="head6"></span>
 
