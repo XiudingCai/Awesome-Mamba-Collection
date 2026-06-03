@@ -13,6 +13,7 @@ Enjoy it below!
   - [ Architecture](#head3)
   - [Theoretical Analysis](#head4)
   - [ Vision](#head5)
+  - [ Graphics](#head30)
   - [ Language](#head6)
   - [ Multi-Modal](#head7)
   - [ Spatio-Temporal](#head29)
@@ -189,7 +190,7 @@ Enjoy it below!
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[paper](https://arxiv.org/abs/2407.08333)] [[code](https://github.com/rcao-hk/SR-Mamba)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/rcao-hk/SR-Mamba) 
 - DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[paper](https://arxiv.org/abs/2407.08132)] [[code](https://github.com/Another-0/DMM)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/Another-0/DMM) 
 - Parallelizing Autoregressive Generation with Variational State Space Models [[paper](https://arxiv.org/abs/2407.08415)] (2024.07.11)
-- Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12)
+- Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12) ![Stars](https://img.shields.io/github/stars/humansensinglab/Hamba) 
 - InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
 - Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
@@ -364,6 +365,11 @@ Enjoy it below!
 - (ICCAD 2025) Mamba-X: An End-to-End Vision Mamba Accelerator for Edge Computing Devices [[paper](https://arxiv.org/abs/2508.02977)] (2025.08.05)
 - Few-Shot Object Detection via Spatial-Channel State Space Model [[paper](https://arxiv.org/abs/2507.15308)] (2025.08.21)
 - (CVPR 2025) MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation [[paper](https://arxiv.org/abs/2509.00649)] [[code](https://github.com/aviralchharia/MV-SSM)] (2025.08.31) ![Stars](https://img.shields.io/github/stars/aviralchharia/MV-SSM) 
+
+<span id="head30"></span>
+
+### Graphics
+- (CVPR 2026) Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation [[paper](https://arxiv.org/abs/2605.25220)] [[code](https://github.com/humansensinglab/MVCHead)] [[homepage](https://humansensinglab.github.io/MVCHead/)] (2026.05.24) ![Stars](https://img.shields.io/github/stars/humansensinglab/MVCHead) 
 
 <span id="head6"></span>
 
