@@ -95,7 +95,6 @@ Enjoy it below!
 - SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [[paper](https://arxiv.org/abs/2403.15360)] (2024.03.22)
 - PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [[paper](https://arxiv.org/abs/2403.17695)] [[code](https://github.com/ChenhongyiYang/PlainMamba)] (2024.03.26) ![Stars](https://img.shields.io/github/stars/ChenhongyiYang/PlainMamba) 
 - ReMamber: Referring Image Segmentation with Mamba Twister [[paper](https://arxiv.org/abs/2403.17839)] (2024.03.26)
-- Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[paper](https://arxiv.org/abs/2403.18795)] (2024.03.27)
 - RSMamba: Remote Sensing Image Classification with State Space Model [[paper](https://arxiv.org/abs/2403.19654)] [[code](https://github.com/KyanChen/RSMamba)] (2024.03.28) ![Stars](https://img.shields.io/github/stars/KyanChen/RSMamba) 
 - MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[paper](https://arxiv.org/abs/2403.19888)] (2024.03.29)
 - HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification [[paper](https://arxiv.org/abs/2404.00272)] (2024.03.30)
@@ -190,7 +189,7 @@ Enjoy it below!
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[paper](https://arxiv.org/abs/2407.08333)] [[code](https://github.com/rcao-hk/SR-Mamba)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/rcao-hk/SR-Mamba) 
 - DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[paper](https://arxiv.org/abs/2407.08132)] [[code](https://github.com/Another-0/DMM)] (2024.07.11) ![Stars](https://img.shields.io/github/stars/Another-0/DMM) 
 - Parallelizing Autoregressive Generation with Variational State Space Models [[paper](https://arxiv.org/abs/2407.08415)] (2024.07.11)
-- Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12) ![Stars](https://img.shields.io/github/stars/humansensinglab/Hamba) 
+- Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[paper](https://arxiv.org/abs/2407.09646)] [[code](https://humansensinglab.github.io/Hamba/)] (2024.07.12)
 - InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[paper](https://arxiv.org/abs/2407.10061)] [[code](https://steve-zeyu-zhang.github.io/InfiniMotion/)] (2024.07.14)
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[paper](https://arxiv.org/abs/2407.10923)] (2024.07.15)
 - Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism [[paper](https://arxiv.org/abs/2407.13078)] (2024.07.18)
@@ -258,9 +257,7 @@ Enjoy it below!
 - GlobalMamba: Global Image Serialization for Vision Mamba [[paper](https://arxiv.org/abs/2410.10316)] (2024.10.14)
 - V2M: Visual 2-Dimensional Mamba for Image Representation Learning [[paper](https://arxiv.org/abs/2410.10382)] (2024.10.14)
 - MambaBEV: An efficient 3D detection model with Mamba2 [[paper](https://arxiv.org/abs/2410.12673)] (2024.10.16)
-- MambaPainter: Neural Stroke-Based Rendering in a Single Step [[paper](https://arxiv.org/abs/2410.12524)] (2024.10.16)
 - Rethinking Token Reduction for State Space Models [[paper](https://arxiv.org/abs/2410.14725)] (2024.10.16)
-- Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats [[paper](https://arxiv.org/abs/2410.12781)] (2024.10.16)
 - RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images [[paper](https://arxiv.org/abs/2410.13532)] (2024.10.17)
 - Quamba: A Post-Training Quantization Recipe for Selective State Space Models [[paper](https://arxiv.org/abs/2410.13229)] (2024.10.17)
 - (NeurIPS 2024) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging [[paper](https://arxiv.org/abs/2410.14214)] [[code](https://github.com/PAN083/MambaSCI)] (2024.10.18) ![Stars](https://img.shields.io/github/stars/PAN083/MambaSCI) 
@@ -334,7 +331,6 @@ Enjoy it below!
 - (ICME 2025) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection [[paper](https://arxiv.org/abs/2503.21169)] (2025.03.27)
 - vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition [[paper](https://arxiv.org/abs/2503.21262)] (2025.03.27)
 - Quamba2: A Robust and Scalable Post-training Quantization Framework for Selective State Space Models [[paper](https://arxiv.org/abs/2503.22879)] (2025.03.28)
-- Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes [[paper](https://arxiv.org/abs/2504.01466)] (2025.04.02)
 - (CVPR 2025) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation [[paper](https://arxiv.org/abs/2504.03193)] (2025.04.04)
 - Dynamic Vision Mamba [[paper](https://arxiv.org/abs/2504.04787)] (2025.04.07)
 - (CVPR 2025) DefMamba: Deformable Visual State Space Model [[paper](https://arxiv.org/abs/2504.05794)] (2025.04.08)
@@ -352,7 +348,6 @@ Enjoy it below!
 - Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation [[paper](https://arxiv.org/abs/2505.20611)] (2025.05.27)
 - (Scientific Reports) A lightweight high-frequency mamba network for image super-resolution [[paper](https://www.nature.com/articles/s41598-025-11663-x)] (2025.07.17)
 - GRAM-MAMBA: Holistic Feature Alignment for Wireless Perception with Adaptive Low-Rank Compensation [[paper](https://arxiv.org/abs/2507.13803)] (2025.07.18)
-- (ICCV 2025) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction [[paper](https://arxiv.org/abs/2507.15212)] (2025.07.21)
 - AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection [[paper](https://arxiv.org/abs/2507.16172)] (2025.07.22)
 - A2Mamba: Attention-augmented State Space Models for Visual Recognition [[paper](https://arxiv.org/abs/2507.16624)] (2025.07.22)
 - Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video [[paper](https://arxiv.org/abs/2507.16342)] (2025.07.22)
@@ -369,6 +364,11 @@ Enjoy it below!
 <span id="head30"></span>
 
 ### Graphics
+- Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[paper](https://arxiv.org/abs/2403.18795)] (2024.03.27)
+- (SIGGRAPH Asia 2024) MambaPainter: Neural Stroke-Based Rendering in a Single Step [[paper](https://arxiv.org/abs/2410.12524)] [[code](https://github.com/STomoya/MambaPainter)] (2024.10.16) ![Stars](https://img.shields.io/github/stars/STomoya/MambaPainter) 
+- Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats [[paper](https://arxiv.org/abs/2410.12781)] (2024.10.16)
+- Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes [[paper](https://arxiv.org/abs/2504.01466)] (2025.04.02)
+- (ICCV 2025) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction [[paper](https://arxiv.org/abs/2507.15212)] (2025.07.21)
 - (CVPR 2026) Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation [[paper](https://arxiv.org/abs/2605.25220)] [[code](https://github.com/humansensinglab/MVCHead)] [[homepage](https://humansensinglab.github.io/MVCHead/)] (2026.05.24) ![Stars](https://img.shields.io/github/stars/humansensinglab/MVCHead) 
 
 <span id="head6"></span>
