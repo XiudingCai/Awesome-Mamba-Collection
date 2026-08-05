@@ -437,6 +437,7 @@ Enjoy it below!
 * EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[paper](https://arxiv.org/abs/2410.05938)] (2024.10.08)
 * MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[paper](https://arxiv.org/abs/2410.15015)] [[code](https://github.com/YueZhan721/MambaSOD)] (2024.10.19)
 * AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[paper](https://arxiv.org/abs/2412.00833)] (2024.12.01)
+* TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba [[paper]](https://arxiv.org/abs/2502.15130) [[code]](https://github.com/chen-xw/TransMamba-main) (2025.02.21)
 * M$^3$amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification [[paper](https://arxiv.org/abs/2503.06446)] [[code](https://github.com/kaka-Cao/M3amba)] (2025.03.09)
 * (AAAI 2025) MSAmba: Exploring Multimodal Sentiment Analysis with State Space Models [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32120)] (2025.04.11)
 * ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting [[paper](https://arxiv.org/abs/2504.20630)] (2025.04.29)
