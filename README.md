@@ -926,11 +926,16 @@ Enjoy it below!
 If you find this repository useful, please consider citing our paper:
 
 ```latex
-@article{cai2024mambats,
+@article{cai2026mambats,
   title={MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting},
-  author={Cai, Xiuding and Zhu, Yaoyao and Wang, Xueyao and Yao, Yu},
-  journal={arXiv preprint arXiv:2405.16440},
-  year={2024}
+  author={Cai, Xiuding and Wang, Xueyao and Zhu, Yaoyao and Yao, Yu},
+  journal={Pattern Recognition},
+  doi={https://doi.org/10.1016/j.patcog.2026.114536},
+  url={https://www.sciencedirect.com/science/article/pii/S0031320326015001},
+  issn={0031-3203},
+  volume={180},
+  pages={114536},
+  year={2026}
 }
 ```
 
